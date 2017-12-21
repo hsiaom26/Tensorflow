@@ -1,0 +1,5127 @@
+3232 malware.exe
+#263720000
+LoadLibrary
+lpFileName=C:\WINDOWS\system32\IMM32.DLL
+Return=76390000
+Return=SUCCESS
+#264530000
+LoadLibrary
+lpFileName=gdi32.dll
+Return=77f10000
+Return=SUCCESS
+#264260000
+LoadLibrary
+lpFileName=LPK.DLL
+Return=629c0000
+Return=SUCCESS
+#263560000
+LoadLibrary
+lpFileName=user32.dll
+Return=7e410000
+Return=SUCCESS
+#265330000
+RegQueryValue
+hKey=HKEY_LOCAL_MACHINE\SYSTEM\CurrentControlSet\Control\Session Manager\CriticalSectionTimeout
+Return=0
+Return=0
+#265340000
+RegQueryValue
+hKey=HKEY_LOCAL_MACHINE\Software\Microsoft\Ole\RWLockResourceTimeOut
+Return=2
+Return=2
+#264710000
+LoadLibrary
+lpFileName=oleaut32.dll
+Return=77120000
+Return=SUCCESS
+#266080000
+CreateFile
+hName=C:\WINDOWS\system32\svchosts.exe
+desiredAccess=GENERIC_WRITE 
+creationDisposition=CREATE_ALWAYS
+Return=50
+Return=SUCCESS
+#266080000
+CreateFile
+hName=C:\WINDOWS\system32\svchosts.exe
+desiredAccess=GENERIC_WRITE 
+creationDisposition=CREATE_ALWAYS
+Return=50
+Return=SUCCESS
+#266110000
+RegSetValue
+hKey=HKEY_LOCAL_MACHINE\SOFTWARE\MICROSOFT\WINDOWS\CURRENTVERSION\RUN\SvcHosts32
+type=REG_SZ
+data=C:\WINDOWS\system32\svchosts.exe
+Return=0
+Return=0
+#266130000
+CreateFile
+hName=C:\Documents and Settings\All Users\Desktop\malware.exe
+desiredAccess=GENERIC_READ 
+creationDisposition=OPEN_EXISTING
+Return=50
+Return=SUCCESS
+#266130000
+CopyFile
+lpExistingFileName=C:\Documents and Settings\All Users\Desktop\malware.exe
+lpNewFileName=C:\WINDOWS\system32\drivers32\Half-Life 2 No-Cd Crack.exe
+Return=1
+Return=SUCCESS
+#266470000
+CreateFile
+hName=C:\Documents and Settings\All Users\Desktop\malware.exe
+desiredAccess=GENERIC_READ 
+creationDisposition=OPEN_EXISTING
+Return=54
+Return=SUCCESS
+#266470000
+CopyFile
+lpExistingFileName=C:\Documents and Settings\All Users\Desktop\malware.exe
+lpNewFileName=C:\WINDOWS\system32\drivers32\Half-Life No-Cd Crack.exe
+Return=1
+Return=SUCCESS
+#266790000
+CreateFile
+hName=C:\Documents and Settings\All Users\Desktop\malware.exe
+desiredAccess=GENERIC_READ 
+creationDisposition=OPEN_EXISTING
+Return=50
+Return=SUCCESS
+#266790000
+CopyFile
+lpExistingFileName=C:\Documents and Settings\All Users\Desktop\malware.exe
+lpNewFileName=C:\WINDOWS\system32\drivers32\Half-Life II No-Cd Crack.exe
+Return=1
+Return=SUCCESS
+#267090000
+CreateFile
+hName=C:\Documents and Settings\All Users\Desktop\malware.exe
+desiredAccess=GENERIC_READ 
+creationDisposition=OPEN_EXISTING
+Return=54
+Return=SUCCESS
+#267090000
+CopyFile
+lpExistingFileName=C:\Documents and Settings\All Users\Desktop\malware.exe
+lpNewFileName=C:\WINDOWS\system32\drivers32\Knights of the Temple No-Cd Crack.exe
+Return=1
+Return=SUCCESS
+#267420000
+CreateFile
+hName=C:\Documents and Settings\All Users\Desktop\malware.exe
+desiredAccess=GENERIC_READ 
+creationDisposition=OPEN_EXISTING
+Return=50
+Return=SUCCESS
+#267420000
+CopyFile
+lpExistingFileName=C:\Documents and Settings\All Users\Desktop\malware.exe
+lpNewFileName=C:\WINDOWS\system32\drivers32\Tomb Raider - The Angel of Darkness No-Cd Crack.exe
+Return=1
+Return=SUCCESS
+#268000000
+CreateFile
+hName=C:\Documents and Settings\All Users\Desktop\malware.exe
+desiredAccess=GENERIC_READ 
+creationDisposition=OPEN_EXISTING
+Return=54
+Return=SUCCESS
+#268000000
+CopyFile
+lpExistingFileName=C:\Documents and Settings\All Users\Desktop\malware.exe
+lpNewFileName=C:\WINDOWS\system32\drivers32\Age of Mythology - The Titans No-Cd Crack.exe
+Return=1
+Return=SUCCESS
+#268290000
+CreateFile
+hName=C:\Documents and Settings\All Users\Desktop\malware.exe
+desiredAccess=GENERIC_READ 
+creationDisposition=OPEN_EXISTING
+Return=50
+Return=SUCCESS
+#268290000
+CopyFile
+lpExistingFileName=C:\Documents and Settings\All Users\Desktop\malware.exe
+lpNewFileName=C:\WINDOWS\system32\drivers32\Sniper Elite - Berlin 1943 No-Cd Crack.exe
+Return=1
+Return=SUCCESS
+#268640000
+CreateFile
+hName=C:\Documents and Settings\All Users\Desktop\malware.exe
+desiredAccess=GENERIC_READ 
+creationDisposition=OPEN_EXISTING
+Return=54
+Return=SUCCESS
+#268640000
+CopyFile
+lpExistingFileName=C:\Documents and Settings\All Users\Desktop\malware.exe
+lpNewFileName=C:\WINDOWS\system32\drivers32\Chrome No-Cd Crack.exe
+Return=1
+Return=SUCCESS
+#269040000
+CreateFile
+hName=C:\Documents and Settings\All Users\Desktop\malware.exe
+desiredAccess=GENERIC_READ 
+creationDisposition=OPEN_EXISTING
+Return=50
+Return=SUCCESS
+#269040000
+CopyFile
+lpExistingFileName=C:\Documents and Settings\All Users\Desktop\malware.exe
+lpNewFileName=C:\WINDOWS\system32\drivers32\Etherlords II No-Cd Crack.exe
+Return=1
+Return=SUCCESS
+#269730000
+CreateFile
+hName=C:\Documents and Settings\All Users\Desktop\malware.exe
+desiredAccess=GENERIC_READ 
+creationDisposition=OPEN_EXISTING
+Return=54
+Return=SUCCESS
+#269730000
+CopyFile
+lpExistingFileName=C:\Documents and Settings\All Users\Desktop\malware.exe
+lpNewFileName=C:\WINDOWS\system32\drivers32\Halo No-Cd Crack.exe
+Return=1
+Return=SUCCESS
+#270160000
+CreateFile
+hName=C:\Documents and Settings\All Users\Desktop\malware.exe
+desiredAccess=GENERIC_READ 
+creationDisposition=OPEN_EXISTING
+Return=50
+Return=SUCCESS
+#270150000
+CopyFile
+lpExistingFileName=C:\Documents and Settings\All Users\Desktop\malware.exe
+lpNewFileName=C:\WINDOWS\system32\drivers32\Dark Age of Camelot - Trials of Atlantis No-Cd Crack.exe
+Return=1
+Return=SUCCESS
+#270590000
+CreateFile
+hName=C:\Documents and Settings\All Users\Desktop\malware.exe
+desiredAccess=GENERIC_READ 
+creationDisposition=OPEN_EXISTING
+Return=54
+Return=SUCCESS
+#270590000
+CopyFile
+lpExistingFileName=C:\Documents and Settings\All Users\Desktop\malware.exe
+lpNewFileName=C:\WINDOWS\system32\drivers32\Lords of EverQuest No-Cd Crack.exe
+Return=1
+Return=SUCCESS
+#271110000
+CreateFile
+hName=C:\Documents and Settings\All Users\Desktop\malware.exe
+desiredAccess=GENERIC_READ 
+creationDisposition=OPEN_EXISTING
+Return=50
+Return=SUCCESS
+#271110000
+CopyFile
+lpExistingFileName=C:\Documents and Settings\All Users\Desktop\malware.exe
+lpNewFileName=C:\WINDOWS\system32\drivers32\FireStarter No-Cd Crack.exe
+Return=1
+Return=SUCCESS
+#272250000
+CreateFile
+hName=C:\Documents and Settings\All Users\Desktop\malware.exe
+desiredAccess=GENERIC_READ 
+creationDisposition=OPEN_EXISTING
+Return=54
+Return=SUCCESS
+#272250000
+CopyFile
+lpExistingFileName=C:\Documents and Settings\All Users\Desktop\malware.exe
+lpNewFileName=C:\WINDOWS\system32\drivers32\Unreal Tournament 2004 No-Cd Crack.exe
+Return=1
+Return=SUCCESS
+#272800000
+CreateFile
+hName=C:\Documents and Settings\All Users\Desktop\malware.exe
+desiredAccess=GENERIC_READ 
+creationDisposition=OPEN_EXISTING
+Return=50
+Return=SUCCESS
+#272800000
+CopyFile
+lpExistingFileName=C:\Documents and Settings\All Users\Desktop\malware.exe
+lpNewFileName=C:\WINDOWS\system32\drivers32\Unreal Tournament 2003 No-Cd Crack.exe
+Return=1
+Return=SUCCESS
+#273210000
+CreateFile
+hName=C:\Documents and Settings\All Users\Desktop\malware.exe
+desiredAccess=GENERIC_READ 
+creationDisposition=OPEN_EXISTING
+Return=54
+Return=SUCCESS
+#273210000
+CopyFile
+lpExistingFileName=C:\Documents and Settings\All Users\Desktop\malware.exe
+lpNewFileName=C:\WINDOWS\system32\drivers32\UT 2004 No-Cd Crack.exe
+Return=1
+Return=SUCCESS
+#273640000
+CreateFile
+hName=C:\Documents and Settings\All Users\Desktop\malware.exe
+desiredAccess=GENERIC_READ 
+creationDisposition=OPEN_EXISTING
+Return=50
+Return=SUCCESS
+#273640000
+CopyFile
+lpExistingFileName=C:\Documents and Settings\All Users\Desktop\malware.exe
+lpNewFileName=C:\WINDOWS\system32\drivers32\UT 2003 No-Cd Crack.exe
+Return=1
+Return=SUCCESS
+#274380000
+CreateFile
+hName=C:\Documents and Settings\All Users\Desktop\malware.exe
+desiredAccess=GENERIC_READ 
+creationDisposition=OPEN_EXISTING
+Return=54
+Return=SUCCESS
+#274380000
+CopyFile
+lpExistingFileName=C:\Documents and Settings\All Users\Desktop\malware.exe
+lpNewFileName=C:\WINDOWS\system32\drivers32\Kings of War No-Cd Crack.exe
+Return=1
+Return=SUCCESS
+#274900000
+CreateFile
+hName=C:\Documents and Settings\All Users\Desktop\malware.exe
+desiredAccess=GENERIC_READ 
+creationDisposition=OPEN_EXISTING
+Return=50
+Return=SUCCESS
+#274900000
+CopyFile
+lpExistingFileName=C:\Documents and Settings\All Users\Desktop\malware.exe
+lpNewFileName=C:\WINDOWS\system32\drivers32\Xenus No-Cd Crack.exe
+Return=1
+Return=SUCCESS
+#275320000
+CreateFile
+hName=C:\Documents and Settings\All Users\Desktop\malware.exe
+desiredAccess=GENERIC_READ 
+creationDisposition=OPEN_EXISTING
+Return=54
+Return=SUCCESS
+#275310000
+CopyFile
+lpExistingFileName=C:\Documents and Settings\All Users\Desktop\malware.exe
+lpNewFileName=C:\WINDOWS\system32\drivers32\Black & White 2 No-Cd Crack.exe
+Return=1
+Return=SUCCESS
+#276100000
+CreateFile
+hName=C:\Documents and Settings\All Users\Desktop\malware.exe
+desiredAccess=GENERIC_READ 
+creationDisposition=OPEN_EXISTING
+Return=50
+Return=SUCCESS
+#276100000
+CopyFile
+lpExistingFileName=C:\Documents and Settings\All Users\Desktop\malware.exe
+lpNewFileName=C:\WINDOWS\system32\drivers32\FIFA Soccer 2004 No-Cd Crack.exe
+Return=1
+Return=SUCCESS
+#276580000
+CreateFile
+hName=C:\Documents and Settings\All Users\Desktop\malware.exe
+desiredAccess=GENERIC_READ 
+creationDisposition=OPEN_EXISTING
+Return=54
+Return=SUCCESS
+#276580000
+CopyFile
+lpExistingFileName=C:\Documents and Settings\All Users\Desktop\malware.exe
+lpNewFileName=C:\WINDOWS\system32\drivers32\FIFA Soccer 2003 No-Cd Crack.exe
+Return=1
+Return=SUCCESS
+#277230000
+CreateFile
+hName=C:\Documents and Settings\All Users\Desktop\malware.exe
+desiredAccess=GENERIC_READ 
+creationDisposition=OPEN_EXISTING
+Return=50
+Return=SUCCESS
+#277230000
+CopyFile
+lpExistingFileName=C:\Documents and Settings\All Users\Desktop\malware.exe
+lpNewFileName=C:\WINDOWS\system32\drivers32\Commandos 3 - Destination Berlin No-Cd Crack.exe
+Return=1
+Return=SUCCESS
+#277890000
+CreateFile
+hName=C:\Documents and Settings\All Users\Desktop\malware.exe
+desiredAccess=GENERIC_READ 
+creationDisposition=OPEN_EXISTING
+Return=54
+Return=SUCCESS
+#277890000
+CopyFile
+lpExistingFileName=C:\Documents and Settings\All Users\Desktop\malware.exe
+lpNewFileName=C:\WINDOWS\system32\drivers32\Train Simulator 2 No-Cd Crack.exe
+Return=1
+Return=SUCCESS
+#278370000
+CreateFile
+hName=C:\Documents and Settings\All Users\Desktop\malware.exe
+desiredAccess=GENERIC_READ 
+creationDisposition=OPEN_EXISTING
+Return=50
+Return=SUCCESS
+#278370000
+CopyFile
+lpExistingFileName=C:\Documents and Settings\All Users\Desktop\malware.exe
+lpNewFileName=C:\WINDOWS\system32\drivers32\Flight Simulator - Century of Flight No-Cd Crack.exe
+Return=1
+Return=SUCCESS
+#279040000
+CreateFile
+hName=C:\Documents and Settings\All Users\Desktop\malware.exe
+desiredAccess=GENERIC_READ 
+creationDisposition=OPEN_EXISTING
+Return=54
+Return=SUCCESS
+#279040000
+CopyFile
+lpExistingFileName=C:\Documents and Settings\All Users\Desktop\malware.exe
+lpNewFileName=C:\WINDOWS\system32\drivers32\Need for Speed Underground No-Cd Crack.exe
+Return=1
+Return=SUCCESS
+#279560000
+CreateFile
+hName=C:\Documents and Settings\All Users\Desktop\malware.exe
+desiredAccess=GENERIC_READ 
+creationDisposition=OPEN_EXISTING
+Return=50
+Return=SUCCESS
+#279560000
+CopyFile
+lpExistingFileName=C:\Documents and Settings\All Users\Desktop\malware.exe
+lpNewFileName=C:\WINDOWS\system32\drivers32\Metal Gear Solid No-Cd Crack.exe
+Return=1
+Return=SUCCESS
+#280080000
+CreateFile
+hName=C:\Documents and Settings\All Users\Desktop\malware.exe
+desiredAccess=GENERIC_READ 
+creationDisposition=OPEN_EXISTING
+Return=54
+Return=SUCCESS
+#280080000
+CopyFile
+lpExistingFileName=C:\Documents and Settings\All Users\Desktop\malware.exe
+lpNewFileName=C:\WINDOWS\system32\drivers32\Metal Gear Solid 2 No-Cd Crack.exe
+Return=1
+Return=SUCCESS
+#280530000
+CreateFile
+hName=C:\Documents and Settings\All Users\Desktop\malware.exe
+desiredAccess=GENERIC_READ 
+creationDisposition=OPEN_EXISTING
+Return=50
+Return=SUCCESS
+#280530000
+CopyFile
+lpExistingFileName=C:\Documents and Settings\All Users\Desktop\malware.exe
+lpNewFileName=C:\WINDOWS\system32\drivers32\Raven Shield No-Cd Crack.exe
+Return=1
+Return=SUCCESS
+#281190000
+CreateFile
+hName=C:\Documents and Settings\All Users\Desktop\malware.exe
+desiredAccess=GENERIC_READ 
+creationDisposition=OPEN_EXISTING
+Return=54
+Return=SUCCESS
+#281190000
+CopyFile
+lpExistingFileName=C:\Documents and Settings\All Users\Desktop\malware.exe
+lpNewFileName=C:\WINDOWS\system32\drivers32\Rainbow Six 3 - Raven Shield No-Cd Crack.exe
+Return=1
+Return=SUCCESS
+#281750000
+CreateFile
+hName=C:\Documents and Settings\All Users\Desktop\malware.exe
+desiredAccess=GENERIC_READ 
+creationDisposition=OPEN_EXISTING
+Return=50
+Return=SUCCESS
+#281750000
+CopyFile
+lpExistingFileName=C:\Documents and Settings\All Users\Desktop\malware.exe
+lpNewFileName=C:\WINDOWS\system32\drivers32\Delta Force - Black Hawk Down No-Cd Crack.exe
+Return=1
+Return=SUCCESS
+#282220000
+CreateFile
+hName=C:\Documents and Settings\All Users\Desktop\malware.exe
+desiredAccess=GENERIC_READ 
+creationDisposition=OPEN_EXISTING
+Return=54
+Return=SUCCESS
+#282220000
+CopyFile
+lpExistingFileName=C:\Documents and Settings\All Users\Desktop\malware.exe
+lpNewFileName=C:\WINDOWS\system32\drivers32\Praetorians No-Cd Crack.exe
+Return=1
+Return=SUCCESS
+#282710000
+CreateFile
+hName=C:\Documents and Settings\All Users\Desktop\malware.exe
+desiredAccess=GENERIC_READ 
+creationDisposition=OPEN_EXISTING
+Return=50
+Return=SUCCESS
+#282710000
+CopyFile
+lpExistingFileName=C:\Documents and Settings\All Users\Desktop\malware.exe
+lpNewFileName=C:\WINDOWS\system32\drivers32\NASCAR Racing 2003 No-Cd Crack.exe
+Return=1
+Return=SUCCESS
+#283410000
+CreateFile
+hName=C:\Documents and Settings\All Users\Desktop\malware.exe
+desiredAccess=GENERIC_READ 
+creationDisposition=OPEN_EXISTING
+Return=54
+Return=SUCCESS
+#283400000
+CopyFile
+lpExistingFileName=C:\Documents and Settings\All Users\Desktop\malware.exe
+lpNewFileName=C:\WINDOWS\system32\drivers32\Splinter Cell No-Cd Crack.exe
+Return=1
+Return=SUCCESS
+#283870000
+CreateFile
+hName=C:\Documents and Settings\All Users\Desktop\malware.exe
+desiredAccess=GENERIC_READ 
+creationDisposition=OPEN_EXISTING
+Return=50
+Return=SUCCESS
+#283870000
+CopyFile
+lpExistingFileName=C:\Documents and Settings\All Users\Desktop\malware.exe
+lpNewFileName=C:\WINDOWS\system32\drivers32\Command & Conquer Generals No-Cd Crack.exe
+Return=1
+Return=SUCCESS
+#284560000
+CreateFile
+hName=C:\Documents and Settings\All Users\Desktop\malware.exe
+desiredAccess=GENERIC_READ 
+creationDisposition=OPEN_EXISTING
+Return=54
+Return=SUCCESS
+#284560000
+CopyFile
+lpExistingFileName=C:\Documents and Settings\All Users\Desktop\malware.exe
+lpNewFileName=C:\WINDOWS\system32\drivers32\SimCity 4 No-Cd Crack.exe
+Return=1
+Return=SUCCESS
+#285110000
+CreateFile
+hName=C:\Documents and Settings\All Users\Desktop\malware.exe
+desiredAccess=GENERIC_READ 
+creationDisposition=OPEN_EXISTING
+Return=50
+Return=SUCCESS
+#285110000
+CopyFile
+lpExistingFileName=C:\Documents and Settings\All Users\Desktop\malware.exe
+lpNewFileName=C:\WINDOWS\system32\drivers32\Battlefield 1942 - The Road to Rome No-Cd Crack.exe
+Return=1
+Return=SUCCESS
+#285660000
+CreateFile
+hName=C:\Documents and Settings\All Users\Desktop\malware.exe
+desiredAccess=GENERIC_READ 
+creationDisposition=OPEN_EXISTING
+Return=54
+Return=SUCCESS
+#285660000
+CopyFile
+lpExistingFileName=C:\Documents and Settings\All Users\Desktop\malware.exe
+lpNewFileName=C:\WINDOWS\system32\drivers32\Elder Scrolls III - Tribunal No-Cd Crack.exe
+Return=1
+Return=SUCCESS
+#286380000
+CreateFile
+hName=C:\Documents and Settings\All Users\Desktop\malware.exe
+desiredAccess=GENERIC_READ 
+creationDisposition=OPEN_EXISTING
+Return=50
+Return=SUCCESS
+#286380000
+CopyFile
+lpExistingFileName=C:\Documents and Settings\All Users\Desktop\malware.exe
+lpNewFileName=C:\WINDOWS\system32\drivers32\NBA Live 2003 No-Cd Crack.exe
+Return=1
+Return=SUCCESS
+#286910000
+CreateFile
+hName=C:\Documents and Settings\All Users\Desktop\malware.exe
+desiredAccess=GENERIC_READ 
+creationDisposition=OPEN_EXISTING
+Return=54
+Return=SUCCESS
+#286910000
+CopyFile
+lpExistingFileName=C:\Documents and Settings\All Users\Desktop\malware.exe
+lpNewFileName=C:\WINDOWS\system32\drivers32\NBA Live 2004 No-Cd Crack.exe
+Return=1
+Return=SUCCESS
+#287450000
+CreateFile
+hName=C:\Documents and Settings\All Users\Desktop\malware.exe
+desiredAccess=GENERIC_READ 
+creationDisposition=OPEN_EXISTING
+Return=50
+Return=SUCCESS
+#287450000
+CopyFile
+lpExistingFileName=C:\Documents and Settings\All Users\Desktop\malware.exe
+lpNewFileName=C:\WINDOWS\system32\drivers32\IL-2 Sturmovik - Forgotten Battles No-Cd Crack.exe
+Return=1
+Return=SUCCESS
+#287860000
+CreateFile
+hName=C:\Documents and Settings\All Users\Desktop\malware.exe
+desiredAccess=GENERIC_READ 
+creationDisposition=OPEN_EXISTING
+Return=54
+Return=SUCCESS
+#287860000
+CopyFile
+lpExistingFileName=C:\Documents and Settings\All Users\Desktop\malware.exe
+lpNewFileName=C:\WINDOWS\system32\drivers32\Warcraft III - The Frozen Throne No-Cd Crack.exe
+Return=1
+Return=SUCCESS
+#288350000
+CreateFile
+hName=C:\Documents and Settings\All Users\Desktop\malware.exe
+desiredAccess=GENERIC_READ 
+creationDisposition=OPEN_EXISTING
+Return=50
+Return=SUCCESS
+#288350000
+CopyFile
+lpExistingFileName=C:\Documents and Settings\All Users\Desktop\malware.exe
+lpNewFileName=C:\WINDOWS\system32\drivers32\Warcraft III No-Cd Crack.exe
+Return=1
+Return=SUCCESS
+#288620000
+CreateFile
+hName=C:\Documents and Settings\All Users\Desktop\malware.exe
+desiredAccess=GENERIC_READ 
+creationDisposition=OPEN_EXISTING
+Return=54
+Return=SUCCESS
+#288620000
+CopyFile
+lpExistingFileName=C:\Documents and Settings\All Users\Desktop\malware.exe
+lpNewFileName=C:\WINDOWS\system32\drivers32\Warcraft 3 No-Cd Crack.exe
+Return=1
+Return=SUCCESS
+#288870000
+CreateFile
+hName=C:\Documents and Settings\All Users\Desktop\malware.exe
+desiredAccess=GENERIC_READ 
+creationDisposition=OPEN_EXISTING
+Return=50
+Return=SUCCESS
+#288870000
+CopyFile
+lpExistingFileName=C:\Documents and Settings\All Users\Desktop\malware.exe
+lpNewFileName=C:\WINDOWS\system32\drivers32\Grand Theft Auto - Vice City No-Cd Crack.exe
+Return=1
+Return=SUCCESS
+#289410000
+CreateFile
+hName=C:\Documents and Settings\All Users\Desktop\malware.exe
+desiredAccess=GENERIC_READ 
+creationDisposition=OPEN_EXISTING
+Return=54
+Return=SUCCESS
+#289400000
+CopyFile
+lpExistingFileName=C:\Documents and Settings\All Users\Desktop\malware.exe
+lpNewFileName=C:\WINDOWS\system32\drivers32\Return to Castle Wolfenstein Enemy Territory No-Cd Crack.exe
+Return=1
+Return=SUCCESS
+#289640000
+CreateFile
+hName=C:\Documents and Settings\All Users\Desktop\malware.exe
+desiredAccess=GENERIC_READ 
+creationDisposition=OPEN_EXISTING
+Return=50
+Return=SUCCESS
+#289640000
+CopyFile
+lpExistingFileName=C:\Documents and Settings\All Users\Desktop\malware.exe
+lpNewFileName=C:\WINDOWS\system32\drivers32\Return to Castle Wolfenstein No-Cd Crack.exe
+Return=1
+Return=SUCCESS
+#289910000
+CreateFile
+hName=C:\Documents and Settings\All Users\Desktop\malware.exe
+desiredAccess=GENERIC_READ 
+creationDisposition=OPEN_EXISTING
+Return=54
+Return=SUCCESS
+#289910000
+CopyFile
+lpExistingFileName=C:\Documents and Settings\All Users\Desktop\malware.exe
+lpNewFileName=C:\WINDOWS\system32\drivers32\Star Trek - Elite Force II No-Cd Crack.exe
+Return=1
+Return=SUCCESS
+#290400000
+CreateFile
+hName=C:\Documents and Settings\All Users\Desktop\malware.exe
+desiredAccess=GENERIC_READ 
+creationDisposition=OPEN_EXISTING
+Return=50
+Return=SUCCESS
+#290400000
+CopyFile
+lpExistingFileName=C:\Documents and Settings\All Users\Desktop\malware.exe
+lpNewFileName=C:\WINDOWS\system32\drivers32\Neverwinter Nights - Shadows of Undrentide No-Cd Crack.exe
+Return=1
+Return=SUCCESS
+#290630000
+CreateFile
+hName=C:\Documents and Settings\All Users\Desktop\malware.exe
+desiredAccess=GENERIC_READ 
+creationDisposition=OPEN_EXISTING
+Return=54
+Return=SUCCESS
+#290630000
+CopyFile
+lpExistingFileName=C:\Documents and Settings\All Users\Desktop\malware.exe
+lpNewFileName=C:\WINDOWS\system32\drivers32\The Sims Superstar No-Cd Crack.exe
+Return=1
+Return=SUCCESS
+#290880000
+CreateFile
+hName=C:\Documents and Settings\All Users\Desktop\malware.exe
+desiredAccess=GENERIC_READ 
+creationDisposition=OPEN_EXISTING
+Return=50
+Return=SUCCESS
+#290880000
+CopyFile
+lpExistingFileName=C:\Documents and Settings\All Users\Desktop\malware.exe
+lpNewFileName=C:\WINDOWS\system32\drivers32\Tony Hawks Pro Skater 4 No-Cd Crack.exe
+Return=1
+Return=SUCCESS
+#291350000
+CreateFile
+hName=C:\Documents and Settings\All Users\Desktop\malware.exe
+desiredAccess=GENERIC_READ 
+creationDisposition=OPEN_EXISTING
+Return=54
+Return=SUCCESS
+#291350000
+CopyFile
+lpExistingFileName=C:\Documents and Settings\All Users\Desktop\malware.exe
+lpNewFileName=C:\WINDOWS\system32\drivers32\Counter-Strike - Condition Zero No-Cd Crack.exe
+Return=1
+Return=SUCCESS
+#291580000
+CreateFile
+hName=C:\Documents and Settings\All Users\Desktop\malware.exe
+desiredAccess=GENERIC_READ 
+creationDisposition=OPEN_EXISTING
+Return=50
+Return=SUCCESS
+#291580000
+CopyFile
+lpExistingFileName=C:\Documents and Settings\All Users\Desktop\malware.exe
+lpNewFileName=C:\WINDOWS\system32\drivers32\Age of Wonders II - Shadow Magic No-Cd Crack.exe
+Return=1
+Return=SUCCESS
+#291860000
+CreateFile
+hName=C:\Documents and Settings\All Users\Desktop\malware.exe
+desiredAccess=GENERIC_READ 
+creationDisposition=OPEN_EXISTING
+Return=54
+Return=SUCCESS
+#291860000
+CopyFile
+lpExistingFileName=C:\Documents and Settings\All Users\Desktop\malware.exe
+lpNewFileName=C:\WINDOWS\system32\drivers32\ICUII 5.x.exe
+Return=1
+Return=SUCCESS
+#292340000
+CreateFile
+hName=C:\Documents and Settings\All Users\Desktop\malware.exe
+desiredAccess=GENERIC_READ 
+creationDisposition=OPEN_EXISTING
+Return=50
+Return=SUCCESS
+#292340000
+CopyFile
+lpExistingFileName=C:\Documents and Settings\All Users\Desktop\malware.exe
+lpNewFileName=C:\WINDOWS\system32\drivers32\NASCAR Thunder 2004 No-Cd Crack.exe
+Return=1
+Return=SUCCESS
+#292610000
+CreateFile
+hName=C:\Documents and Settings\All Users\Desktop\malware.exe
+desiredAccess=GENERIC_READ 
+creationDisposition=OPEN_EXISTING
+Return=54
+Return=SUCCESS
+#292610000
+CopyFile
+lpExistingFileName=C:\Documents and Settings\All Users\Desktop\malware.exe
+lpNewFileName=C:\WINDOWS\system32\drivers32\Lords of the Realm III No-Cd Crack.exe
+Return=1
+Return=SUCCESS
+#292920000
+CreateFile
+hName=C:\Documents and Settings\All Users\Desktop\malware.exe
+desiredAccess=GENERIC_READ 
+creationDisposition=OPEN_EXISTING
+Return=50
+Return=SUCCESS
+#292920000
+CopyFile
+lpExistingFileName=C:\Documents and Settings\All Users\Desktop\malware.exe
+lpNewFileName=C:\WINDOWS\system32\drivers32\Age of Mythology - The Titans No-Cd Crack.exe
+Return=1
+Return=SUCCESS
+#293510000
+CreateFile
+hName=C:\Documents and Settings\All Users\Desktop\malware.exe
+desiredAccess=GENERIC_READ 
+creationDisposition=OPEN_EXISTING
+Return=54
+Return=SUCCESS
+#293510000
+CopyFile
+lpExistingFileName=C:\Documents and Settings\All Users\Desktop\malware.exe
+lpNewFileName=C:\WINDOWS\system32\drivers32\Civilization III - Conquest No-Cd Crack.exe
+Return=1
+Return=SUCCESS
+#293810000
+CreateFile
+hName=C:\Documents and Settings\All Users\Desktop\malware.exe
+desiredAccess=GENERIC_READ 
+creationDisposition=OPEN_EXISTING
+Return=50
+Return=SUCCESS
+#293810000
+CopyFile
+lpExistingFileName=C:\Documents and Settings\All Users\Desktop\malware.exe
+lpNewFileName=C:\WINDOWS\system32\drivers32\Conflict - Desert Storm II - Back to Baghdad No-Cd Crack.exe
+Return=1
+Return=SUCCESS
+#294130000
+CreateFile
+hName=C:\Documents and Settings\All Users\Desktop\malware.exe
+desiredAccess=GENERIC_READ 
+creationDisposition=OPEN_EXISTING
+Return=54
+Return=SUCCESS
+#294130000
+CopyFile
+lpExistingFileName=C:\Documents and Settings\All Users\Desktop\malware.exe
+lpNewFileName=C:\WINDOWS\system32\drivers32\Harry Potter - Quidditch World Cup No-Cd Crack.exe
+Return=1
+Return=SUCCESS
+#294770000
+CreateFile
+hName=C:\Documents and Settings\All Users\Desktop\malware.exe
+desiredAccess=GENERIC_READ 
+creationDisposition=OPEN_EXISTING
+Return=50
+Return=SUCCESS
+#294770000
+CopyFile
+lpExistingFileName=C:\Documents and Settings\All Users\Desktop\malware.exe
+lpNewFileName=C:\WINDOWS\system32\drivers32\Railroad Tycoon III No-Cd Crack.exe
+Return=1
+Return=SUCCESS
+#295240000
+CreateFile
+hName=C:\Documents and Settings\All Users\Desktop\malware.exe
+desiredAccess=GENERIC_READ 
+creationDisposition=OPEN_EXISTING
+Return=54
+Return=SUCCESS
+#295240000
+CopyFile
+lpExistingFileName=C:\Documents and Settings\All Users\Desktop\malware.exe
+lpNewFileName=C:\WINDOWS\system32\drivers32\Battlefield 1942 - Secret Weapons of World War II No-Cd Crack.exe
+Return=1
+Return=SUCCESS
+#295640000
+CreateFile
+hName=C:\Documents and Settings\All Users\Desktop\malware.exe
+desiredAccess=GENERIC_READ 
+creationDisposition=OPEN_EXISTING
+Return=50
+Return=SUCCESS
+#295640000
+CopyFile
+lpExistingFileName=C:\Documents and Settings\All Users\Desktop\malware.exe
+lpNewFileName=C:\WINDOWS\system32\drivers32\DOOM 3 No-Cd Crack.exe
+Return=1
+Return=SUCCESS
+#296360000
+CreateFile
+hName=C:\Documents and Settings\All Users\Desktop\malware.exe
+desiredAccess=GENERIC_READ 
+creationDisposition=OPEN_EXISTING
+Return=54
+Return=SUCCESS
+#296360000
+CopyFile
+lpExistingFileName=C:\Documents and Settings\All Users\Desktop\malware.exe
+lpNewFileName=C:\WINDOWS\system32\drivers32\DOOM III No-Cd Crack.exe
+Return=1
+Return=SUCCESS
+#296760000
+CreateFile
+hName=C:\Documents and Settings\All Users\Desktop\malware.exe
+desiredAccess=GENERIC_READ 
+creationDisposition=OPEN_EXISTING
+Return=50
+Return=SUCCESS
+#296760000
+CopyFile
+lpExistingFileName=C:\Documents and Settings\All Users\Desktop\malware.exe
+lpNewFileName=C:\WINDOWS\system32\drivers32\EverQuest 2 No-Cd Crack.exe
+Return=1
+Return=SUCCESS
+#297250000
+CreateFile
+hName=C:\Documents and Settings\All Users\Desktop\malware.exe
+desiredAccess=GENERIC_READ 
+creationDisposition=OPEN_EXISTING
+Return=54
+Return=SUCCESS
+#297250000
+CopyFile
+lpExistingFileName=C:\Documents and Settings\All Users\Desktop\malware.exe
+lpNewFileName=C:\WINDOWS\system32\drivers32\Freedom - Soldiers of Liberty No-Cd Crack.exe
+Return=1
+Return=SUCCESS
+#297650000
+CreateFile
+hName=C:\Documents and Settings\All Users\Desktop\malware.exe
+desiredAccess=GENERIC_READ 
+creationDisposition=OPEN_EXISTING
+Return=50
+Return=SUCCESS
+#297650000
+CopyFile
+lpExistingFileName=C:\Documents and Settings\All Users\Desktop\malware.exe
+lpNewFileName=C:\WINDOWS\system32\drivers32\Lord of the Rings - The Two Towers No-Cd Crack.exe
+Return=1
+Return=SUCCESS
+#298370000
+CreateFile
+hName=C:\Documents and Settings\All Users\Desktop\malware.exe
+desiredAccess=GENERIC_READ 
+creationDisposition=OPEN_EXISTING
+Return=54
+Return=SUCCESS
+#298370000
+CopyFile
+lpExistingFileName=C:\Documents and Settings\All Users\Desktop\malware.exe
+lpNewFileName=C:\WINDOWS\system32\drivers32\Max Payne 2 - The Fall of Max Payne No-Cd Crack.exe
+Return=1
+Return=SUCCESS
+#298600000
+CreateFile
+hName=C:\Documents and Settings\All Users\Desktop\malware.exe
+desiredAccess=GENERIC_READ 
+creationDisposition=OPEN_EXISTING
+Return=50
+Return=SUCCESS
+#298600000
+CopyFile
+lpExistingFileName=C:\Documents and Settings\All Users\Desktop\malware.exe
+lpNewFileName=C:\WINDOWS\system32\drivers32\Medal of Honor - Allied Assault Breakthrough No-Cd Crack.exe
+Return=1
+Return=SUCCESS
+#298850000
+CreateFile
+hName=C:\Documents and Settings\All Users\Desktop\malware.exe
+desiredAccess=GENERIC_READ 
+creationDisposition=OPEN_EXISTING
+Return=54
+Return=SUCCESS
+#298850000
+CopyFile
+lpExistingFileName=C:\Documents and Settings\All Users\Desktop\malware.exe
+lpNewFileName=C:\WINDOWS\system32\drivers32\Silent Hill 3 No-Cd Crack.exe
+Return=1
+Return=SUCCESS
+#299350000
+CreateFile
+hName=C:\Documents and Settings\All Users\Desktop\malware.exe
+desiredAccess=GENERIC_READ 
+creationDisposition=OPEN_EXISTING
+Return=50
+Return=SUCCESS
+#299350000
+CopyFile
+lpExistingFileName=C:\Documents and Settings\All Users\Desktop\malware.exe
+lpNewFileName=C:\WINDOWS\system32\drivers32\Silent Hill III No-Cd Crack.exe
+Return=1
+Return=SUCCESS
+#299610000
+CreateFile
+hName=C:\Documents and Settings\All Users\Desktop\malware.exe
+desiredAccess=GENERIC_READ 
+creationDisposition=OPEN_EXISTING
+Return=54
+Return=SUCCESS
+#299610000
+CopyFile
+lpExistingFileName=C:\Documents and Settings\All Users\Desktop\malware.exe
+lpNewFileName=C:\WINDOWS\system32\drivers32\SimCity 4 Rush Hour No-Cd Crack.exe
+Return=1
+Return=SUCCESS
+#299850000
+CreateFile
+hName=C:\Documents and Settings\All Users\Desktop\malware.exe
+desiredAccess=GENERIC_READ 
+creationDisposition=OPEN_EXISTING
+Return=50
+Return=SUCCESS
+#299850000
+CopyFile
+lpExistingFileName=C:\Documents and Settings\All Users\Desktop\malware.exe
+lpNewFileName=C:\WINDOWS\system32\drivers32\SimCity IV No-Cd Crack.exe
+Return=1
+Return=SUCCESS
+#300390000
+CreateFile
+hName=C:\Documents and Settings\All Users\Desktop\malware.exe
+desiredAccess=GENERIC_READ 
+creationDisposition=OPEN_EXISTING
+Return=54
+Return=SUCCESS
+#300390000
+CopyFile
+lpExistingFileName=C:\Documents and Settings\All Users\Desktop\malware.exe
+lpNewFileName=C:\WINDOWS\system32\drivers32\Star Wars Jedi Knight - Jedi Academy No-Cd Crack.exe
+Return=1
+Return=SUCCESS
+#300630000
+CreateFile
+hName=C:\Documents and Settings\All Users\Desktop\malware.exe
+desiredAccess=GENERIC_READ 
+creationDisposition=OPEN_EXISTING
+Return=50
+Return=SUCCESS
+#300630000
+CopyFile
+lpExistingFileName=C:\Documents and Settings\All Users\Desktop\malware.exe
+lpNewFileName=C:\WINDOWS\system32\drivers32\Star Wars - Knights of the Old Republic No-Cd Crack.exe
+Return=1
+Return=SUCCESS
+#301110000
+CreateFile
+hName=C:\Documents and Settings\All Users\Desktop\malware.exe
+desiredAccess=GENERIC_READ 
+creationDisposition=OPEN_EXISTING
+Return=54
+Return=SUCCESS
+#301110000
+CopyFile
+lpExistingFileName=C:\Documents and Settings\All Users\Desktop\malware.exe
+lpNewFileName=C:\WINDOWS\system32\drivers32\Train Simulator 2 No-Cd Crack.exe
+Return=1
+Return=SUCCESS
+#301350000
+CreateFile
+hName=C:\Documents and Settings\All Users\Desktop\malware.exe
+desiredAccess=GENERIC_READ 
+creationDisposition=OPEN_EXISTING
+Return=50
+Return=SUCCESS
+#301350000
+CopyFile
+lpExistingFileName=C:\Documents and Settings\All Users\Desktop\malware.exe
+lpNewFileName=C:\WINDOWS\system32\drivers32\Train Simulator II No-Cd Crack.exe
+Return=1
+Return=SUCCESS
+#301600000
+CreateFile
+hName=C:\Documents and Settings\All Users\Desktop\malware.exe
+desiredAccess=GENERIC_READ 
+creationDisposition=OPEN_EXISTING
+Return=54
+Return=SUCCESS
+#301600000
+CopyFile
+lpExistingFileName=C:\Documents and Settings\All Users\Desktop\malware.exe
+lpNewFileName=C:\WINDOWS\system32\drivers32\Soul Reaver 3 No-Cd Crack.exe
+Return=1
+Return=SUCCESS
+#302070000
+CreateFile
+hName=C:\Documents and Settings\All Users\Desktop\malware.exe
+desiredAccess=GENERIC_READ 
+creationDisposition=OPEN_EXISTING
+Return=50
+Return=SUCCESS
+#302070000
+CopyFile
+lpExistingFileName=C:\Documents and Settings\All Users\Desktop\malware.exe
+lpNewFileName=C:\WINDOWS\system32\drivers32\Soul Reaver III No-Cd Crack.exe
+Return=1
+Return=SUCCESS
+#302300000
+CreateFile
+hName=C:\Documents and Settings\All Users\Desktop\malware.exe
+desiredAccess=GENERIC_READ 
+creationDisposition=OPEN_EXISTING
+Return=54
+Return=SUCCESS
+#302300000
+CopyFile
+lpExistingFileName=C:\Documents and Settings\All Users\Desktop\malware.exe
+lpNewFileName=C:\WINDOWS\system32\drivers32\Warlords IV - Heroes of Etheria No-Cd Crack.exe
+Return=1
+Return=SUCCESS
+#302550000
+CreateFile
+hName=C:\Documents and Settings\All Users\Desktop\malware.exe
+desiredAccess=GENERIC_READ 
+creationDisposition=OPEN_EXISTING
+Return=50
+Return=SUCCESS
+#302550000
+CopyFile
+lpExistingFileName=C:\Documents and Settings\All Users\Desktop\malware.exe
+lpNewFileName=C:\WINDOWS\system32\drivers32\Warlords 4 No-Cd Crack.exe
+Return=1
+Return=SUCCESS
+#302990000
+CreateFile
+hName=C:\Documents and Settings\All Users\Desktop\malware.exe
+desiredAccess=GENERIC_READ 
+creationDisposition=OPEN_EXISTING
+Return=54
+Return=SUCCESS
+#302990000
+CopyFile
+lpExistingFileName=C:\Documents and Settings\All Users\Desktop\malware.exe
+lpNewFileName=C:\WINDOWS\system32\drivers32\World War II - Frontline Command No-Cd Crack.exe
+Return=1
+Return=SUCCESS
+#303230000
+CreateFile
+hName=C:\Documents and Settings\All Users\Desktop\malware.exe
+desiredAccess=GENERIC_READ 
+creationDisposition=OPEN_EXISTING
+Return=50
+Return=SUCCESS
+#303230000
+CopyFile
+lpExistingFileName=C:\Documents and Settings\All Users\Desktop\malware.exe
+lpNewFileName=C:\WINDOWS\system32\drivers32\Lord of the Rings - War of the Ring No-Cd Crack.exe
+Return=1
+Return=SUCCESS
+#303470000
+CreateFile
+hName=C:\Documents and Settings\All Users\Desktop\malware.exe
+desiredAccess=GENERIC_READ 
+creationDisposition=OPEN_EXISTING
+Return=54
+Return=SUCCESS
+#303470000
+CopyFile
+lpExistingFileName=C:\Documents and Settings\All Users\Desktop\malware.exe
+lpNewFileName=C:\WINDOWS\system32\drivers32\Metal Gear Solid 3 No-Cd Crack.exe
+Return=1
+Return=SUCCESS
+#304050000
+CreateFile
+hName=C:\Documents and Settings\All Users\Desktop\malware.exe
+desiredAccess=GENERIC_READ 
+creationDisposition=OPEN_EXISTING
+Return=50
+Return=SUCCESS
+#304050000
+CopyFile
+lpExistingFileName=C:\Documents and Settings\All Users\Desktop\malware.exe
+lpNewFileName=C:\WINDOWS\system32\drivers32\Metal Gear Solid III No-Cd Crack.exe
+Return=1
+Return=SUCCESS
+#304280000
+CreateFile
+hName=C:\Documents and Settings\All Users\Desktop\malware.exe
+desiredAccess=GENERIC_READ 
+creationDisposition=OPEN_EXISTING
+Return=54
+Return=SUCCESS
+#304280000
+CopyFile
+lpExistingFileName=C:\Documents and Settings\All Users\Desktop\malware.exe
+lpNewFileName=C:\WINDOWS\system32\drivers32\Black & White 2 No-Cd Crack.exe
+Return=1
+Return=SUCCESS
+#304750000
+CreateFile
+hName=C:\Documents and Settings\All Users\Desktop\malware.exe
+desiredAccess=GENERIC_READ 
+creationDisposition=OPEN_EXISTING
+Return=50
+Return=SUCCESS
+#304750000
+CopyFile
+lpExistingFileName=C:\Documents and Settings\All Users\Desktop\malware.exe
+lpNewFileName=C:\WINDOWS\system32\drivers32\Hitman 3 No-Cd Crack.exe
+Return=1
+Return=SUCCESS
+#305150000
+CreateFile
+hName=C:\Documents and Settings\All Users\Desktop\malware.exe
+desiredAccess=GENERIC_READ 
+creationDisposition=OPEN_EXISTING
+Return=54
+Return=SUCCESS
+#305150000
+CopyFile
+lpExistingFileName=C:\Documents and Settings\All Users\Desktop\malware.exe
+lpNewFileName=C:\WINDOWS\system32\drivers32\Hitman III No-Cd Crack.exe
+Return=1
+Return=SUCCESS
+#305690000
+CreateFile
+hName=C:\Documents and Settings\All Users\Desktop\malware.exe
+desiredAccess=GENERIC_READ 
+creationDisposition=OPEN_EXISTING
+Return=50
+Return=SUCCESS
+#305690000
+CopyFile
+lpExistingFileName=C:\Documents and Settings\All Users\Desktop\malware.exe
+lpNewFileName=C:\WINDOWS\system32\drivers32\Hitman 2 No-Cd Crack.exe
+Return=1
+Return=SUCCESS
+#306100000
+CreateFile
+hName=C:\Documents and Settings\All Users\Desktop\malware.exe
+desiredAccess=GENERIC_READ 
+creationDisposition=OPEN_EXISTING
+Return=54
+Return=SUCCESS
+#306100000
+CopyFile
+lpExistingFileName=C:\Documents and Settings\All Users\Desktop\malware.exe
+lpNewFileName=C:\WINDOWS\system32\drivers32\Hitman II No-Cd Crack.exe
+Return=1
+Return=SUCCESS
+#306800000
+CreateFile
+hName=C:\Documents and Settings\All Users\Desktop\malware.exe
+desiredAccess=GENERIC_READ 
+creationDisposition=OPEN_EXISTING
+Return=50
+Return=SUCCESS
+#306800000
+CopyFile
+lpExistingFileName=C:\Documents and Settings\All Users\Desktop\malware.exe
+lpNewFileName=C:\WINDOWS\system32\drivers32\Trinity No-Cd Crack.exe
+Return=1
+Return=SUCCESS
+#307240000
+CreateFile
+hName=C:\Documents and Settings\All Users\Desktop\malware.exe
+desiredAccess=GENERIC_READ 
+creationDisposition=OPEN_EXISTING
+Return=54
+Return=SUCCESS
+#307240000
+CopyFile
+lpExistingFileName=C:\Documents and Settings\All Users\Desktop\malware.exe
+lpNewFileName=C:\WINDOWS\system32\drivers32\Lords of EverQuest No-Cd Crack.exe
+Return=1
+Return=SUCCESS
+#307780000
+CreateFile
+hName=C:\Documents and Settings\All Users\Desktop\malware.exe
+desiredAccess=GENERIC_READ 
+creationDisposition=OPEN_EXISTING
+Return=50
+Return=SUCCESS
+#307780000
+CopyFile
+lpExistingFileName=C:\Documents and Settings\All Users\Desktop\malware.exe
+lpNewFileName=C:\WINDOWS\system32\drivers32\MechWarrior 5 No-Cd Crack.exe
+Return=1
+Return=SUCCESS
+#308210000
+CreateFile
+hName=C:\Documents and Settings\All Users\Desktop\malware.exe
+desiredAccess=GENERIC_READ 
+creationDisposition=OPEN_EXISTING
+Return=54
+Return=SUCCESS
+#308210000
+CopyFile
+lpExistingFileName=C:\Documents and Settings\All Users\Desktop\malware.exe
+lpNewFileName=C:\WINDOWS\system32\drivers32\MechWarrior 4 No-Cd Crack.exe
+Return=1
+Return=SUCCESS
+#308780000
+CreateFile
+hName=C:\Documents and Settings\All Users\Desktop\malware.exe
+desiredAccess=GENERIC_READ 
+creationDisposition=OPEN_EXISTING
+Return=50
+Return=SUCCESS
+#308780000
+CopyFile
+lpExistingFileName=C:\Documents and Settings\All Users\Desktop\malware.exe
+lpNewFileName=C:\WINDOWS\system32\drivers32\MechWarrior 3 No-Cd Crack.exe
+Return=1
+Return=SUCCESS
+#309010000
+CreateFile
+hName=C:\Documents and Settings\All Users\Desktop\malware.exe
+desiredAccess=GENERIC_READ 
+creationDisposition=OPEN_EXISTING
+Return=54
+Return=SUCCESS
+#309010000
+CopyFile
+lpExistingFileName=C:\Documents and Settings\All Users\Desktop\malware.exe
+lpNewFileName=C:\WINDOWS\system32\drivers32\MechWarrior V No-Cd Crack.exe
+Return=1
+Return=SUCCESS
+#309470000
+CreateFile
+hName=C:\Documents and Settings\All Users\Desktop\malware.exe
+desiredAccess=GENERIC_READ 
+creationDisposition=OPEN_EXISTING
+Return=50
+Return=SUCCESS
+#309470000
+CopyFile
+lpExistingFileName=C:\Documents and Settings\All Users\Desktop\malware.exe
+lpNewFileName=C:\WINDOWS\system32\drivers32\MechWarrior IV No-Cd Crack.exe
+Return=1
+Return=SUCCESS
+#309700000
+CreateFile
+hName=C:\Documents and Settings\All Users\Desktop\malware.exe
+desiredAccess=GENERIC_READ 
+creationDisposition=OPEN_EXISTING
+Return=54
+Return=SUCCESS
+#309700000
+CopyFile
+lpExistingFileName=C:\Documents and Settings\All Users\Desktop\malware.exe
+lpNewFileName=C:\WINDOWS\system32\drivers32\MechWarrior III No-Cd Crack.exe
+Return=1
+Return=SUCCESS
+#309980000
+CreateFile
+hName=C:\Documents and Settings\All Users\Desktop\malware.exe
+desiredAccess=GENERIC_READ 
+creationDisposition=OPEN_EXISTING
+Return=50
+Return=SUCCESS
+#309980000
+CopyFile
+lpExistingFileName=C:\Documents and Settings\All Users\Desktop\malware.exe
+lpNewFileName=C:\WINDOWS\system32\drivers32\Midtown Madness III No-Cd Crack.exe
+Return=1
+Return=SUCCESS
+#310570000
+CreateFile
+hName=C:\Documents and Settings\All Users\Desktop\malware.exe
+desiredAccess=GENERIC_READ 
+creationDisposition=OPEN_EXISTING
+Return=54
+Return=SUCCESS
+#310570000
+CopyFile
+lpExistingFileName=C:\Documents and Settings\All Users\Desktop\malware.exe
+lpNewFileName=C:\WINDOWS\system32\drivers32\Midtown Madness 3 No-Cd Crack.exe
+Return=1
+Return=SUCCESS
+#310840000
+CreateFile
+hName=C:\Documents and Settings\All Users\Desktop\malware.exe
+desiredAccess=GENERIC_READ 
+creationDisposition=OPEN_EXISTING
+Return=50
+Return=SUCCESS
+#310840000
+CopyFile
+lpExistingFileName=C:\Documents and Settings\All Users\Desktop\malware.exe
+lpNewFileName=C:\WINDOWS\system32\drivers32\Midtown Madness 2 No-Cd Crack.exe
+Return=1
+Return=SUCCESS
+#311290000
+CreateFile
+hName=C:\Documents and Settings\All Users\Desktop\malware.exe
+desiredAccess=GENERIC_READ 
+creationDisposition=OPEN_EXISTING
+Return=54
+Return=SUCCESS
+#311290000
+CopyFile
+lpExistingFileName=C:\Documents and Settings\All Users\Desktop\malware.exe
+lpNewFileName=C:\WINDOWS\system32\drivers32\Midtown Madness II No-Cd Crack.exe
+Return=1
+Return=SUCCESS
+#311680000
+CreateFile
+hName=C:\Documents and Settings\All Users\Desktop\malware.exe
+desiredAccess=GENERIC_READ 
+creationDisposition=OPEN_EXISTING
+Return=50
+Return=SUCCESS
+#311680000
+CopyFile
+lpExistingFileName=C:\Documents and Settings\All Users\Desktop\malware.exe
+lpNewFileName=C:\WINDOWS\system32\drivers32\Quake IV No-Cd Crack.exe
+Return=1
+Return=SUCCESS
+#312200000
+CreateFile
+hName=C:\Documents and Settings\All Users\Desktop\malware.exe
+desiredAccess=GENERIC_READ 
+creationDisposition=OPEN_EXISTING
+Return=54
+Return=SUCCESS
+#312200000
+CopyFile
+lpExistingFileName=C:\Documents and Settings\All Users\Desktop\malware.exe
+lpNewFileName=C:\WINDOWS\system32\drivers32\Quake 4 No-Cd Crack.exe
+Return=1
+Return=SUCCESS
+#312630000
+CreateFile
+hName=C:\Documents and Settings\All Users\Desktop\malware.exe
+desiredAccess=GENERIC_READ 
+creationDisposition=OPEN_EXISTING
+Return=50
+Return=SUCCESS
+#312630000
+CopyFile
+lpExistingFileName=C:\Documents and Settings\All Users\Desktop\malware.exe
+lpNewFileName=C:\WINDOWS\system32\drivers32\Quake 3 No-Cd Crack.exe
+Return=1
+Return=SUCCESS
+#313620000
+CreateFile
+hName=C:\Documents and Settings\All Users\Desktop\malware.exe
+desiredAccess=GENERIC_READ 
+creationDisposition=OPEN_EXISTING
+Return=54
+Return=SUCCESS
+#313620000
+CopyFile
+lpExistingFileName=C:\Documents and Settings\All Users\Desktop\malware.exe
+lpNewFileName=C:\WINDOWS\system32\drivers32\Quake III No-Cd Crack.exe
+Return=1
+Return=SUCCESS
+#314060000
+CreateFile
+hName=C:\Documents and Settings\All Users\Desktop\malware.exe
+desiredAccess=GENERIC_READ 
+creationDisposition=OPEN_EXISTING
+Return=50
+Return=SUCCESS
+#314060000
+CopyFile
+lpExistingFileName=C:\Documents and Settings\All Users\Desktop\malware.exe
+lpNewFileName=C:\WINDOWS\system32\drivers32\Shrek 2 No-Cd Crack.exe
+Return=1
+Return=SUCCESS
+#314430000
+CreateFile
+hName=C:\Documents and Settings\All Users\Desktop\malware.exe
+desiredAccess=GENERIC_READ 
+creationDisposition=OPEN_EXISTING
+Return=54
+Return=SUCCESS
+#314430000
+CopyFile
+lpExistingFileName=C:\Documents and Settings\All Users\Desktop\malware.exe
+lpNewFileName=C:\WINDOWS\system32\drivers32\Shrek II No-Cd Crack.exe
+Return=1
+Return=SUCCESS
+#315280000
+CreateFile
+hName=C:\Documents and Settings\All Users\Desktop\malware.exe
+desiredAccess=GENERIC_READ 
+creationDisposition=OPEN_EXISTING
+Return=50
+Return=SUCCESS
+#315280000
+CopyFile
+lpExistingFileName=C:\Documents and Settings\All Users\Desktop\malware.exe
+lpNewFileName=C:\WINDOWS\system32\drivers32\Thief III No-Cd Crack.exe
+Return=1
+Return=SUCCESS
+#315680000
+CreateFile
+hName=C:\Documents and Settings\All Users\Desktop\malware.exe
+desiredAccess=GENERIC_READ 
+creationDisposition=OPEN_EXISTING
+Return=54
+Return=SUCCESS
+#315680000
+CopyFile
+lpExistingFileName=C:\Documents and Settings\All Users\Desktop\malware.exe
+lpNewFileName=C:\WINDOWS\system32\drivers32\Thief II No-Cd Crack.exe
+Return=1
+Return=SUCCESS
+#316140000
+CreateFile
+hName=C:\Documents and Settings\All Users\Desktop\malware.exe
+desiredAccess=GENERIC_READ 
+creationDisposition=OPEN_EXISTING
+Return=50
+Return=SUCCESS
+#316140000
+CopyFile
+lpExistingFileName=C:\Documents and Settings\All Users\Desktop\malware.exe
+lpNewFileName=C:\WINDOWS\system32\drivers32\Thief 3 No-Cd Crack.exe
+Return=1
+Return=SUCCESS
+#316630000
+CreateFile
+hName=C:\Documents and Settings\All Users\Desktop\malware.exe
+desiredAccess=GENERIC_READ 
+creationDisposition=OPEN_EXISTING
+Return=54
+Return=SUCCESS
+#316630000
+CopyFile
+lpExistingFileName=C:\Documents and Settings\All Users\Desktop\malware.exe
+lpNewFileName=C:\WINDOWS\system32\drivers32\Thief 2 No-Cd Crack.exe
+Return=1
+Return=SUCCESS
+#317410000
+CreateFile
+hName=C:\Documents and Settings\All Users\Desktop\malware.exe
+desiredAccess=GENERIC_READ 
+creationDisposition=OPEN_EXISTING
+Return=50
+Return=SUCCESS
+#317410000
+CopyFile
+lpExistingFileName=C:\Documents and Settings\All Users\Desktop\malware.exe
+lpNewFileName=C:\WINDOWS\system32\drivers32\MVP Baseball 2003 No-Cd Crack.exe
+Return=1
+Return=SUCCESS
+#317790000
+CreateFile
+hName=C:\Documents and Settings\All Users\Desktop\malware.exe
+desiredAccess=GENERIC_READ 
+creationDisposition=OPEN_EXISTING
+Return=54
+Return=SUCCESS
+#317790000
+CopyFile
+lpExistingFileName=C:\Documents and Settings\All Users\Desktop\malware.exe
+lpNewFileName=C:\WINDOWS\system32\drivers32\Madden NFL 2004 No-Cd Crack.exe
+Return=1
+Return=SUCCESS
+#318270000
+CreateFile
+hName=C:\Documents and Settings\All Users\Desktop\malware.exe
+desiredAccess=GENERIC_READ 
+creationDisposition=OPEN_EXISTING
+Return=50
+Return=SUCCESS
+#318260000
+CopyFile
+lpExistingFileName=C:\Documents and Settings\All Users\Desktop\malware.exe
+lpNewFileName=C:\WINDOWS\system32\drivers32\Madden NFL 2003 No-Cd Crack.exe
+Return=1
+Return=SUCCESS
+#318730000
+CreateFile
+hName=C:\Documents and Settings\All Users\Desktop\malware.exe
+desiredAccess=GENERIC_READ 
+creationDisposition=OPEN_EXISTING
+Return=54
+Return=SUCCESS
+#318730000
+CopyFile
+lpExistingFileName=C:\Documents and Settings\All Users\Desktop\malware.exe
+lpNewFileName=C:\WINDOWS\system32\drivers32\NCAA Football 2004 No-Cd Crack.exe
+Return=1
+Return=SUCCESS
+#319440000
+CreateFile
+hName=C:\Documents and Settings\All Users\Desktop\malware.exe
+desiredAccess=GENERIC_READ 
+creationDisposition=OPEN_EXISTING
+Return=50
+Return=SUCCESS
+#319440000
+CopyFile
+lpExistingFileName=C:\Documents and Settings\All Users\Desktop\malware.exe
+lpNewFileName=C:\WINDOWS\system32\drivers32\NCAA Football 2003 No-Cd Crack.exe
+Return=1
+Return=SUCCESS
+#319850000
+CreateFile
+hName=C:\Documents and Settings\All Users\Desktop\malware.exe
+desiredAccess=GENERIC_READ 
+creationDisposition=OPEN_EXISTING
+Return=54
+Return=SUCCESS
+#319850000
+CopyFile
+lpExistingFileName=C:\Documents and Settings\All Users\Desktop\malware.exe
+lpNewFileName=C:\WINDOWS\system32\drivers32\NBA Live 2004 No-Cd Crack.exe
+Return=1
+Return=SUCCESS
+#320410000
+CreateFile
+hName=C:\Documents and Settings\All Users\Desktop\malware.exe
+desiredAccess=GENERIC_READ 
+creationDisposition=OPEN_EXISTING
+Return=50
+Return=SUCCESS
+#320410000
+CopyFile
+lpExistingFileName=C:\Documents and Settings\All Users\Desktop\malware.exe
+lpNewFileName=C:\WINDOWS\system32\drivers32\NBA Live 2003 No-Cd Crack.exe
+Return=1
+Return=SUCCESS
+#320820000
+CreateFile
+hName=C:\Documents and Settings\All Users\Desktop\malware.exe
+desiredAccess=GENERIC_READ 
+creationDisposition=OPEN_EXISTING
+Return=54
+Return=SUCCESS
+#320820000
+CopyFile
+lpExistingFileName=C:\Documents and Settings\All Users\Desktop\malware.exe
+lpNewFileName=C:\WINDOWS\system32\drivers32\Tiger Woods PGA TOUR 2003 No-Cd Crack.exe
+Return=1
+Return=SUCCESS
+#321490000
+CreateFile
+hName=C:\Documents and Settings\All Users\Desktop\malware.exe
+desiredAccess=GENERIC_READ 
+creationDisposition=OPEN_EXISTING
+Return=50
+Return=SUCCESS
+#321490000
+CopyFile
+lpExistingFileName=C:\Documents and Settings\All Users\Desktop\malware.exe
+lpNewFileName=C:\WINDOWS\system32\drivers32\Tiger Woods PGA TOUR 2002 No-Cd Crack.exe
+Return=1
+Return=SUCCESS
+#321900000
+CreateFile
+hName=C:\Documents and Settings\All Users\Desktop\malware.exe
+desiredAccess=GENERIC_READ 
+creationDisposition=OPEN_EXISTING
+Return=54
+Return=SUCCESS
+#321900000
+CopyFile
+lpExistingFileName=C:\Documents and Settings\All Users\Desktop\malware.exe
+lpNewFileName=C:\WINDOWS\system32\drivers32\NHL 2003 No-Cd Crack.exe
+Return=1
+Return=SUCCESS
+#322500000
+CreateFile
+hName=C:\Documents and Settings\All Users\Desktop\malware.exe
+desiredAccess=GENERIC_READ 
+creationDisposition=OPEN_EXISTING
+Return=50
+Return=SUCCESS
+#322500000
+CopyFile
+lpExistingFileName=C:\Documents and Settings\All Users\Desktop\malware.exe
+lpNewFileName=C:\WINDOWS\system32\drivers32\NHL 2002 No-Cd Crack.exe
+Return=1
+Return=SUCCESS
+#322900000
+CreateFile
+hName=C:\Documents and Settings\All Users\Desktop\malware.exe
+desiredAccess=GENERIC_READ 
+creationDisposition=OPEN_EXISTING
+Return=54
+Return=SUCCESS
+#322900000
+CopyFile
+lpExistingFileName=C:\Documents and Settings\All Users\Desktop\malware.exe
+lpNewFileName=C:\WINDOWS\system32\drivers32\F1 2002 No-Cd Crack.exe
+Return=1
+Return=SUCCESS
+#323520000
+CreateFile
+hName=C:\Documents and Settings\All Users\Desktop\malware.exe
+desiredAccess=GENERIC_READ 
+creationDisposition=OPEN_EXISTING
+Return=50
+Return=SUCCESS
+#323520000
+CopyFile
+lpExistingFileName=C:\Documents and Settings\All Users\Desktop\malware.exe
+lpNewFileName=C:\WINDOWS\system32\drivers32\NASCAR Thunder 2003 No-Cd Crack.exe
+Return=1
+Return=SUCCESS
+#324000000
+CreateFile
+hName=C:\Documents and Settings\All Users\Desktop\malware.exe
+desiredAccess=GENERIC_READ 
+creationDisposition=OPEN_EXISTING
+Return=54
+Return=SUCCESS
+#324000000
+CopyFile
+lpExistingFileName=C:\Documents and Settings\All Users\Desktop\malware.exe
+lpNewFileName=C:\WINDOWS\system32\drivers32\WinZip 8.1 Crack.exe
+Return=1
+Return=SUCCESS
+#324610000
+CreateFile
+hName=C:\Documents and Settings\All Users\Desktop\malware.exe
+desiredAccess=GENERIC_READ 
+creationDisposition=OPEN_EXISTING
+Return=50
+Return=SUCCESS
+#324610000
+CopyFile
+lpExistingFileName=C:\Documents and Settings\All Users\Desktop\malware.exe
+lpNewFileName=C:\WINDOWS\system32\drivers32\WinZip 8.0 Crack.exe
+Return=1
+Return=SUCCESS
+#325020000
+CreateFile
+hName=C:\Documents and Settings\All Users\Desktop\malware.exe
+desiredAccess=GENERIC_READ 
+creationDisposition=OPEN_EXISTING
+Return=54
+Return=SUCCESS
+#325020000
+CopyFile
+lpExistingFileName=C:\Documents and Settings\All Users\Desktop\malware.exe
+lpNewFileName=C:\WINDOWS\system32\drivers32\Ad-aware 6.0 Crack.exe
+Return=1
+Return=SUCCESS
+#325570000
+CreateFile
+hName=C:\Documents and Settings\All Users\Desktop\malware.exe
+desiredAccess=GENERIC_READ 
+creationDisposition=OPEN_EXISTING
+Return=50
+Return=SUCCESS
+#325570000
+CopyFile
+lpExistingFileName=C:\Documents and Settings\All Users\Desktop\malware.exe
+lpNewFileName=C:\WINDOWS\system32\drivers32\Download Accelerator Plus 5.3 Crack.exe
+Return=1
+Return=SUCCESS
+#325950000
+CreateFile
+hName=C:\Documents and Settings\All Users\Desktop\malware.exe
+desiredAccess=GENERIC_READ 
+creationDisposition=OPEN_EXISTING
+Return=54
+Return=SUCCESS
+#325950000
+CopyFile
+lpExistingFileName=C:\Documents and Settings\All Users\Desktop\malware.exe
+lpNewFileName=C:\WINDOWS\system32\drivers32\DAP Plus 5.3 Crack.exe
+Return=1
+Return=SUCCESS
+#326690000
+CreateFile
+hName=C:\Documents and Settings\All Users\Desktop\malware.exe
+desiredAccess=GENERIC_READ 
+creationDisposition=OPEN_EXISTING
+Return=50
+Return=SUCCESS
+#326690000
+CopyFile
+lpExistingFileName=C:\Documents and Settings\All Users\Desktop\malware.exe
+lpNewFileName=C:\WINDOWS\system32\drivers32\WinRAR 3.11 Crack.exe
+Return=1
+Return=SUCCESS
+#327020000
+CreateFile
+hName=C:\Documents and Settings\All Users\Desktop\malware.exe
+desiredAccess=GENERIC_READ 
+creationDisposition=OPEN_EXISTING
+Return=54
+Return=SUCCESS
+#327020000
+CopyFile
+lpExistingFileName=C:\Documents and Settings\All Users\Desktop\malware.exe
+lpNewFileName=C:\WINDOWS\system32\drivers32\WinRAR 3.12 Crack.exe
+Return=1
+Return=SUCCESS
+#327410000
+CreateFile
+hName=C:\Documents and Settings\All Users\Desktop\malware.exe
+desiredAccess=GENERIC_READ 
+creationDisposition=OPEN_EXISTING
+Return=50
+Return=SUCCESS
+#327410000
+CopyFile
+lpExistingFileName=C:\Documents and Settings\All Users\Desktop\malware.exe
+lpNewFileName=C:\WINDOWS\system32\drivers32\RealOne Player 2.0 Crack.exe
+Return=1
+Return=SUCCESS
+#327640000
+CreateFile
+hName=C:\Documents and Settings\All Users\Desktop\malware.exe
+desiredAccess=GENERIC_READ 
+creationDisposition=OPEN_EXISTING
+Return=54
+Return=SUCCESS
+#327640000
+CopyFile
+lpExistingFileName=C:\Documents and Settings\All Users\Desktop\malware.exe
+lpNewFileName=C:\WINDOWS\system32\drivers32\Divx 5.x Crack.exe
+Return=1
+Return=SUCCESS
+#327860000
+CreateFile
+hName=C:\Documents and Settings\All Users\Desktop\malware.exe
+desiredAccess=GENERIC_READ 
+creationDisposition=OPEN_EXISTING
+Return=50
+Return=SUCCESS
+#327860000
+CopyFile
+lpExistingFileName=C:\Documents and Settings\All Users\Desktop\malware.exe
+lpNewFileName=C:\WINDOWS\system32\drivers32\ZoneAlarm 3.7.143 Crack.exe
+Return=1
+Return=SUCCESS
+#328100000
+CreateFile
+hName=C:\Documents and Settings\All Users\Desktop\malware.exe
+desiredAccess=GENERIC_READ 
+creationDisposition=OPEN_EXISTING
+Return=54
+Return=SUCCESS
+#328100000
+CopyFile
+lpExistingFileName=C:\Documents and Settings\All Users\Desktop\malware.exe
+lpNewFileName=C:\WINDOWS\system32\drivers32\ZoneAlarm 3.8 Crack.exe
+Return=1
+Return=SUCCESS
+#328650000
+CreateFile
+hName=C:\Documents and Settings\All Users\Desktop\malware.exe
+desiredAccess=GENERIC_READ 
+creationDisposition=OPEN_EXISTING
+Return=50
+Return=SUCCESS
+#328650000
+CopyFile
+lpExistingFileName=C:\Documents and Settings\All Users\Desktop\malware.exe
+lpNewFileName=C:\WINDOWS\system32\drivers32\ZoneAlarm 3.x Crack.exe
+Return=1
+Return=SUCCESS
+#328900000
+CreateFile
+hName=C:\Documents and Settings\All Users\Desktop\malware.exe
+desiredAccess=GENERIC_READ 
+creationDisposition=OPEN_EXISTING
+Return=54
+Return=SUCCESS
+#328900000
+CopyFile
+lpExistingFileName=C:\Documents and Settings\All Users\Desktop\malware.exe
+lpNewFileName=C:\WINDOWS\system32\drivers32\Adobe Acrobat 5.x Crack.exe
+Return=1
+Return=SUCCESS
+#329140000
+CreateFile
+hName=C:\Documents and Settings\All Users\Desktop\malware.exe
+desiredAccess=GENERIC_READ 
+creationDisposition=OPEN_EXISTING
+Return=50
+Return=SUCCESS
+#329140000
+CopyFile
+lpExistingFileName=C:\Documents and Settings\All Users\Desktop\malware.exe
+lpNewFileName=C:\WINDOWS\system32\drivers32\WS_FTP 5.x Crack.exe
+Return=1
+Return=SUCCESS
+#329580000
+CreateFile
+hName=C:\Documents and Settings\All Users\Desktop\malware.exe
+desiredAccess=GENERIC_READ 
+creationDisposition=OPEN_EXISTING
+Return=54
+Return=SUCCESS
+#329580000
+CopyFile
+lpExistingFileName=C:\Documents and Settings\All Users\Desktop\malware.exe
+lpNewFileName=C:\WINDOWS\system32\drivers32\SolSuite 2003 Crack.exe
+Return=1
+Return=SUCCESS
+#329820000
+CreateFile
+hName=C:\Documents and Settings\All Users\Desktop\malware.exe
+desiredAccess=GENERIC_READ 
+creationDisposition=OPEN_EXISTING
+Return=50
+Return=SUCCESS
+#329820000
+CopyFile
+lpExistingFileName=C:\Documents and Settings\All Users\Desktop\malware.exe
+lpNewFileName=C:\WINDOWS\system32\drivers32\QuickTime 6.x Crack.exe
+Return=1
+Return=SUCCESS
+#330090000
+CreateFile
+hName=C:\Documents and Settings\All Users\Desktop\malware.exe
+desiredAccess=GENERIC_READ 
+creationDisposition=OPEN_EXISTING
+Return=54
+Return=SUCCESS
+#330090000
+CopyFile
+lpExistingFileName=C:\Documents and Settings\All Users\Desktop\malware.exe
+lpNewFileName=C:\WINDOWS\system32\drivers32\Winamp 2.91 Crack.exe
+Return=1
+Return=SUCCESS
+#330610000
+CreateFile
+hName=C:\Documents and Settings\All Users\Desktop\malware.exe
+desiredAccess=GENERIC_READ 
+creationDisposition=OPEN_EXISTING
+Return=50
+Return=SUCCESS
+#330610000
+CopyFile
+lpExistingFileName=C:\Documents and Settings\All Users\Desktop\malware.exe
+lpNewFileName=C:\WINDOWS\system32\drivers32\Winamp 3.x Crack.exe
+Return=1
+Return=SUCCESS
+#330880000
+CreateFile
+hName=C:\Documents and Settings\All Users\Desktop\malware.exe
+desiredAccess=GENERIC_READ 
+creationDisposition=OPEN_EXISTING
+Return=54
+Return=SUCCESS
+#330880000
+CopyFile
+lpExistingFileName=C:\Documents and Settings\All Users\Desktop\malware.exe
+lpNewFileName=C:\WINDOWS\system32\drivers32\Easy CD-DA Extractor 5.1 Crack.exe
+Return=1
+Return=SUCCESS
+#331110000
+CreateFile
+hName=C:\Documents and Settings\All Users\Desktop\malware.exe
+desiredAccess=GENERIC_READ 
+creationDisposition=OPEN_EXISTING
+Return=50
+Return=SUCCESS
+#331110000
+CopyFile
+lpExistingFileName=C:\Documents and Settings\All Users\Desktop\malware.exe
+lpNewFileName=C:\WINDOWS\system32\drivers32\Easy CD-DA Extractor 5.x Crack.exe
+Return=1
+Return=SUCCESS
+#331390000
+CreateFile
+hName=C:\Documents and Settings\All Users\Desktop\malware.exe
+desiredAccess=GENERIC_READ 
+creationDisposition=OPEN_EXISTING
+Return=54
+Return=SUCCESS
+#331390000
+CopyFile
+lpExistingFileName=C:\Documents and Settings\All Users\Desktop\malware.exe
+lpNewFileName=C:\WINDOWS\system32\drivers32\MusicMatch Jukebox 8.0 Crack.exe
+Return=1
+Return=SUCCESS
+#331630000
+CreateFile
+hName=C:\Documents and Settings\All Users\Desktop\malware.exe
+desiredAccess=GENERIC_READ 
+creationDisposition=OPEN_EXISTING
+Return=50
+Return=SUCCESS
+#331630000
+CopyFile
+lpExistingFileName=C:\Documents and Settings\All Users\Desktop\malware.exe
+lpNewFileName=C:\WINDOWS\system32\drivers32\MusicMatch Jukebox 8.x Crack.exe
+Return=1
+Return=SUCCESS
+#332260000
+CreateFile
+hName=C:\Documents and Settings\All Users\Desktop\malware.exe
+desiredAccess=GENERIC_READ 
+creationDisposition=OPEN_EXISTING
+Return=54
+Return=SUCCESS
+#332260000
+CopyFile
+lpExistingFileName=C:\Documents and Settings\All Users\Desktop\malware.exe
+lpNewFileName=C:\WINDOWS\system32\drivers32\Internet Download Manager 3.15 Crack.exe
+Return=1
+Return=SUCCESS
+#332850000
+CreateFile
+hName=C:\Documents and Settings\All Users\Desktop\malware.exe
+desiredAccess=GENERIC_READ 
+creationDisposition=OPEN_EXISTING
+Return=50
+Return=SUCCESS
+#332850000
+CopyFile
+lpExistingFileName=C:\Documents and Settings\All Users\Desktop\malware.exe
+lpNewFileName=C:\WINDOWS\system32\drivers32\Internet Download Manager 3.x Crack.exe
+Return=1
+Return=SUCCESS
+#333370000
+CreateFile
+hName=C:\Documents and Settings\All Users\Desktop\malware.exe
+desiredAccess=GENERIC_READ 
+creationDisposition=OPEN_EXISTING
+Return=54
+Return=SUCCESS
+#333370000
+CopyFile
+lpExistingFileName=C:\Documents and Settings\All Users\Desktop\malware.exe
+lpNewFileName=C:\WINDOWS\system32\drivers32\WinZip 9.x Crack.exe
+Return=1
+Return=SUCCESS
+#334290000
+CreateFile
+hName=C:\Documents and Settings\All Users\Desktop\malware.exe
+desiredAccess=GENERIC_READ 
+creationDisposition=OPEN_EXISTING
+Return=50
+Return=SUCCESS
+#334290000
+CopyFile
+lpExistingFileName=C:\Documents and Settings\All Users\Desktop\malware.exe
+lpNewFileName=C:\WINDOWS\system32\drivers32\PhotoShow 2.0 Crack.exe
+Return=1
+Return=SUCCESS
+#334980000
+CreateFile
+hName=C:\Documents and Settings\All Users\Desktop\malware.exe
+desiredAccess=GENERIC_READ 
+creationDisposition=OPEN_EXISTING
+Return=54
+Return=SUCCESS
+#334980000
+CopyFile
+lpExistingFileName=C:\Documents and Settings\All Users\Desktop\malware.exe
+lpNewFileName=C:\WINDOWS\system32\drivers32\PhotoShow 2.x Crack.exe
+Return=1
+Return=SUCCESS
+#335440000
+CreateFile
+hName=C:\Documents and Settings\All Users\Desktop\malware.exe
+desiredAccess=GENERIC_READ 
+creationDisposition=OPEN_EXISTING
+Return=50
+Return=SUCCESS
+#335440000
+CopyFile
+lpExistingFileName=C:\Documents and Settings\All Users\Desktop\malware.exe
+lpNewFileName=C:\WINDOWS\system32\drivers32\SWiSH 2.0 Crack.exe
+Return=1
+Return=SUCCESS
+#336310000
+CreateFile
+hName=C:\Documents and Settings\All Users\Desktop\malware.exe
+desiredAccess=GENERIC_READ 
+creationDisposition=OPEN_EXISTING
+Return=54
+Return=SUCCESS
+#336310000
+CopyFile
+lpExistingFileName=C:\Documents and Settings\All Users\Desktop\malware.exe
+lpNewFileName=C:\WINDOWS\system32\drivers32\SWiSH 2.x Crack.exe
+Return=1
+Return=SUCCESS
+#336740000
+CreateFile
+hName=C:\Documents and Settings\All Users\Desktop\malware.exe
+desiredAccess=GENERIC_READ 
+creationDisposition=OPEN_EXISTING
+Return=50
+Return=SUCCESS
+#336740000
+CopyFile
+lpExistingFileName=C:\Documents and Settings\All Users\Desktop\malware.exe
+lpNewFileName=C:\WINDOWS\system32\drivers32\ACDSee 2.4.x Crack.exe
+Return=1
+Return=SUCCESS
+#337150000
+CreateFile
+hName=C:\Documents and Settings\All Users\Desktop\malware.exe
+desiredAccess=GENERIC_READ 
+creationDisposition=OPEN_EXISTING
+Return=54
+Return=SUCCESS
+#337150000
+CopyFile
+lpExistingFileName=C:\Documents and Settings\All Users\Desktop\malware.exe
+lpNewFileName=C:\WINDOWS\system32\drivers32\Paint Shop Pro 8.x Crack.exe
+Return=1
+Return=SUCCESS
+#338580000
+CreateFile
+hName=C:\Documents and Settings\All Users\Desktop\malware.exe
+desiredAccess=GENERIC_READ 
+creationDisposition=OPEN_EXISTING
+Return=50
+Return=SUCCESS
+#338580000
+CopyFile
+lpExistingFileName=C:\Documents and Settings\All Users\Desktop\malware.exe
+lpNewFileName=C:\WINDOWS\system32\drivers32\Adobe Photoshop 7.x Crack.exe
+Return=1
+Return=SUCCESS
+#340170000
+CreateFile
+hName=C:\Documents and Settings\All Users\Desktop\malware.exe
+desiredAccess=GENERIC_READ 
+creationDisposition=OPEN_EXISTING
+Return=54
+Return=SUCCESS
+#340170000
+CopyFile
+lpExistingFileName=C:\Documents and Settings\All Users\Desktop\malware.exe
+lpNewFileName=C:\WINDOWS\system32\drivers32\Adobe Photoshop 8.x Crack.exe
+Return=1
+Return=SUCCESS
+#340630000
+CreateFile
+hName=C:\Documents and Settings\All Users\Desktop\malware.exe
+desiredAccess=GENERIC_READ 
+creationDisposition=OPEN_EXISTING
+Return=50
+Return=SUCCESS
+#340620000
+CopyFile
+lpExistingFileName=C:\Documents and Settings\All Users\Desktop\malware.exe
+lpNewFileName=C:\WINDOWS\system32\drivers32\Paint Shop Pro 9.x Crack.exe
+Return=1
+Return=SUCCESS
+#341270000
+CreateFile
+hName=C:\Documents and Settings\All Users\Desktop\malware.exe
+desiredAccess=GENERIC_READ 
+creationDisposition=OPEN_EXISTING
+Return=54
+Return=SUCCESS
+#341270000
+CopyFile
+lpExistingFileName=C:\Documents and Settings\All Users\Desktop\malware.exe
+lpNewFileName=C:\WINDOWS\system32\drivers32\Macromedia Flash MX 6.x Crack.exe
+Return=1
+Return=SUCCESS
+#341760000
+CreateFile
+hName=C:\Documents and Settings\All Users\Desktop\malware.exe
+desiredAccess=GENERIC_READ 
+creationDisposition=OPEN_EXISTING
+Return=50
+Return=SUCCESS
+#341760000
+CopyFile
+lpExistingFileName=C:\Documents and Settings\All Users\Desktop\malware.exe
+lpNewFileName=C:\WINDOWS\system32\drivers32\Ulead PhotoImpact 8.x Crack.exe
+Return=1
+Return=SUCCESS
+#342290000
+CreateFile
+hName=C:\Documents and Settings\All Users\Desktop\malware.exe
+desiredAccess=GENERIC_READ 
+creationDisposition=OPEN_EXISTING
+Return=54
+Return=SUCCESS
+#342290000
+CopyFile
+lpExistingFileName=C:\Documents and Settings\All Users\Desktop\malware.exe
+lpNewFileName=C:\WINDOWS\system32\drivers32\Ulead PhotoImpact 9.x Crack.exe
+Return=1
+Return=SUCCESS
+#342740000
+CreateFile
+hName=C:\Documents and Settings\All Users\Desktop\malware.exe
+desiredAccess=GENERIC_READ 
+creationDisposition=OPEN_EXISTING
+Return=50
+Return=SUCCESS
+#342740000
+CopyFile
+lpExistingFileName=C:\Documents and Settings\All Users\Desktop\malware.exe
+lpNewFileName=C:\WINDOWS\system32\drivers32\Ulead GIF Animator 5.x Crack.exe
+Return=1
+Return=SUCCESS
+#343370000
+CreateFile
+hName=C:\Documents and Settings\All Users\Desktop\malware.exe
+desiredAccess=GENERIC_READ 
+creationDisposition=OPEN_EXISTING
+Return=54
+Return=SUCCESS
+#343370000
+CopyFile
+lpExistingFileName=C:\Documents and Settings\All Users\Desktop\malware.exe
+lpNewFileName=C:\WINDOWS\system32\drivers32\Ulead GIF Animator 6.x Crack.exe
+Return=1
+Return=SUCCESS
+#343820000
+CreateFile
+hName=C:\Documents and Settings\All Users\Desktop\malware.exe
+desiredAccess=GENERIC_READ 
+creationDisposition=OPEN_EXISTING
+Return=50
+Return=SUCCESS
+#343810000
+CopyFile
+lpExistingFileName=C:\Documents and Settings\All Users\Desktop\malware.exe
+lpNewFileName=C:\WINDOWS\system32\drivers32\Nero Burning ROM 5.5.x Crack.exe
+Return=1
+Return=SUCCESS
+#344360000
+CreateFile
+hName=C:\Documents and Settings\All Users\Desktop\malware.exe
+desiredAccess=GENERIC_READ 
+creationDisposition=OPEN_EXISTING
+Return=54
+Return=SUCCESS
+#344360000
+CopyFile
+lpExistingFileName=C:\Documents and Settings\All Users\Desktop\malware.exe
+lpNewFileName=C:\WINDOWS\system32\drivers32\Nero Burning ROM 6.x Crack.exe
+Return=1
+Return=SUCCESS
+#344780000
+CreateFile
+hName=C:\Documents and Settings\All Users\Desktop\malware.exe
+desiredAccess=GENERIC_READ 
+creationDisposition=OPEN_EXISTING
+Return=50
+Return=SUCCESS
+#344780000
+CopyFile
+lpExistingFileName=C:\Documents and Settings\All Users\Desktop\malware.exe
+lpNewFileName=C:\WINDOWS\system32\drivers32\Network Cable e ADSL Speed 1.x Crack.exe
+Return=1
+Return=SUCCESS
+#345390000
+CreateFile
+hName=C:\Documents and Settings\All Users\Desktop\malware.exe
+desiredAccess=GENERIC_READ 
+creationDisposition=OPEN_EXISTING
+Return=54
+Return=SUCCESS
+#345390000
+CopyFile
+lpExistingFileName=C:\Documents and Settings\All Users\Desktop\malware.exe
+lpNewFileName=C:\WINDOWS\system32\drivers32\Network Cable e ADSL Speed 1.0.6 Crack.exe
+Return=1
+Return=SUCCESS
+#345810000
+CreateFile
+hName=C:\Documents and Settings\All Users\Desktop\malware.exe
+desiredAccess=GENERIC_READ 
+creationDisposition=OPEN_EXISTING
+Return=50
+Return=SUCCESS
+#345810000
+CopyFile
+lpExistingFileName=C:\Documents and Settings\All Users\Desktop\malware.exe
+lpNewFileName=C:\WINDOWS\system32\drivers32\NetPumper 1.03 Crack.exe
+Return=1
+Return=SUCCESS
+#346440000
+CreateFile
+hName=C:\Documents and Settings\All Users\Desktop\malware.exe
+desiredAccess=GENERIC_READ 
+creationDisposition=OPEN_EXISTING
+Return=54
+Return=SUCCESS
+#346440000
+CopyFile
+lpExistingFileName=C:\Documents and Settings\All Users\Desktop\malware.exe
+lpNewFileName=C:\WINDOWS\system32\drivers32\Internet Turbo 2003 5.4 Crack.exe
+Return=1
+Return=SUCCESS
+#346790000
+CreateFile
+hName=C:\Documents and Settings\All Users\Desktop\malware.exe
+desiredAccess=GENERIC_READ 
+creationDisposition=OPEN_EXISTING
+Return=50
+Return=SUCCESS
+#346790000
+CopyFile
+lpExistingFileName=C:\Documents and Settings\All Users\Desktop\malware.exe
+lpNewFileName=C:\WINDOWS\system32\drivers32\Internet Turbo 2003 5.x Crack.exe
+Return=1
+Return=SUCCESS
+#347400000
+CreateFile
+hName=C:\Documents and Settings\All Users\Desktop\malware.exe
+desiredAccess=GENERIC_READ 
+creationDisposition=OPEN_EXISTING
+Return=54
+Return=SUCCESS
+#347390000
+CopyFile
+lpExistingFileName=C:\Documents and Settings\All Users\Desktop\malware.exe
+lpNewFileName=C:\WINDOWS\system32\drivers32\KaZaA Speedup 3.03 Crack.exe
+Return=1
+Return=SUCCESS
+#347810000
+CreateFile
+hName=C:\Documents and Settings\All Users\Desktop\malware.exe
+desiredAccess=GENERIC_READ 
+creationDisposition=OPEN_EXISTING
+Return=50
+Return=SUCCESS
+#347810000
+CopyFile
+lpExistingFileName=C:\Documents and Settings\All Users\Desktop\malware.exe
+lpNewFileName=C:\WINDOWS\system32\drivers32\KaZaA Speedup 3.x Crack.exe
+Return=1
+Return=SUCCESS
+#348600000
+CreateFile
+hName=C:\Documents and Settings\All Users\Desktop\malware.exe
+desiredAccess=GENERIC_READ 
+creationDisposition=OPEN_EXISTING
+Return=54
+Return=SUCCESS
+#348600000
+CopyFile
+lpExistingFileName=C:\Documents and Settings\All Users\Desktop\malware.exe
+lpNewFileName=C:\WINDOWS\system32\drivers32\GetRight 5.0 Crack.exe
+Return=1
+Return=SUCCESS
+#349100000
+CreateFile
+hName=C:\Documents and Settings\All Users\Desktop\malware.exe
+desiredAccess=GENERIC_READ 
+creationDisposition=OPEN_EXISTING
+Return=50
+Return=SUCCESS
+#349100000
+CopyFile
+lpExistingFileName=C:\Documents and Settings\All Users\Desktop\malware.exe
+lpNewFileName=C:\WINDOWS\system32\drivers32\GetRight 5.x Crack.exe
+Return=1
+Return=SUCCESS
+#349490000
+CreateFile
+hName=C:\Documents and Settings\All Users\Desktop\malware.exe
+desiredAccess=GENERIC_READ 
+creationDisposition=OPEN_EXISTING
+Return=54
+Return=SUCCESS
+#349490000
+CopyFile
+lpExistingFileName=C:\Documents and Settings\All Users\Desktop\malware.exe
+lpNewFileName=C:\WINDOWS\system32\drivers32\GetRight 6.x Crack.exe
+Return=1
+Return=SUCCESS
+#350040000
+CreateFile
+hName=C:\Documents and Settings\All Users\Desktop\malware.exe
+desiredAccess=GENERIC_READ 
+creationDisposition=OPEN_EXISTING
+Return=50
+Return=SUCCESS
+#350020000
+CopyFile
+lpExistingFileName=C:\Documents and Settings\All Users\Desktop\malware.exe
+lpNewFileName=C:\WINDOWS\system32\drivers32\mIRC 6.03 Crack.exe
+Return=1
+Return=SUCCESS
+#350750000
+CreateFile
+hName=C:\Documents and Settings\All Users\Desktop\malware.exe
+desiredAccess=GENERIC_READ 
+creationDisposition=OPEN_EXISTING
+Return=54
+Return=SUCCESS
+#350750000
+CopyFile
+lpExistingFileName=C:\Documents and Settings\All Users\Desktop\malware.exe
+lpNewFileName=C:\WINDOWS\system32\drivers32\mIRC 6.x Crack.exe
+Return=1
+Return=SUCCESS
+#351230000
+CreateFile
+hName=C:\Documents and Settings\All Users\Desktop\malware.exe
+desiredAccess=GENERIC_READ 
+creationDisposition=OPEN_EXISTING
+Return=50
+Return=SUCCESS
+#351230000
+CopyFile
+lpExistingFileName=C:\Documents and Settings\All Users\Desktop\malware.exe
+lpNewFileName=C:\WINDOWS\system32\drivers32\Alpha Communicator 5.0 Crack.exe
+Return=1
+Return=SUCCESS
+#351510000
+CreateFile
+hName=C:\Documents and Settings\All Users\Desktop\malware.exe
+desiredAccess=GENERIC_READ 
+creationDisposition=OPEN_EXISTING
+Return=54
+Return=SUCCESS
+#351510000
+CopyFile
+lpExistingFileName=C:\Documents and Settings\All Users\Desktop\malware.exe
+lpNewFileName=C:\WINDOWS\system32\drivers32\Direct Connect 1.x Crack.exe
+Return=1
+Return=SUCCESS
+#351770000
+CreateFile
+hName=C:\Documents and Settings\All Users\Desktop\malware.exe
+desiredAccess=GENERIC_READ 
+creationDisposition=OPEN_EXISTING
+Return=50
+Return=SUCCESS
+#351770000
+CopyFile
+lpExistingFileName=C:\Documents and Settings\All Users\Desktop\malware.exe
+lpNewFileName=C:\WINDOWS\system32\drivers32\ICUII 5.7 Crack.exe
+Return=1
+Return=SUCCESS
+#352050000
+CreateFile
+hName=C:\Documents and Settings\All Users\Desktop\malware.exe
+desiredAccess=GENERIC_READ 
+creationDisposition=OPEN_EXISTING
+Return=54
+Return=SUCCESS
+#352050000
+CopyFile
+lpExistingFileName=C:\Documents and Settings\All Users\Desktop\malware.exe
+lpNewFileName=C:\WINDOWS\system32\drivers32\GeoWhere 2.11 Crack.exe
+Return=1
+Return=SUCCESS
+#352460000
+CreateFile
+hName=C:\Documents and Settings\All Users\Desktop\malware.exe
+desiredAccess=GENERIC_READ 
+creationDisposition=OPEN_EXISTING
+Return=50
+Return=SUCCESS
+#352450000
+CopyFile
+lpExistingFileName=C:\Documents and Settings\All Users\Desktop\malware.exe
+lpNewFileName=C:\WINDOWS\system32\drivers32\GeoWhere 2.x Crack.exe
+Return=1
+Return=SUCCESS
+#352700000
+CreateFile
+hName=C:\Documents and Settings\All Users\Desktop\malware.exe
+desiredAccess=GENERIC_READ 
+creationDisposition=OPEN_EXISTING
+Return=54
+Return=SUCCESS
+#352700000
+CopyFile
+lpExistingFileName=C:\Documents and Settings\All Users\Desktop\malware.exe
+lpNewFileName=C:\WINDOWS\system32\drivers32\LingoWare 3.0 Crack.exe
+Return=1
+Return=SUCCESS
+#352950000
+CreateFile
+hName=C:\Documents and Settings\All Users\Desktop\malware.exe
+desiredAccess=GENERIC_READ 
+creationDisposition=OPEN_EXISTING
+Return=50
+Return=SUCCESS
+#352950000
+CopyFile
+lpExistingFileName=C:\Documents and Settings\All Users\Desktop\malware.exe
+lpNewFileName=C:\WINDOWS\system32\drivers32\FlashGet 1.3 Crack.exe
+Return=1
+Return=SUCCESS
+#353480000
+CreateFile
+hName=C:\Documents and Settings\All Users\Desktop\malware.exe
+desiredAccess=GENERIC_READ 
+creationDisposition=OPEN_EXISTING
+Return=54
+Return=SUCCESS
+#353480000
+CopyFile
+lpExistingFileName=C:\Documents and Settings\All Users\Desktop\malware.exe
+lpNewFileName=C:\WINDOWS\system32\drivers32\FlashGet 1.x Crack.exe
+Return=1
+Return=SUCCESS
+#353720000
+CreateFile
+hName=C:\Documents and Settings\All Users\Desktop\malware.exe
+desiredAccess=GENERIC_READ 
+creationDisposition=OPEN_EXISTING
+Return=50
+Return=SUCCESS
+#353720000
+CopyFile
+lpExistingFileName=C:\Documents and Settings\All Users\Desktop\malware.exe
+lpNewFileName=C:\WINDOWS\system32\drivers32\SnagIt 6.2.2 Crack.exe
+Return=1
+Return=SUCCESS
+#353950000
+CreateFile
+hName=C:\Documents and Settings\All Users\Desktop\malware.exe
+desiredAccess=GENERIC_READ 
+creationDisposition=OPEN_EXISTING
+Return=54
+Return=SUCCESS
+#353950000
+CopyFile
+lpExistingFileName=C:\Documents and Settings\All Users\Desktop\malware.exe
+lpNewFileName=C:\WINDOWS\system32\drivers32\Hex Workshop Hex Editor 4.1 Crack.exe
+Return=1
+Return=SUCCESS
+#354380000
+CreateFile
+hName=C:\Documents and Settings\All Users\Desktop\malware.exe
+desiredAccess=GENERIC_READ 
+creationDisposition=OPEN_EXISTING
+Return=50
+Return=SUCCESS
+#354380000
+CopyFile
+lpExistingFileName=C:\Documents and Settings\All Users\Desktop\malware.exe
+lpNewFileName=C:\WINDOWS\system32\drivers32\UltraEdit-32 10.00b Crack.exe
+Return=1
+Return=SUCCESS
+#354610000
+CreateFile
+hName=C:\Documents and Settings\All Users\Desktop\malware.exe
+desiredAccess=GENERIC_READ 
+creationDisposition=OPEN_EXISTING
+Return=54
+Return=SUCCESS
+#354610000
+CopyFile
+lpExistingFileName=C:\Documents and Settings\All Users\Desktop\malware.exe
+lpNewFileName=C:\WINDOWS\system32\drivers32\UltraEdit-32 10.x Crack.exe
+Return=1
+Return=SUCCESS
+#354860000
+CreateFile
+hName=C:\Documents and Settings\All Users\Desktop\malware.exe
+desiredAccess=GENERIC_READ 
+creationDisposition=OPEN_EXISTING
+Return=50
+Return=SUCCESS
+#354860000
+CopyFile
+lpExistingFileName=C:\Documents and Settings\All Users\Desktop\malware.exe
+lpNewFileName=C:\WINDOWS\system32\drivers32\Armor2net Personal Firewall 3.1 Crack.exe
+Return=1
+Return=SUCCESS
+#355090000
+CreateFile
+hName=C:\Documents and Settings\All Users\Desktop\malware.exe
+desiredAccess=GENERIC_READ 
+creationDisposition=OPEN_EXISTING
+Return=54
+Return=SUCCESS
+#355090000
+CopyFile
+lpExistingFileName=C:\Documents and Settings\All Users\Desktop\malware.exe
+lpNewFileName=C:\WINDOWS\system32\drivers32\WinAce 2.2 Crack.exe
+Return=1
+Return=SUCCESS
+#355780000
+CreateFile
+hName=C:\Documents and Settings\All Users\Desktop\malware.exe
+desiredAccess=GENERIC_READ 
+creationDisposition=OPEN_EXISTING
+Return=50
+Return=SUCCESS
+#355780000
+CopyFile
+lpExistingFileName=C:\Documents and Settings\All Users\Desktop\malware.exe
+lpNewFileName=C:\WINDOWS\system32\drivers32\WinAce 2.x Crack.exe
+Return=1
+Return=SUCCESS
+#356110000
+CreateFile
+hName=C:\Documents and Settings\All Users\Desktop\malware.exe
+desiredAccess=GENERIC_READ 
+creationDisposition=OPEN_EXISTING
+Return=54
+Return=SUCCESS
+#356110000
+CopyFile
+lpExistingFileName=C:\Documents and Settings\All Users\Desktop\malware.exe
+lpNewFileName=C:\WINDOWS\system32\drivers32\CloneCD 4.x Crack.exe
+Return=1
+Return=SUCCESS
+#356400000
+CreateFile
+hName=C:\Documents and Settings\All Users\Desktop\malware.exe
+desiredAccess=GENERIC_READ 
+creationDisposition=OPEN_EXISTING
+Return=50
+Return=SUCCESS
+#356400000
+CopyFile
+lpExistingFileName=C:\Documents and Settings\All Users\Desktop\malware.exe
+lpNewFileName=C:\WINDOWS\system32\drivers32\CloneCD 5.0 Crack.exe
+Return=1
+Return=SUCCESS
+#356640000
+CreateFile
+hName=C:\Documents and Settings\All Users\Desktop\malware.exe
+desiredAccess=GENERIC_READ 
+creationDisposition=OPEN_EXISTING
+Return=54
+Return=SUCCESS
+#356640000
+CopyFile
+lpExistingFileName=C:\Documents and Settings\All Users\Desktop\malware.exe
+lpNewFileName=C:\WINDOWS\system32\drivers32\FlashFXP 1.4 Crack.exe
+Return=1
+Return=SUCCESS
+#356890000
+CreateFile
+hName=C:\Documents and Settings\All Users\Desktop\malware.exe
+desiredAccess=GENERIC_READ 
+creationDisposition=OPEN_EXISTING
+Return=50
+Return=SUCCESS
+#356890000
+CopyFile
+lpExistingFileName=C:\Documents and Settings\All Users\Desktop\malware.exe
+lpNewFileName=C:\WINDOWS\system32\drivers32\FlashFXP 1.x Crack.exe
+Return=1
+Return=SUCCESS
+#357420000
+CreateFile
+hName=C:\Documents and Settings\All Users\Desktop\malware.exe
+desiredAccess=GENERIC_READ 
+creationDisposition=OPEN_EXISTING
+Return=54
+Return=SUCCESS
+#357420000
+CopyFile
+lpExistingFileName=C:\Documents and Settings\All Users\Desktop\malware.exe
+lpNewFileName=C:\WINDOWS\system32\drivers32\WindowBlinds 4.0 Crack.exe
+Return=1
+Return=SUCCESS
+#357680000
+CreateFile
+hName=C:\Documents and Settings\All Users\Desktop\malware.exe
+desiredAccess=GENERIC_READ 
+creationDisposition=OPEN_EXISTING
+Return=50
+Return=SUCCESS
+#357670000
+CopyFile
+lpExistingFileName=C:\Documents and Settings\All Users\Desktop\malware.exe
+lpNewFileName=C:\WINDOWS\system32\drivers32\WindowBlinds 4.x Crack.exe
+Return=1
+Return=SUCCESS
+#357930000
+CreateFile
+hName=C:\Documents and Settings\All Users\Desktop\malware.exe
+desiredAccess=GENERIC_READ 
+creationDisposition=OPEN_EXISTING
+Return=54
+Return=SUCCESS
+#357930000
+CopyFile
+lpExistingFileName=C:\Documents and Settings\All Users\Desktop\malware.exe
+lpNewFileName=C:\WINDOWS\system32\drivers32\IconPackager 2.12 Crack.exe
+Return=1
+Return=SUCCESS
+#358320000
+CreateFile
+hName=C:\Documents and Settings\All Users\Desktop\malware.exe
+desiredAccess=GENERIC_READ 
+creationDisposition=OPEN_EXISTING
+Return=50
+Return=SUCCESS
+#358320000
+CopyFile
+lpExistingFileName=C:\Documents and Settings\All Users\Desktop\malware.exe
+lpNewFileName=C:\WINDOWS\system32\drivers32\IconPackager 2.x Crack.exe
+Return=1
+Return=SUCCESS
+#358580000
+CreateFile
+hName=C:\Documents and Settings\All Users\Desktop\malware.exe
+desiredAccess=GENERIC_READ 
+creationDisposition=OPEN_EXISTING
+Return=54
+Return=SUCCESS
+#358570000
+CopyFile
+lpExistingFileName=C:\Documents and Settings\All Users\Desktop\malware.exe
+lpNewFileName=C:\WINDOWS\system32\drivers32\Microangelo 5.58 Crack.exe
+Return=1
+Return=SUCCESS
+#358820000
+CreateFile
+hName=C:\Documents and Settings\All Users\Desktop\malware.exe
+desiredAccess=GENERIC_READ 
+creationDisposition=OPEN_EXISTING
+Return=50
+Return=SUCCESS
+#358820000
+CopyFile
+lpExistingFileName=C:\Documents and Settings\All Users\Desktop\malware.exe
+lpNewFileName=C:\WINDOWS\system32\drivers32\Microangelo 5.x Crack.exe
+Return=1
+Return=SUCCESS
+#359270000
+CreateFile
+hName=C:\Documents and Settings\All Users\Desktop\malware.exe
+desiredAccess=GENERIC_READ 
+creationDisposition=OPEN_EXISTING
+Return=54
+Return=SUCCESS
+#359270000
+CopyFile
+lpExistingFileName=C:\Documents and Settings\All Users\Desktop\malware.exe
+lpNewFileName=C:\WINDOWS\system32\drivers32\Microangelo 6.x Crack.exe
+Return=1
+Return=SUCCESS
+#359510000
+CreateFile
+hName=C:\Documents and Settings\All Users\Desktop\malware.exe
+desiredAccess=GENERIC_READ 
+creationDisposition=OPEN_EXISTING
+Return=50
+Return=SUCCESS
+#359510000
+CopyFile
+lpExistingFileName=C:\Documents and Settings\All Users\Desktop\malware.exe
+lpNewFileName=C:\WINDOWS\system32\drivers32\Soul Reaver 3 Serial Generator.exe
+Return=1
+Return=SUCCESS
+#359760000
+CreateFile
+hName=C:\Documents and Settings\All Users\Desktop\malware.exe
+desiredAccess=GENERIC_READ 
+creationDisposition=OPEN_EXISTING
+Return=54
+Return=SUCCESS
+#359760000
+CopyFile
+lpExistingFileName=C:\Documents and Settings\All Users\Desktop\malware.exe
+lpNewFileName=C:\WINDOWS\system32\drivers32\Half-Life Serial Generator.exe
+Return=1
+Return=SUCCESS
+#360270000
+CreateFile
+hName=C:\Documents and Settings\All Users\Desktop\malware.exe
+desiredAccess=GENERIC_READ 
+creationDisposition=OPEN_EXISTING
+Return=50
+Return=SUCCESS
+#360270000
+CopyFile
+lpExistingFileName=C:\Documents and Settings\All Users\Desktop\malware.exe
+lpNewFileName=C:\WINDOWS\system32\drivers32\Half-Life II Serial Generator.exe
+Return=1
+Return=SUCCESS
+#360530000
+CreateFile
+hName=C:\Documents and Settings\All Users\Desktop\malware.exe
+desiredAccess=GENERIC_READ 
+creationDisposition=OPEN_EXISTING
+Return=54
+Return=SUCCESS
+#360530000
+CopyFile
+lpExistingFileName=C:\Documents and Settings\All Users\Desktop\malware.exe
+lpNewFileName=C:\WINDOWS\system32\drivers32\Knights of the Temple Serial Generator.exe
+Return=1
+Return=SUCCESS
+#360760000
+CreateFile
+hName=C:\Documents and Settings\All Users\Desktop\malware.exe
+desiredAccess=GENERIC_READ 
+creationDisposition=OPEN_EXISTING
+Return=50
+Return=SUCCESS
+#360760000
+CopyFile
+lpExistingFileName=C:\Documents and Settings\All Users\Desktop\malware.exe
+lpNewFileName=C:\WINDOWS\system32\drivers32\Tomb Raider - The Angel of Darkness Serial Generator.exe
+Return=1
+Return=SUCCESS
+#361060000
+CreateFile
+hName=C:\Documents and Settings\All Users\Desktop\malware.exe
+desiredAccess=GENERIC_READ 
+creationDisposition=OPEN_EXISTING
+Return=54
+Return=SUCCESS
+#361060000
+CopyFile
+lpExistingFileName=C:\Documents and Settings\All Users\Desktop\malware.exe
+lpNewFileName=C:\WINDOWS\system32\drivers32\Age of Mythology - The Titans Serial Generator.exe
+Return=1
+Return=SUCCESS
+#361310000
+CreateFile
+hName=C:\Documents and Settings\All Users\Desktop\malware.exe
+desiredAccess=GENERIC_READ 
+creationDisposition=OPEN_EXISTING
+Return=50
+Return=SUCCESS
+#361310000
+CopyFile
+lpExistingFileName=C:\Documents and Settings\All Users\Desktop\malware.exe
+lpNewFileName=C:\WINDOWS\system32\drivers32\Sniper Elite - Berlin 1943 Serial Generator.exe
+Return=1
+Return=SUCCESS
+#361550000
+CreateFile
+hName=C:\Documents and Settings\All Users\Desktop\malware.exe
+desiredAccess=GENERIC_READ 
+creationDisposition=OPEN_EXISTING
+Return=54
+Return=SUCCESS
+#361550000
+CopyFile
+lpExistingFileName=C:\Documents and Settings\All Users\Desktop\malware.exe
+lpNewFileName=C:\WINDOWS\system32\drivers32\Chrome Serial Generator.exe
+Return=1
+Return=SUCCESS
+#362150000
+CreateFile
+hName=C:\Documents and Settings\All Users\Desktop\malware.exe
+desiredAccess=GENERIC_READ 
+creationDisposition=OPEN_EXISTING
+Return=50
+Return=SUCCESS
+#362150000
+CopyFile
+lpExistingFileName=C:\Documents and Settings\All Users\Desktop\malware.exe
+lpNewFileName=C:\WINDOWS\system32\drivers32\Etherlords II Serial Generator.exe
+Return=1
+Return=SUCCESS
+#362390000
+CreateFile
+hName=C:\Documents and Settings\All Users\Desktop\malware.exe
+desiredAccess=GENERIC_READ 
+creationDisposition=OPEN_EXISTING
+Return=54
+Return=SUCCESS
+#362380000
+CopyFile
+lpExistingFileName=C:\Documents and Settings\All Users\Desktop\malware.exe
+lpNewFileName=C:\WINDOWS\system32\drivers32\Halo Serial Generator.exe
+Return=1
+Return=SUCCESS
+#362680000
+CreateFile
+hName=C:\Documents and Settings\All Users\Desktop\malware.exe
+desiredAccess=GENERIC_READ 
+creationDisposition=OPEN_EXISTING
+Return=50
+Return=SUCCESS
+#362680000
+CopyFile
+lpExistingFileName=C:\Documents and Settings\All Users\Desktop\malware.exe
+lpNewFileName=C:\WINDOWS\system32\drivers32\Dark Age of Camelot - Trials of Atlantis Serial Generator.exe
+Return=1
+Return=SUCCESS
+#362930000
+CreateFile
+hName=C:\Documents and Settings\All Users\Desktop\malware.exe
+desiredAccess=GENERIC_READ 
+creationDisposition=OPEN_EXISTING
+Return=54
+Return=SUCCESS
+#362930000
+CopyFile
+lpExistingFileName=C:\Documents and Settings\All Users\Desktop\malware.exe
+lpNewFileName=C:\WINDOWS\system32\drivers32\Lords of EverQuest Serial Generator.exe
+Return=1
+Return=SUCCESS
+#363190000
+CreateFile
+hName=C:\Documents and Settings\All Users\Desktop\malware.exe
+desiredAccess=GENERIC_READ 
+creationDisposition=OPEN_EXISTING
+Return=50
+Return=SUCCESS
+#363190000
+CopyFile
+lpExistingFileName=C:\Documents and Settings\All Users\Desktop\malware.exe
+lpNewFileName=C:\WINDOWS\system32\drivers32\FireStarter Serial Generator.exe
+Return=1
+Return=SUCCESS
+#363780000
+CreateFile
+hName=C:\Documents and Settings\All Users\Desktop\malware.exe
+desiredAccess=GENERIC_READ 
+creationDisposition=OPEN_EXISTING
+Return=54
+Return=SUCCESS
+#363780000
+CopyFile
+lpExistingFileName=C:\Documents and Settings\All Users\Desktop\malware.exe
+lpNewFileName=C:\WINDOWS\system32\drivers32\Unreal Tournament 2004 Serial Generator.exe
+Return=1
+Return=SUCCESS
+#364020000
+CreateFile
+hName=C:\Documents and Settings\All Users\Desktop\malware.exe
+desiredAccess=GENERIC_READ 
+creationDisposition=OPEN_EXISTING
+Return=50
+Return=SUCCESS
+#364020000
+CopyFile
+lpExistingFileName=C:\Documents and Settings\All Users\Desktop\malware.exe
+lpNewFileName=C:\WINDOWS\system32\drivers32\Unreal Tournament 2003 Serial Generator.exe
+Return=1
+Return=SUCCESS
+#364510000
+CreateFile
+hName=C:\Documents and Settings\All Users\Desktop\malware.exe
+desiredAccess=GENERIC_READ 
+creationDisposition=OPEN_EXISTING
+Return=54
+Return=SUCCESS
+#364510000
+CopyFile
+lpExistingFileName=C:\Documents and Settings\All Users\Desktop\malware.exe
+lpNewFileName=C:\WINDOWS\system32\drivers32\UT 2004 Serial Generator.exe
+Return=1
+Return=SUCCESS
+#364920000
+CreateFile
+hName=C:\Documents and Settings\All Users\Desktop\malware.exe
+desiredAccess=GENERIC_READ 
+creationDisposition=OPEN_EXISTING
+Return=50
+Return=SUCCESS
+#364920000
+CopyFile
+lpExistingFileName=C:\Documents and Settings\All Users\Desktop\malware.exe
+lpNewFileName=C:\WINDOWS\system32\drivers32\UT 2003 Serial Generator.exe
+Return=1
+Return=SUCCESS
+#365440000
+CreateFile
+hName=C:\Documents and Settings\All Users\Desktop\malware.exe
+desiredAccess=GENERIC_READ 
+creationDisposition=OPEN_EXISTING
+Return=54
+Return=SUCCESS
+#365440000
+CopyFile
+lpExistingFileName=C:\Documents and Settings\All Users\Desktop\malware.exe
+lpNewFileName=C:\WINDOWS\system32\drivers32\Kings of War Serial Generator.exe
+Return=1
+Return=SUCCESS
+#365860000
+CreateFile
+hName=C:\Documents and Settings\All Users\Desktop\malware.exe
+desiredAccess=GENERIC_READ 
+creationDisposition=OPEN_EXISTING
+Return=50
+Return=SUCCESS
+#365860000
+CopyFile
+lpExistingFileName=C:\Documents and Settings\All Users\Desktop\malware.exe
+lpNewFileName=C:\WINDOWS\system32\drivers32\Xenus Serial Generator.exe
+Return=1
+Return=SUCCESS
+#366640000
+CreateFile
+hName=C:\Documents and Settings\All Users\Desktop\malware.exe
+desiredAccess=GENERIC_READ 
+creationDisposition=OPEN_EXISTING
+Return=54
+Return=SUCCESS
+#366640000
+CopyFile
+lpExistingFileName=C:\Documents and Settings\All Users\Desktop\malware.exe
+lpNewFileName=C:\WINDOWS\system32\drivers32\Black & White 2 Serial Generator.exe
+Return=1
+Return=SUCCESS
+#367120000
+CreateFile
+hName=C:\Documents and Settings\All Users\Desktop\malware.exe
+desiredAccess=GENERIC_READ 
+creationDisposition=OPEN_EXISTING
+Return=50
+Return=SUCCESS
+#367120000
+CopyFile
+lpExistingFileName=C:\Documents and Settings\All Users\Desktop\malware.exe
+lpNewFileName=C:\WINDOWS\system32\drivers32\FIFA Soccer 2004 Serial Generator.exe
+Return=1
+Return=SUCCESS
+#367600000
+CreateFile
+hName=C:\Documents and Settings\All Users\Desktop\malware.exe
+desiredAccess=GENERIC_READ 
+creationDisposition=OPEN_EXISTING
+Return=54
+Return=SUCCESS
+#367600000
+CopyFile
+lpExistingFileName=C:\Documents and Settings\All Users\Desktop\malware.exe
+lpNewFileName=C:\WINDOWS\system32\drivers32\FIFA Soccer 2003 Serial Generator.exe
+Return=1
+Return=SUCCESS
+#368340000
+CreateFile
+hName=C:\Documents and Settings\All Users\Desktop\malware.exe
+desiredAccess=GENERIC_READ 
+creationDisposition=OPEN_EXISTING
+Return=50
+Return=SUCCESS
+#368340000
+CopyFile
+lpExistingFileName=C:\Documents and Settings\All Users\Desktop\malware.exe
+lpNewFileName=C:\WINDOWS\system32\drivers32\Commandos 3 - Destination Berlin Serial Generator.exe
+Return=1
+Return=SUCCESS
+#368630000
+CreateFile
+hName=C:\Documents and Settings\All Users\Desktop\malware.exe
+desiredAccess=GENERIC_READ 
+creationDisposition=OPEN_EXISTING
+Return=54
+Return=SUCCESS
+#368630000
+CopyFile
+lpExistingFileName=C:\Documents and Settings\All Users\Desktop\malware.exe
+lpNewFileName=C:\WINDOWS\system32\drivers32\Train Simulator 2 Serial Generator.exe
+Return=1
+Return=SUCCESS
+#368900000
+CreateFile
+hName=C:\Documents and Settings\All Users\Desktop\malware.exe
+desiredAccess=GENERIC_READ 
+creationDisposition=OPEN_EXISTING
+Return=50
+Return=SUCCESS
+#368900000
+CopyFile
+lpExistingFileName=C:\Documents and Settings\All Users\Desktop\malware.exe
+lpNewFileName=C:\WINDOWS\system32\drivers32\Flight Simulator - Century of Flight Serial Generator.exe
+Return=1
+Return=SUCCESS
+#369310000
+CreateFile
+hName=C:\Documents and Settings\All Users\Desktop\malware.exe
+desiredAccess=GENERIC_READ 
+creationDisposition=OPEN_EXISTING
+Return=54
+Return=SUCCESS
+#369310000
+CopyFile
+lpExistingFileName=C:\Documents and Settings\All Users\Desktop\malware.exe
+lpNewFileName=C:\WINDOWS\system32\drivers32\Need for Speed Underground Serial Generator.exe
+Return=1
+Return=SUCCESS
+#369550000
+CreateFile
+hName=C:\Documents and Settings\All Users\Desktop\malware.exe
+desiredAccess=GENERIC_READ 
+creationDisposition=OPEN_EXISTING
+Return=50
+Return=SUCCESS
+#369550000
+CopyFile
+lpExistingFileName=C:\Documents and Settings\All Users\Desktop\malware.exe
+lpNewFileName=C:\WINDOWS\system32\drivers32\Metal Gear Solid Serial Generator.exe
+Return=1
+Return=SUCCESS
+#369820000
+CreateFile
+hName=C:\Documents and Settings\All Users\Desktop\malware.exe
+desiredAccess=GENERIC_READ 
+creationDisposition=OPEN_EXISTING
+Return=54
+Return=SUCCESS
+#369820000
+CopyFile
+lpExistingFileName=C:\Documents and Settings\All Users\Desktop\malware.exe
+lpNewFileName=C:\WINDOWS\system32\drivers32\Metal Gear Solid 2 Serial Generator.exe
+Return=1
+Return=SUCCESS
+#370410000
+CreateFile
+hName=C:\Documents and Settings\All Users\Desktop\malware.exe
+desiredAccess=GENERIC_READ 
+creationDisposition=OPEN_EXISTING
+Return=50
+Return=SUCCESS
+#370410000
+CopyFile
+lpExistingFileName=C:\Documents and Settings\All Users\Desktop\malware.exe
+lpNewFileName=C:\WINDOWS\system32\drivers32\Raven Shield Serial Generator.exe
+Return=1
+Return=SUCCESS
+#370950000
+CreateFile
+hName=C:\Documents and Settings\All Users\Desktop\malware.exe
+desiredAccess=GENERIC_READ 
+creationDisposition=OPEN_EXISTING
+Return=54
+Return=SUCCESS
+#370950000
+CopyFile
+lpExistingFileName=C:\Documents and Settings\All Users\Desktop\malware.exe
+lpNewFileName=C:\WINDOWS\system32\drivers32\Rainbow Six 3 - Raven Shield Serial Generator.exe
+Return=1
+Return=SUCCESS
+#371430000
+CreateFile
+hName=C:\Documents and Settings\All Users\Desktop\malware.exe
+desiredAccess=GENERIC_READ 
+creationDisposition=OPEN_EXISTING
+Return=50
+Return=SUCCESS
+#371420000
+CopyFile
+lpExistingFileName=C:\Documents and Settings\All Users\Desktop\malware.exe
+lpNewFileName=C:\WINDOWS\system32\drivers32\Delta Force - Black Hawk Down Serial Generator.exe
+Return=1
+Return=SUCCESS
+#372170000
+CreateFile
+hName=C:\Documents and Settings\All Users\Desktop\malware.exe
+desiredAccess=GENERIC_READ 
+creationDisposition=OPEN_EXISTING
+Return=54
+Return=SUCCESS
+#372170000
+CopyFile
+lpExistingFileName=C:\Documents and Settings\All Users\Desktop\malware.exe
+lpNewFileName=C:\WINDOWS\system32\drivers32\Praetorians Serial Generator.exe
+Return=1
+Return=SUCCESS
+#372640000
+CreateFile
+hName=C:\Documents and Settings\All Users\Desktop\malware.exe
+desiredAccess=GENERIC_READ 
+creationDisposition=OPEN_EXISTING
+Return=50
+Return=SUCCESS
+#372640000
+CopyFile
+lpExistingFileName=C:\Documents and Settings\All Users\Desktop\malware.exe
+lpNewFileName=C:\WINDOWS\system32\drivers32\NASCAR Racing 2003 Serial Generator.exe
+Return=1
+Return=SUCCESS
+#373220000
+CreateFile
+hName=C:\Documents and Settings\All Users\Desktop\malware.exe
+desiredAccess=GENERIC_READ 
+creationDisposition=OPEN_EXISTING
+Return=54
+Return=SUCCESS
+#373220000
+CopyFile
+lpExistingFileName=C:\Documents and Settings\All Users\Desktop\malware.exe
+lpNewFileName=C:\WINDOWS\system32\drivers32\Splinter Cell Serial Generator.exe
+Return=1
+Return=SUCCESS
+#373650000
+CreateFile
+hName=C:\Documents and Settings\All Users\Desktop\malware.exe
+desiredAccess=GENERIC_READ 
+creationDisposition=OPEN_EXISTING
+Return=50
+Return=SUCCESS
+#373650000
+CopyFile
+lpExistingFileName=C:\Documents and Settings\All Users\Desktop\malware.exe
+lpNewFileName=C:\WINDOWS\system32\drivers32\Command & Conquer Generals Serial Generator.exe
+Return=1
+Return=SUCCESS
+#374230000
+CreateFile
+hName=C:\Documents and Settings\All Users\Desktop\malware.exe
+desiredAccess=GENERIC_READ 
+creationDisposition=OPEN_EXISTING
+Return=54
+Return=SUCCESS
+#374230000
+CopyFile
+lpExistingFileName=C:\Documents and Settings\All Users\Desktop\malware.exe
+lpNewFileName=C:\WINDOWS\system32\drivers32\SimCity 4 Serial Generator.exe
+Return=1
+Return=SUCCESS
+#374470000
+CreateFile
+hName=C:\Documents and Settings\All Users\Desktop\malware.exe
+desiredAccess=GENERIC_READ 
+creationDisposition=OPEN_EXISTING
+Return=50
+Return=SUCCESS
+#374470000
+CopyFile
+lpExistingFileName=C:\Documents and Settings\All Users\Desktop\malware.exe
+lpNewFileName=C:\WINDOWS\system32\drivers32\Battlefield 1942 - The Road to Rome Serial Generator.exe
+Return=1
+Return=SUCCESS
+#375130000
+CreateFile
+hName=C:\Documents and Settings\All Users\Desktop\malware.exe
+desiredAccess=GENERIC_READ 
+creationDisposition=OPEN_EXISTING
+Return=54
+Return=SUCCESS
+#375130000
+CopyFile
+lpExistingFileName=C:\Documents and Settings\All Users\Desktop\malware.exe
+lpNewFileName=C:\WINDOWS\system32\drivers32\Elder Scrolls III - Tribunal Serial Generator.exe
+Return=1
+Return=SUCCESS
+#376170000
+CreateFile
+hName=C:\Documents and Settings\All Users\Desktop\malware.exe
+desiredAccess=GENERIC_READ 
+creationDisposition=OPEN_EXISTING
+Return=50
+Return=SUCCESS
+#376170000
+CopyFile
+lpExistingFileName=C:\Documents and Settings\All Users\Desktop\malware.exe
+lpNewFileName=C:\WINDOWS\system32\drivers32\NBA Live 2003 Serial Generator.exe
+Return=1
+Return=SUCCESS
+#376720000
+CreateFile
+hName=C:\Documents and Settings\All Users\Desktop\malware.exe
+desiredAccess=GENERIC_READ 
+creationDisposition=OPEN_EXISTING
+Return=54
+Return=SUCCESS
+#376720000
+CopyFile
+lpExistingFileName=C:\Documents and Settings\All Users\Desktop\malware.exe
+lpNewFileName=C:\WINDOWS\system32\drivers32\NBA Live 2004 Serial Generator.exe
+Return=1
+Return=SUCCESS
+#377030000
+CreateFile
+hName=C:\Documents and Settings\All Users\Desktop\malware.exe
+desiredAccess=GENERIC_READ 
+creationDisposition=OPEN_EXISTING
+Return=50
+Return=SUCCESS
+#377030000
+CopyFile
+lpExistingFileName=C:\Documents and Settings\All Users\Desktop\malware.exe
+lpNewFileName=C:\WINDOWS\system32\drivers32\IL-2 Sturmovik - Forgotten Battles Serial Generator.exe
+Return=1
+Return=SUCCESS
+#377300000
+CreateFile
+hName=C:\Documents and Settings\All Users\Desktop\malware.exe
+desiredAccess=GENERIC_READ 
+creationDisposition=OPEN_EXISTING
+Return=54
+Return=SUCCESS
+#377300000
+CopyFile
+lpExistingFileName=C:\Documents and Settings\All Users\Desktop\malware.exe
+lpNewFileName=C:\WINDOWS\system32\drivers32\Warcraft III - The Frozen Throne Serial Generator.exe
+Return=1
+Return=SUCCESS
+#378000000
+CreateFile
+hName=C:\Documents and Settings\All Users\Desktop\malware.exe
+desiredAccess=GENERIC_READ 
+creationDisposition=OPEN_EXISTING
+Return=50
+Return=SUCCESS
+#378000000
+CopyFile
+lpExistingFileName=C:\Documents and Settings\All Users\Desktop\malware.exe
+lpNewFileName=C:\WINDOWS\system32\drivers32\Warcraft III Serial Generator.exe
+Return=1
+Return=SUCCESS
+#378430000
+CreateFile
+hName=C:\Documents and Settings\All Users\Desktop\malware.exe
+desiredAccess=GENERIC_READ 
+creationDisposition=OPEN_EXISTING
+Return=54
+Return=SUCCESS
+#378430000
+CopyFile
+lpExistingFileName=C:\Documents and Settings\All Users\Desktop\malware.exe
+lpNewFileName=C:\WINDOWS\system32\drivers32\Warcraft 3 Serial Generator.exe
+Return=1
+Return=SUCCESS
+#378860000
+CreateFile
+hName=C:\Documents and Settings\All Users\Desktop\malware.exe
+desiredAccess=GENERIC_READ 
+creationDisposition=OPEN_EXISTING
+Return=50
+Return=SUCCESS
+#378860000
+CopyFile
+lpExistingFileName=C:\Documents and Settings\All Users\Desktop\malware.exe
+lpNewFileName=C:\WINDOWS\system32\drivers32\Grand Theft Auto - Vice City Serial Generator.exe
+Return=1
+Return=SUCCESS
+#379500000
+CreateFile
+hName=C:\Documents and Settings\All Users\Desktop\malware.exe
+desiredAccess=GENERIC_READ 
+creationDisposition=OPEN_EXISTING
+Return=54
+Return=SUCCESS
+#379500000
+CopyFile
+lpExistingFileName=C:\Documents and Settings\All Users\Desktop\malware.exe
+lpNewFileName=C:\WINDOWS\system32\drivers32\Return to Castle Wolfenstein Enemy Territory Serial Generator.exe
+Return=1
+Return=SUCCESS
+#379940000
+CreateFile
+hName=C:\Documents and Settings\All Users\Desktop\malware.exe
+desiredAccess=GENERIC_READ 
+creationDisposition=OPEN_EXISTING
+Return=50
+Return=SUCCESS
+#379940000
+CopyFile
+lpExistingFileName=C:\Documents and Settings\All Users\Desktop\malware.exe
+lpNewFileName=C:\WINDOWS\system32\drivers32\Return to Castle Wolfenstein Serial Generator.exe
+Return=1
+Return=SUCCESS
+#380370000
+CreateFile
+hName=C:\Documents and Settings\All Users\Desktop\malware.exe
+desiredAccess=GENERIC_READ 
+creationDisposition=OPEN_EXISTING
+Return=54
+Return=SUCCESS
+#380370000
+CopyFile
+lpExistingFileName=C:\Documents and Settings\All Users\Desktop\malware.exe
+lpNewFileName=C:\WINDOWS\system32\drivers32\Star Trek - Elite Force II Serial Generator.exe
+Return=1
+Return=SUCCESS
+#380680000
+CreateFile
+hName=C:\Documents and Settings\All Users\Desktop\malware.exe
+desiredAccess=GENERIC_READ 
+creationDisposition=OPEN_EXISTING
+Return=50
+Return=SUCCESS
+#380680000
+CopyFile
+lpExistingFileName=C:\Documents and Settings\All Users\Desktop\malware.exe
+lpNewFileName=C:\WINDOWS\system32\drivers32\Neverwinter Nights - Shadows of Undrentide Serial Generator.exe
+Return=1
+Return=SUCCESS
+#381270000
+CreateFile
+hName=C:\Documents and Settings\All Users\Desktop\malware.exe
+desiredAccess=GENERIC_READ 
+creationDisposition=OPEN_EXISTING
+Return=54
+Return=SUCCESS
+#381270000
+CopyFile
+lpExistingFileName=C:\Documents and Settings\All Users\Desktop\malware.exe
+lpNewFileName=C:\WINDOWS\system32\drivers32\The Sims Superstar Serial Generator.exe
+Return=1
+Return=SUCCESS
+#381550000
+CreateFile
+hName=C:\Documents and Settings\All Users\Desktop\malware.exe
+desiredAccess=GENERIC_READ 
+creationDisposition=OPEN_EXISTING
+Return=50
+Return=SUCCESS
+#381550000
+CopyFile
+lpExistingFileName=C:\Documents and Settings\All Users\Desktop\malware.exe
+lpNewFileName=C:\WINDOWS\system32\drivers32\Tony Hawks Pro Skater 4 Serial Generator.exe
+Return=1
+Return=SUCCESS
+#381820000
+CreateFile
+hName=C:\Documents and Settings\All Users\Desktop\malware.exe
+desiredAccess=GENERIC_READ 
+creationDisposition=OPEN_EXISTING
+Return=54
+Return=SUCCESS
+#381810000
+CopyFile
+lpExistingFileName=C:\Documents and Settings\All Users\Desktop\malware.exe
+lpNewFileName=C:\WINDOWS\system32\drivers32\Counter-Strike - Condition Zero Serial Generator.exe
+Return=1
+Return=SUCCESS
+#382160000
+CreateFile
+hName=C:\Documents and Settings\All Users\Desktop\malware.exe
+desiredAccess=GENERIC_READ 
+creationDisposition=OPEN_EXISTING
+Return=50
+Return=SUCCESS
+#382160000
+CopyFile
+lpExistingFileName=C:\Documents and Settings\All Users\Desktop\malware.exe
+lpNewFileName=C:\WINDOWS\system32\drivers32\Age of Wonders II - Shadow Magic Serial Generator.exe
+Return=1
+Return=SUCCESS
+#382500000
+CreateFile
+hName=C:\Documents and Settings\All Users\Desktop\malware.exe
+desiredAccess=GENERIC_READ 
+creationDisposition=OPEN_EXISTING
+Return=54
+Return=SUCCESS
+#382500000
+CopyFile
+lpExistingFileName=C:\Documents and Settings\All Users\Desktop\malware.exe
+lpNewFileName=C:\WINDOWS\system32\drivers32\Alpha Communicator 5.0 Serial Generator.exe
+Return=1
+Return=SUCCESS
+#383160000
+CreateFile
+hName=C:\Documents and Settings\All Users\Desktop\malware.exe
+desiredAccess=GENERIC_READ 
+creationDisposition=OPEN_EXISTING
+Return=50
+Return=SUCCESS
+#383160000
+CopyFile
+lpExistingFileName=C:\Documents and Settings\All Users\Desktop\malware.exe
+lpNewFileName=C:\WINDOWS\system32\drivers32\NASCAR Thunder 2004 Serial Generator.exe
+Return=1
+Return=SUCCESS
+#383510000
+CreateFile
+hName=C:\Documents and Settings\All Users\Desktop\malware.exe
+desiredAccess=GENERIC_READ 
+creationDisposition=OPEN_EXISTING
+Return=54
+Return=SUCCESS
+#383500000
+CopyFile
+lpExistingFileName=C:\Documents and Settings\All Users\Desktop\malware.exe
+lpNewFileName=C:\WINDOWS\system32\drivers32\Lords of the Realm III Serial Generator.exe
+Return=1
+Return=SUCCESS
+#383990000
+CreateFile
+hName=C:\Documents and Settings\All Users\Desktop\malware.exe
+desiredAccess=GENERIC_READ 
+creationDisposition=OPEN_EXISTING
+Return=50
+Return=SUCCESS
+#383990000
+CopyFile
+lpExistingFileName=C:\Documents and Settings\All Users\Desktop\malware.exe
+lpNewFileName=C:\WINDOWS\system32\drivers32\Age of Mythology - The Titans Serial Generator.exe
+Return=1
+Return=SUCCESS
+#384590000
+CreateFile
+hName=C:\Documents and Settings\All Users\Desktop\malware.exe
+desiredAccess=GENERIC_READ 
+creationDisposition=OPEN_EXISTING
+Return=54
+Return=SUCCESS
+#384590000
+CopyFile
+lpExistingFileName=C:\Documents and Settings\All Users\Desktop\malware.exe
+lpNewFileName=C:\WINDOWS\system32\drivers32\Civilization III - Conquest Serial Generator.exe
+Return=1
+Return=SUCCESS
+#385070000
+CreateFile
+hName=C:\Documents and Settings\All Users\Desktop\malware.exe
+desiredAccess=GENERIC_READ 
+creationDisposition=OPEN_EXISTING
+Return=50
+Return=SUCCESS
+#385070000
+CopyFile
+lpExistingFileName=C:\Documents and Settings\All Users\Desktop\malware.exe
+lpNewFileName=C:\WINDOWS\system32\drivers32\Conflict - Desert Storm II - Back to Baghdad Serial Generator.exe
+Return=1
+Return=SUCCESS
+#385580000
+CreateFile
+hName=C:\Documents and Settings\All Users\Desktop\malware.exe
+desiredAccess=GENERIC_READ 
+creationDisposition=OPEN_EXISTING
+Return=54
+Return=SUCCESS
+#385580000
+CopyFile
+lpExistingFileName=C:\Documents and Settings\All Users\Desktop\malware.exe
+lpNewFileName=C:\WINDOWS\system32\drivers32\Harry Potter - Quidditch World Cup Serial Generator.exe
+Return=1
+Return=SUCCESS
+#386100000
+CreateFile
+hName=C:\Documents and Settings\All Users\Desktop\malware.exe
+desiredAccess=GENERIC_READ 
+creationDisposition=OPEN_EXISTING
+Return=50
+Return=SUCCESS
+#386090000
+CopyFile
+lpExistingFileName=C:\Documents and Settings\All Users\Desktop\malware.exe
+lpNewFileName=C:\WINDOWS\system32\drivers32\Railroad Tycoon III Serial Generator.exe
+Return=1
+Return=SUCCESS
+#386730000
+CreateFile
+hName=C:\Documents and Settings\All Users\Desktop\malware.exe
+desiredAccess=GENERIC_READ 
+creationDisposition=OPEN_EXISTING
+Return=54
+Return=SUCCESS
+#386730000
+CopyFile
+lpExistingFileName=C:\Documents and Settings\All Users\Desktop\malware.exe
+lpNewFileName=C:\WINDOWS\system32\drivers32\Battlefield 1942 - Secret Weapons of World War II Serial Generator.exe
+Return=1
+Return=SUCCESS
+#387230000
+CreateFile
+hName=C:\Documents and Settings\All Users\Desktop\malware.exe
+desiredAccess=GENERIC_READ 
+creationDisposition=OPEN_EXISTING
+Return=50
+Return=SUCCESS
+#387230000
+CopyFile
+lpExistingFileName=C:\Documents and Settings\All Users\Desktop\malware.exe
+lpNewFileName=C:\WINDOWS\system32\drivers32\DOOM 3 Serial Generator.exe
+Return=1
+Return=SUCCESS
+#387820000
+CreateFile
+hName=C:\Documents and Settings\All Users\Desktop\malware.exe
+desiredAccess=GENERIC_READ 
+creationDisposition=OPEN_EXISTING
+Return=54
+Return=SUCCESS
+#387820000
+CopyFile
+lpExistingFileName=C:\Documents and Settings\All Users\Desktop\malware.exe
+lpNewFileName=C:\WINDOWS\system32\drivers32\DOOM III Serial Generator.exe
+Return=1
+Return=SUCCESS
+#388330000
+CreateFile
+hName=C:\Documents and Settings\All Users\Desktop\malware.exe
+desiredAccess=GENERIC_READ 
+creationDisposition=OPEN_EXISTING
+Return=50
+Return=SUCCESS
+#388330000
+CopyFile
+lpExistingFileName=C:\Documents and Settings\All Users\Desktop\malware.exe
+lpNewFileName=C:\WINDOWS\system32\drivers32\EverQuest 2 Serial Generator.exe
+Return=1
+Return=SUCCESS
+#388870000
+CreateFile
+hName=C:\Documents and Settings\All Users\Desktop\malware.exe
+desiredAccess=GENERIC_READ 
+creationDisposition=OPEN_EXISTING
+Return=54
+Return=SUCCESS
+#388870000
+CopyFile
+lpExistingFileName=C:\Documents and Settings\All Users\Desktop\malware.exe
+lpNewFileName=C:\WINDOWS\system32\drivers32\Freedom - Soldiers of Liberty Serial Generator.exe
+Return=1
+Return=SUCCESS
+#389390000
+CreateFile
+hName=C:\Documents and Settings\All Users\Desktop\malware.exe
+desiredAccess=GENERIC_READ 
+creationDisposition=OPEN_EXISTING
+Return=50
+Return=SUCCESS
+#389390000
+CopyFile
+lpExistingFileName=C:\Documents and Settings\All Users\Desktop\malware.exe
+lpNewFileName=C:\WINDOWS\system32\drivers32\Lord of the Rings - The Two Towers Serial Generator.exe
+Return=1
+Return=SUCCESS
+#390190000
+CreateFile
+hName=C:\Documents and Settings\All Users\Desktop\malware.exe
+desiredAccess=GENERIC_READ 
+creationDisposition=OPEN_EXISTING
+Return=54
+Return=SUCCESS
+#390190000
+CopyFile
+lpExistingFileName=C:\Documents and Settings\All Users\Desktop\malware.exe
+lpNewFileName=C:\WINDOWS\system32\drivers32\Max Payne 2 - The Fall of Max Payne Serial Generator.exe
+Return=1
+Return=SUCCESS
+#390810000
+CreateFile
+hName=C:\Documents and Settings\All Users\Desktop\malware.exe
+desiredAccess=GENERIC_READ 
+creationDisposition=OPEN_EXISTING
+Return=50
+Return=SUCCESS
+#390810000
+CopyFile
+lpExistingFileName=C:\Documents and Settings\All Users\Desktop\malware.exe
+lpNewFileName=C:\WINDOWS\system32\drivers32\Medal of Honor - Allied Assault Breakthrough Serial Generator.exe
+Return=1
+Return=SUCCESS
+#391400000
+CreateFile
+hName=C:\Documents and Settings\All Users\Desktop\malware.exe
+desiredAccess=GENERIC_READ 
+creationDisposition=OPEN_EXISTING
+Return=54
+Return=SUCCESS
+#391400000
+CopyFile
+lpExistingFileName=C:\Documents and Settings\All Users\Desktop\malware.exe
+lpNewFileName=C:\WINDOWS\system32\drivers32\Silent Hill 3 Serial Generator.exe
+Return=1
+Return=SUCCESS
+#392090000
+CreateFile
+hName=C:\Documents and Settings\All Users\Desktop\malware.exe
+desiredAccess=GENERIC_READ 
+creationDisposition=OPEN_EXISTING
+Return=50
+Return=SUCCESS
+#392090000
+CopyFile
+lpExistingFileName=C:\Documents and Settings\All Users\Desktop\malware.exe
+lpNewFileName=C:\WINDOWS\system32\drivers32\Silent Hill III Serial Generator.exe
+Return=1
+Return=SUCCESS
+#392720000
+CreateFile
+hName=C:\Documents and Settings\All Users\Desktop\malware.exe
+desiredAccess=GENERIC_READ 
+creationDisposition=OPEN_EXISTING
+Return=54
+Return=SUCCESS
+#392720000
+CopyFile
+lpExistingFileName=C:\Documents and Settings\All Users\Desktop\malware.exe
+lpNewFileName=C:\WINDOWS\system32\drivers32\SimCity 4 Rush Hour Serial Generator.exe
+Return=1
+Return=SUCCESS
+#393130000
+CreateFile
+hName=C:\Documents and Settings\All Users\Desktop\malware.exe
+desiredAccess=GENERIC_READ 
+creationDisposition=OPEN_EXISTING
+Return=50
+Return=SUCCESS
+#393130000
+CopyFile
+lpExistingFileName=C:\Documents and Settings\All Users\Desktop\malware.exe
+lpNewFileName=C:\WINDOWS\system32\drivers32\SimCity IV Serial Generator.exe
+Return=1
+Return=SUCCESS
+#393380000
+CreateFile
+hName=C:\Documents and Settings\All Users\Desktop\malware.exe
+desiredAccess=GENERIC_READ 
+creationDisposition=OPEN_EXISTING
+Return=54
+Return=SUCCESS
+#393380000
+CopyFile
+lpExistingFileName=C:\Documents and Settings\All Users\Desktop\malware.exe
+lpNewFileName=C:\WINDOWS\system32\drivers32\Star Wars Jedi Knight - Jedi Academy Serial Generator.exe
+Return=1
+Return=SUCCESS
+#393890000
+CreateFile
+hName=C:\Documents and Settings\All Users\Desktop\malware.exe
+desiredAccess=GENERIC_READ 
+creationDisposition=OPEN_EXISTING
+Return=50
+Return=SUCCESS
+#393890000
+CopyFile
+lpExistingFileName=C:\Documents and Settings\All Users\Desktop\malware.exe
+lpNewFileName=C:\WINDOWS\system32\drivers32\Star Wars - Knights of the Old Republic Serial Generator.exe
+Return=1
+Return=SUCCESS
+#394150000
+CreateFile
+hName=C:\Documents and Settings\All Users\Desktop\malware.exe
+desiredAccess=GENERIC_READ 
+creationDisposition=OPEN_EXISTING
+Return=54
+Return=SUCCESS
+#394150000
+CopyFile
+lpExistingFileName=C:\Documents and Settings\All Users\Desktop\malware.exe
+lpNewFileName=C:\WINDOWS\system32\drivers32\Train Simulator 2 Serial Generator.exe
+Return=1
+Return=SUCCESS
+#394390000
+CreateFile
+hName=C:\Documents and Settings\All Users\Desktop\malware.exe
+desiredAccess=GENERIC_READ 
+creationDisposition=OPEN_EXISTING
+Return=50
+Return=SUCCESS
+#394390000
+CopyFile
+lpExistingFileName=C:\Documents and Settings\All Users\Desktop\malware.exe
+lpNewFileName=C:\WINDOWS\system32\drivers32\Train Simulator II Serial Generator.exe
+Return=1
+Return=SUCCESS
+#394810000
+CreateFile
+hName=C:\Documents and Settings\All Users\Desktop\malware.exe
+desiredAccess=GENERIC_READ 
+creationDisposition=OPEN_EXISTING
+Return=54
+Return=SUCCESS
+#394810000
+CopyFile
+lpExistingFileName=C:\Documents and Settings\All Users\Desktop\malware.exe
+lpNewFileName=C:\WINDOWS\system32\drivers32\Soul Reaver III Serial Generator.exe
+Return=1
+Return=SUCCESS
+#395070000
+CreateFile
+hName=C:\Documents and Settings\All Users\Desktop\malware.exe
+desiredAccess=GENERIC_READ 
+creationDisposition=OPEN_EXISTING
+Return=50
+Return=SUCCESS
+#395070000
+CopyFile
+lpExistingFileName=C:\Documents and Settings\All Users\Desktop\malware.exe
+lpNewFileName=C:\WINDOWS\system32\drivers32\Warlords IV - Heroes of Etheria Serial Generator.exe
+Return=1
+Return=SUCCESS
+#395330000
+CreateFile
+hName=C:\Documents and Settings\All Users\Desktop\malware.exe
+desiredAccess=GENERIC_READ 
+creationDisposition=OPEN_EXISTING
+Return=54
+Return=SUCCESS
+#395330000
+CopyFile
+lpExistingFileName=C:\Documents and Settings\All Users\Desktop\malware.exe
+lpNewFileName=C:\WINDOWS\system32\drivers32\Warlords 4 Serial Generator.exe
+Return=1
+Return=SUCCESS
+#395810000
+CreateFile
+hName=C:\Documents and Settings\All Users\Desktop\malware.exe
+desiredAccess=GENERIC_READ 
+creationDisposition=OPEN_EXISTING
+Return=50
+Return=SUCCESS
+#395810000
+CopyFile
+lpExistingFileName=C:\Documents and Settings\All Users\Desktop\malware.exe
+lpNewFileName=C:\WINDOWS\system32\drivers32\World War II - Frontline Command Serial Generator.exe
+Return=1
+Return=SUCCESS
+#396200000
+CreateFile
+hName=C:\Documents and Settings\All Users\Desktop\malware.exe
+desiredAccess=GENERIC_READ 
+creationDisposition=OPEN_EXISTING
+Return=54
+Return=SUCCESS
+#396200000
+CopyFile
+lpExistingFileName=C:\Documents and Settings\All Users\Desktop\malware.exe
+lpNewFileName=C:\WINDOWS\system32\drivers32\Lord of the Rings - War of the Ring Serial Generator.exe
+Return=1
+Return=SUCCESS
+#396660000
+CreateFile
+hName=C:\Documents and Settings\All Users\Desktop\malware.exe
+desiredAccess=GENERIC_READ 
+creationDisposition=OPEN_EXISTING
+Return=50
+Return=SUCCESS
+#396660000
+CopyFile
+lpExistingFileName=C:\Documents and Settings\All Users\Desktop\malware.exe
+lpNewFileName=C:\WINDOWS\system32\drivers32\Metal Gear Solid 3 Serial Generator.exe
+Return=1
+Return=SUCCESS
+#396910000
+CreateFile
+hName=C:\Documents and Settings\All Users\Desktop\malware.exe
+desiredAccess=GENERIC_READ 
+creationDisposition=OPEN_EXISTING
+Return=54
+Return=SUCCESS
+#396910000
+CopyFile
+lpExistingFileName=C:\Documents and Settings\All Users\Desktop\malware.exe
+lpNewFileName=C:\WINDOWS\system32\drivers32\Metal Gear Solid III Serial Generator.exe
+Return=1
+Return=SUCCESS
+#397160000
+CreateFile
+hName=C:\Documents and Settings\All Users\Desktop\malware.exe
+desiredAccess=GENERIC_READ 
+creationDisposition=OPEN_EXISTING
+Return=50
+Return=SUCCESS
+#397160000
+CopyFile
+lpExistingFileName=C:\Documents and Settings\All Users\Desktop\malware.exe
+lpNewFileName=C:\WINDOWS\system32\drivers32\Black & White 2 Serial Generator.exe
+Return=1
+Return=SUCCESS
+#397450000
+CreateFile
+hName=C:\Documents and Settings\All Users\Desktop\malware.exe
+desiredAccess=GENERIC_READ 
+creationDisposition=OPEN_EXISTING
+Return=54
+Return=SUCCESS
+#397450000
+CopyFile
+lpExistingFileName=C:\Documents and Settings\All Users\Desktop\malware.exe
+lpNewFileName=C:\WINDOWS\system32\drivers32\Hitman 3 Serial Generator.exe
+Return=1
+Return=SUCCESS
+#397970000
+CreateFile
+hName=C:\Documents and Settings\All Users\Desktop\malware.exe
+desiredAccess=GENERIC_READ 
+creationDisposition=OPEN_EXISTING
+Return=50
+Return=SUCCESS
+#397960000
+CopyFile
+lpExistingFileName=C:\Documents and Settings\All Users\Desktop\malware.exe
+lpNewFileName=C:\WINDOWS\system32\drivers32\Hitman III Serial Generator.exe
+Return=1
+Return=SUCCESS
+#398210000
+CreateFile
+hName=C:\Documents and Settings\All Users\Desktop\malware.exe
+desiredAccess=GENERIC_READ 
+creationDisposition=OPEN_EXISTING
+Return=54
+Return=SUCCESS
+#398210000
+CopyFile
+lpExistingFileName=C:\Documents and Settings\All Users\Desktop\malware.exe
+lpNewFileName=C:\WINDOWS\system32\drivers32\Hitman 2 Serial Generator.exe
+Return=1
+Return=SUCCESS
+#398460000
+CreateFile
+hName=C:\Documents and Settings\All Users\Desktop\malware.exe
+desiredAccess=GENERIC_READ 
+creationDisposition=OPEN_EXISTING
+Return=50
+Return=SUCCESS
+#398460000
+CopyFile
+lpExistingFileName=C:\Documents and Settings\All Users\Desktop\malware.exe
+lpNewFileName=C:\WINDOWS\system32\drivers32\Hitman II Serial Generator.exe
+Return=1
+Return=SUCCESS
+#398950000
+CreateFile
+hName=C:\Documents and Settings\All Users\Desktop\malware.exe
+desiredAccess=GENERIC_READ 
+creationDisposition=OPEN_EXISTING
+Return=54
+Return=SUCCESS
+#398950000
+CopyFile
+lpExistingFileName=C:\Documents and Settings\All Users\Desktop\malware.exe
+lpNewFileName=C:\WINDOWS\system32\drivers32\Trinity Serial Generator.exe
+Return=1
+Return=SUCCESS
+#399180000
+CreateFile
+hName=C:\Documents and Settings\All Users\Desktop\malware.exe
+desiredAccess=GENERIC_READ 
+creationDisposition=OPEN_EXISTING
+Return=50
+Return=SUCCESS
+#399180000
+CopyFile
+lpExistingFileName=C:\Documents and Settings\All Users\Desktop\malware.exe
+lpNewFileName=C:\WINDOWS\system32\drivers32\Lords of EverQuest Serial Generator.exe
+Return=1
+Return=SUCCESS
+#399650000
+CreateFile
+hName=C:\Documents and Settings\All Users\Desktop\malware.exe
+desiredAccess=GENERIC_READ 
+creationDisposition=OPEN_EXISTING
+Return=54
+Return=SUCCESS
+#399650000
+CopyFile
+lpExistingFileName=C:\Documents and Settings\All Users\Desktop\malware.exe
+lpNewFileName=C:\WINDOWS\system32\drivers32\MechWarrior 5 Serial Generator.exe
+Return=1
+Return=SUCCESS
+#399900000
+CreateFile
+hName=C:\Documents and Settings\All Users\Desktop\malware.exe
+desiredAccess=GENERIC_READ 
+creationDisposition=OPEN_EXISTING
+Return=50
+Return=SUCCESS
+#399900000
+CopyFile
+lpExistingFileName=C:\Documents and Settings\All Users\Desktop\malware.exe
+lpNewFileName=C:\WINDOWS\system32\drivers32\MechWarrior 4 Serial Generator.exe
+Return=1
+Return=SUCCESS
+#400140000
+CreateFile
+hName=C:\Documents and Settings\All Users\Desktop\malware.exe
+desiredAccess=GENERIC_READ 
+creationDisposition=OPEN_EXISTING
+Return=54
+Return=SUCCESS
+#400140000
+CopyFile
+lpExistingFileName=C:\Documents and Settings\All Users\Desktop\malware.exe
+lpNewFileName=C:\WINDOWS\system32\drivers32\MechWarrior 3 Serial Generator.exe
+Return=1
+Return=SUCCESS
+#400550000
+CreateFile
+hName=C:\Documents and Settings\All Users\Desktop\malware.exe
+desiredAccess=GENERIC_READ 
+creationDisposition=OPEN_EXISTING
+Return=50
+Return=SUCCESS
+#400550000
+CopyFile
+lpExistingFileName=C:\Documents and Settings\All Users\Desktop\malware.exe
+lpNewFileName=C:\WINDOWS\system32\drivers32\MechWarrior V Serial Generator.exe
+Return=1
+Return=SUCCESS
+#400980000
+CreateFile
+hName=C:\Documents and Settings\All Users\Desktop\malware.exe
+desiredAccess=GENERIC_READ 
+creationDisposition=OPEN_EXISTING
+Return=54
+Return=SUCCESS
+#400980000
+CopyFile
+lpExistingFileName=C:\Documents and Settings\All Users\Desktop\malware.exe
+lpNewFileName=C:\WINDOWS\system32\drivers32\MechWarrior IV Serial Generator.exe
+Return=1
+Return=SUCCESS
+#401790000
+CreateFile
+hName=C:\Documents and Settings\All Users\Desktop\malware.exe
+desiredAccess=GENERIC_READ 
+creationDisposition=OPEN_EXISTING
+Return=50
+Return=SUCCESS
+#401780000
+CopyFile
+lpExistingFileName=C:\Documents and Settings\All Users\Desktop\malware.exe
+lpNewFileName=C:\WINDOWS\system32\drivers32\MechWarrior III Serial Generator.exe
+Return=1
+Return=SUCCESS
+#402290000
+CreateFile
+hName=C:\Documents and Settings\All Users\Desktop\malware.exe
+desiredAccess=GENERIC_READ 
+creationDisposition=OPEN_EXISTING
+Return=54
+Return=SUCCESS
+#402290000
+CopyFile
+lpExistingFileName=C:\Documents and Settings\All Users\Desktop\malware.exe
+lpNewFileName=C:\WINDOWS\system32\drivers32\Midtown Madness 3 Serial Generator.exe
+Return=1
+Return=SUCCESS
+#402770000
+CreateFile
+hName=C:\Documents and Settings\All Users\Desktop\malware.exe
+desiredAccess=GENERIC_READ 
+creationDisposition=OPEN_EXISTING
+Return=50
+Return=SUCCESS
+#402770000
+CopyFile
+lpExistingFileName=C:\Documents and Settings\All Users\Desktop\malware.exe
+lpNewFileName=C:\WINDOWS\system32\drivers32\Midtown Madness III Serial Generator.exe
+Return=1
+Return=SUCCESS
+#403500000
+CreateFile
+hName=C:\Documents and Settings\All Users\Desktop\malware.exe
+desiredAccess=GENERIC_READ 
+creationDisposition=OPEN_EXISTING
+Return=54
+Return=SUCCESS
+#403500000
+CopyFile
+lpExistingFileName=C:\Documents and Settings\All Users\Desktop\malware.exe
+lpNewFileName=C:\WINDOWS\system32\drivers32\Midtown Madness 2 Serial Generator.exe
+Return=1
+Return=SUCCESS
+#404010000
+CreateFile
+hName=C:\Documents and Settings\All Users\Desktop\malware.exe
+desiredAccess=GENERIC_READ 
+creationDisposition=OPEN_EXISTING
+Return=50
+Return=SUCCESS
+#404010000
+CopyFile
+lpExistingFileName=C:\Documents and Settings\All Users\Desktop\malware.exe
+lpNewFileName=C:\WINDOWS\system32\drivers32\Midtown Madness II Serial Generator.exe
+Return=1
+Return=SUCCESS
+#404560000
+CreateFile
+hName=C:\Documents and Settings\All Users\Desktop\malware.exe
+desiredAccess=GENERIC_READ 
+creationDisposition=OPEN_EXISTING
+Return=54
+Return=SUCCESS
+#404560000
+CopyFile
+lpExistingFileName=C:\Documents and Settings\All Users\Desktop\malware.exe
+lpNewFileName=C:\WINDOWS\system32\drivers32\Quake IV Serial Generator.exe
+Return=1
+Return=SUCCESS
+#405400000
+CreateFile
+hName=C:\Documents and Settings\All Users\Desktop\malware.exe
+desiredAccess=GENERIC_READ 
+creationDisposition=OPEN_EXISTING
+Return=50
+Return=SUCCESS
+#405400000
+CopyFile
+lpExistingFileName=C:\Documents and Settings\All Users\Desktop\malware.exe
+lpNewFileName=C:\WINDOWS\system32\drivers32\Quake 4 Serial Generator.exe
+Return=1
+Return=SUCCESS
+#405970000
+CreateFile
+hName=C:\Documents and Settings\All Users\Desktop\malware.exe
+desiredAccess=GENERIC_READ 
+creationDisposition=OPEN_EXISTING
+Return=54
+Return=SUCCESS
+#405970000
+CopyFile
+lpExistingFileName=C:\Documents and Settings\All Users\Desktop\malware.exe
+lpNewFileName=C:\WINDOWS\system32\drivers32\Quake 3 Serial Generator.exe
+Return=1
+Return=SUCCESS
+#406640000
+CreateFile
+hName=C:\Documents and Settings\All Users\Desktop\malware.exe
+desiredAccess=GENERIC_READ 
+creationDisposition=OPEN_EXISTING
+Return=50
+Return=SUCCESS
+#406640000
+CopyFile
+lpExistingFileName=C:\Documents and Settings\All Users\Desktop\malware.exe
+lpNewFileName=C:\WINDOWS\system32\drivers32\Quake III Serial Generator.exe
+Return=1
+Return=SUCCESS
+#407450000
+CreateFile
+hName=C:\Documents and Settings\All Users\Desktop\malware.exe
+desiredAccess=GENERIC_READ 
+creationDisposition=OPEN_EXISTING
+Return=54
+Return=SUCCESS
+#407450000
+CopyFile
+lpExistingFileName=C:\Documents and Settings\All Users\Desktop\malware.exe
+lpNewFileName=C:\WINDOWS\system32\drivers32\Shrek 2 Serial Generator.exe
+Return=1
+Return=SUCCESS
+#407860000
+CreateFile
+hName=C:\Documents and Settings\All Users\Desktop\malware.exe
+desiredAccess=GENERIC_READ 
+creationDisposition=OPEN_EXISTING
+Return=50
+Return=SUCCESS
+#407860000
+CopyFile
+lpExistingFileName=C:\Documents and Settings\All Users\Desktop\malware.exe
+lpNewFileName=C:\WINDOWS\system32\drivers32\Shrek II Serial Generator.exe
+Return=1
+Return=SUCCESS
+#408450000
+CreateFile
+hName=C:\Documents and Settings\All Users\Desktop\malware.exe
+desiredAccess=GENERIC_READ 
+creationDisposition=OPEN_EXISTING
+Return=54
+Return=SUCCESS
+#408440000
+CopyFile
+lpExistingFileName=C:\Documents and Settings\All Users\Desktop\malware.exe
+lpNewFileName=C:\WINDOWS\system32\drivers32\Thief III Serial Generator.exe
+Return=1
+Return=SUCCESS
+#408960000
+CreateFile
+hName=C:\Documents and Settings\All Users\Desktop\malware.exe
+desiredAccess=GENERIC_READ 
+creationDisposition=OPEN_EXISTING
+Return=50
+Return=SUCCESS
+#408960000
+CopyFile
+lpExistingFileName=C:\Documents and Settings\All Users\Desktop\malware.exe
+lpNewFileName=C:\WINDOWS\system32\drivers32\Thief II Serial Generator.exe
+Return=1
+Return=SUCCESS
+#412150000
+CreateFile
+hName=C:\Documents and Settings\All Users\Desktop\malware.exe
+desiredAccess=GENERIC_READ 
+creationDisposition=OPEN_EXISTING
+Return=54
+Return=SUCCESS
+#412140000
+CopyFile
+lpExistingFileName=C:\Documents and Settings\All Users\Desktop\malware.exe
+lpNewFileName=C:\WINDOWS\system32\drivers32\Thief 3 Serial Generator.exe
+Return=1
+Return=SUCCESS
+#412880000
+CreateFile
+hName=C:\Documents and Settings\All Users\Desktop\malware.exe
+desiredAccess=GENERIC_READ 
+creationDisposition=OPEN_EXISTING
+Return=50
+Return=SUCCESS
+#412880000
+CopyFile
+lpExistingFileName=C:\Documents and Settings\All Users\Desktop\malware.exe
+lpNewFileName=C:\WINDOWS\system32\drivers32\Thief 2 Serial Generator.exe
+Return=1
+Return=SUCCESS
+#413820000
+CreateFile
+hName=C:\Documents and Settings\All Users\Desktop\malware.exe
+desiredAccess=GENERIC_READ 
+creationDisposition=OPEN_EXISTING
+Return=54
+Return=SUCCESS
+#413820000
+CopyFile
+lpExistingFileName=C:\Documents and Settings\All Users\Desktop\malware.exe
+lpNewFileName=C:\WINDOWS\system32\drivers32\MVP Baseball 2003 Serial Generator.exe
+Return=1
+Return=SUCCESS
+#414610000
+CreateFile
+hName=C:\Documents and Settings\All Users\Desktop\malware.exe
+desiredAccess=GENERIC_READ 
+creationDisposition=OPEN_EXISTING
+Return=50
+Return=SUCCESS
+#414610000
+CopyFile
+lpExistingFileName=C:\Documents and Settings\All Users\Desktop\malware.exe
+lpNewFileName=C:\WINDOWS\system32\drivers32\Madden NFL 2004 Serial Generator.exe
+Return=1
+Return=SUCCESS
+#416000000
+CreateFile
+hName=C:\Documents and Settings\All Users\Desktop\malware.exe
+desiredAccess=GENERIC_READ 
+creationDisposition=OPEN_EXISTING
+Return=54
+Return=SUCCESS
+#416000000
+CopyFile
+lpExistingFileName=C:\Documents and Settings\All Users\Desktop\malware.exe
+lpNewFileName=C:\WINDOWS\system32\drivers32\Madden NFL 2003 Serial Generator.exe
+Return=1
+Return=SUCCESS
+#417370000
+CreateFile
+hName=C:\Documents and Settings\All Users\Desktop\malware.exe
+desiredAccess=GENERIC_READ 
+creationDisposition=OPEN_EXISTING
+Return=50
+Return=SUCCESS
+#417370000
+CopyFile
+lpExistingFileName=C:\Documents and Settings\All Users\Desktop\malware.exe
+lpNewFileName=C:\WINDOWS\system32\drivers32\NCAA Football 2004 Serial Generator.exe
+Return=1
+Return=SUCCESS
+#418380000
+CreateFile
+hName=C:\Documents and Settings\All Users\Desktop\malware.exe
+desiredAccess=GENERIC_READ 
+creationDisposition=OPEN_EXISTING
+Return=54
+Return=SUCCESS
+#418380000
+CopyFile
+lpExistingFileName=C:\Documents and Settings\All Users\Desktop\malware.exe
+lpNewFileName=C:\WINDOWS\system32\drivers32\NCAA Football 2003 Serial Generator.exe
+Return=1
+Return=SUCCESS
+#419270000
+CreateFile
+hName=C:\Documents and Settings\All Users\Desktop\malware.exe
+desiredAccess=GENERIC_READ 
+creationDisposition=OPEN_EXISTING
+Return=50
+Return=SUCCESS
+#419270000
+CopyFile
+lpExistingFileName=C:\Documents and Settings\All Users\Desktop\malware.exe
+lpNewFileName=C:\WINDOWS\system32\drivers32\NBA Live 2004 Serial Generator.exe
+Return=1
+Return=SUCCESS
+#419910000
+CreateFile
+hName=C:\Documents and Settings\All Users\Desktop\malware.exe
+desiredAccess=GENERIC_READ 
+creationDisposition=OPEN_EXISTING
+Return=54
+Return=SUCCESS
+#419910000
+CopyFile
+lpExistingFileName=C:\Documents and Settings\All Users\Desktop\malware.exe
+lpNewFileName=C:\WINDOWS\system32\drivers32\NBA Live 2003 Serial Generator.exe
+Return=1
+Return=SUCCESS
+#420230000
+CreateFile
+hName=C:\Documents and Settings\All Users\Desktop\malware.exe
+desiredAccess=GENERIC_READ 
+creationDisposition=OPEN_EXISTING
+Return=50
+Return=SUCCESS
+#420230000
+CopyFile
+lpExistingFileName=C:\Documents and Settings\All Users\Desktop\malware.exe
+lpNewFileName=C:\WINDOWS\system32\drivers32\Tiger Woods PGA TOUR 2003 Serial Generator.exe
+Return=1
+Return=SUCCESS
+#422500000
+CreateFile
+hName=C:\Documents and Settings\All Users\Desktop\malware.exe
+desiredAccess=GENERIC_READ 
+creationDisposition=OPEN_EXISTING
+Return=54
+Return=SUCCESS
+#422500000
+CopyFile
+lpExistingFileName=C:\Documents and Settings\All Users\Desktop\malware.exe
+lpNewFileName=C:\WINDOWS\system32\drivers32\Tiger Woods PGA TOUR 2002 Serial Generator.exe
+Return=1
+Return=SUCCESS
+#423300000
+CreateFile
+hName=C:\Documents and Settings\All Users\Desktop\malware.exe
+desiredAccess=GENERIC_READ 
+creationDisposition=OPEN_EXISTING
+Return=50
+Return=SUCCESS
+#423300000
+CopyFile
+lpExistingFileName=C:\Documents and Settings\All Users\Desktop\malware.exe
+lpNewFileName=C:\WINDOWS\system32\drivers32\NHL 2003 Serial Generator.exe
+Return=1
+Return=SUCCESS
+#424140000
+CreateFile
+hName=C:\Documents and Settings\All Users\Desktop\malware.exe
+desiredAccess=GENERIC_READ 
+creationDisposition=OPEN_EXISTING
+Return=54
+Return=SUCCESS
+#424140000
+CopyFile
+lpExistingFileName=C:\Documents and Settings\All Users\Desktop\malware.exe
+lpNewFileName=C:\WINDOWS\system32\drivers32\NHL 2002 Serial Generator.exe
+Return=1
+Return=SUCCESS
+#425110000
+CreateFile
+hName=C:\Documents and Settings\All Users\Desktop\malware.exe
+desiredAccess=GENERIC_READ 
+creationDisposition=OPEN_EXISTING
+Return=50
+Return=SUCCESS
+#425110000
+CopyFile
+lpExistingFileName=C:\Documents and Settings\All Users\Desktop\malware.exe
+lpNewFileName=C:\WINDOWS\system32\drivers32\F1 2002 Serial Generator.exe
+Return=1
+Return=SUCCESS
+#426070000
+CreateFile
+hName=C:\Documents and Settings\All Users\Desktop\malware.exe
+desiredAccess=GENERIC_READ 
+creationDisposition=OPEN_EXISTING
+Return=54
+Return=SUCCESS
+#426070000
+CopyFile
+lpExistingFileName=C:\Documents and Settings\All Users\Desktop\malware.exe
+lpNewFileName=C:\WINDOWS\system32\drivers32\NASCAR Thunder 2003 Serial Generator.exe
+Return=1
+Return=SUCCESS
+#428380000
+CreateFile
+hName=C:\Documents and Settings\All Users\Desktop\malware.exe
+desiredAccess=GENERIC_READ 
+creationDisposition=OPEN_EXISTING
+Return=50
+Return=SUCCESS
+#428380000
+CopyFile
+lpExistingFileName=C:\Documents and Settings\All Users\Desktop\malware.exe
+lpNewFileName=C:\WINDOWS\system32\drivers32\WinZip 8.1 Serial Generator.exe
+Return=1
+Return=SUCCESS
+#429440000
+CreateFile
+hName=C:\Documents and Settings\All Users\Desktop\malware.exe
+desiredAccess=GENERIC_READ 
+creationDisposition=OPEN_EXISTING
+Return=54
+Return=SUCCESS
+#429440000
+CopyFile
+lpExistingFileName=C:\Documents and Settings\All Users\Desktop\malware.exe
+lpNewFileName=C:\WINDOWS\system32\drivers32\WinZip 8.0 Serial Generator.exe
+Return=1
+Return=SUCCESS
+#430770000
+CreateFile
+hName=C:\Documents and Settings\All Users\Desktop\malware.exe
+desiredAccess=GENERIC_READ 
+creationDisposition=OPEN_EXISTING
+Return=50
+Return=SUCCESS
+#430770000
+CopyFile
+lpExistingFileName=C:\Documents and Settings\All Users\Desktop\malware.exe
+lpNewFileName=C:\WINDOWS\system32\drivers32\Ad-aware 6.0 Serial Generator.exe
+Return=1
+Return=SUCCESS
+#431960000
+CreateFile
+hName=C:\Documents and Settings\All Users\Desktop\malware.exe
+desiredAccess=GENERIC_READ 
+creationDisposition=OPEN_EXISTING
+Return=54
+Return=SUCCESS
+#431960000
+CopyFile
+lpExistingFileName=C:\Documents and Settings\All Users\Desktop\malware.exe
+lpNewFileName=C:\WINDOWS\system32\drivers32\Download Accelerator Plus 5.3 Serial Generator.exe
+Return=1
+Return=SUCCESS
+#433240000
+CreateFile
+hName=C:\Documents and Settings\All Users\Desktop\malware.exe
+desiredAccess=GENERIC_READ 
+creationDisposition=OPEN_EXISTING
+Return=50
+Return=SUCCESS
+#433240000
+CopyFile
+lpExistingFileName=C:\Documents and Settings\All Users\Desktop\malware.exe
+lpNewFileName=C:\WINDOWS\system32\drivers32\DAP Plus 5.3 Serial Generator.exe
+Return=1
+Return=SUCCESS
+#433820000
+CreateFile
+hName=C:\Documents and Settings\All Users\Desktop\malware.exe
+desiredAccess=GENERIC_READ 
+creationDisposition=OPEN_EXISTING
+Return=54
+Return=SUCCESS
+#433820000
+CopyFile
+lpExistingFileName=C:\Documents and Settings\All Users\Desktop\malware.exe
+lpNewFileName=C:\WINDOWS\system32\drivers32\WinRAR 3.11 Serial Generator.exe
+Return=1
+Return=SUCCESS
+#434890000
+CreateFile
+hName=C:\Documents and Settings\All Users\Desktop\malware.exe
+desiredAccess=GENERIC_READ 
+creationDisposition=OPEN_EXISTING
+Return=50
+Return=SUCCESS
+#434890000
+CopyFile
+lpExistingFileName=C:\Documents and Settings\All Users\Desktop\malware.exe
+lpNewFileName=C:\WINDOWS\system32\drivers32\WinRAR 3.12 Serial Generator.exe
+Return=1
+Return=SUCCESS
+#435660000
+CreateFile
+hName=C:\Documents and Settings\All Users\Desktop\malware.exe
+desiredAccess=GENERIC_READ 
+creationDisposition=OPEN_EXISTING
+Return=54
+Return=SUCCESS
+#435660000
+CopyFile
+lpExistingFileName=C:\Documents and Settings\All Users\Desktop\malware.exe
+lpNewFileName=C:\WINDOWS\system32\drivers32\RealOne Player 2.0 Serial Generator.exe
+Return=1
+Return=SUCCESS
+#436700000
+CreateFile
+hName=C:\Documents and Settings\All Users\Desktop\malware.exe
+desiredAccess=GENERIC_READ 
+creationDisposition=OPEN_EXISTING
+Return=50
+Return=SUCCESS
+#436690000
+CopyFile
+lpExistingFileName=C:\Documents and Settings\All Users\Desktop\malware.exe
+lpNewFileName=C:\WINDOWS\system32\drivers32\Divx 5.x Serial Generator.exe
+Return=1
+Return=SUCCESS
+#437810000
+CreateFile
+hName=C:\Documents and Settings\All Users\Desktop\malware.exe
+desiredAccess=GENERIC_READ 
+creationDisposition=OPEN_EXISTING
+Return=54
+Return=SUCCESS
+#437810000
+CopyFile
+lpExistingFileName=C:\Documents and Settings\All Users\Desktop\malware.exe
+lpNewFileName=C:\WINDOWS\system32\drivers32\ZoneAlarm 3.7.143 Serial Generator.exe
+Return=1
+Return=SUCCESS
+#439450000
+CreateFile
+hName=C:\Documents and Settings\All Users\Desktop\malware.exe
+desiredAccess=GENERIC_READ 
+creationDisposition=OPEN_EXISTING
+Return=50
+Return=SUCCESS
+#439450000
+CopyFile
+lpExistingFileName=C:\Documents and Settings\All Users\Desktop\malware.exe
+lpNewFileName=C:\WINDOWS\system32\drivers32\ZoneAlarm 3.8x Serial Generator.exe
+Return=1
+Return=SUCCESS
+#440750000
+CreateFile
+hName=C:\Documents and Settings\All Users\Desktop\malware.exe
+desiredAccess=GENERIC_READ 
+creationDisposition=OPEN_EXISTING
+Return=54
+Return=SUCCESS
+#440750000
+CopyFile
+lpExistingFileName=C:\Documents and Settings\All Users\Desktop\malware.exe
+lpNewFileName=C:\WINDOWS\system32\drivers32\ZoneAlarm 3.x Serial Generator.exe
+Return=1
+Return=SUCCESS
+#441840000
+CreateFile
+hName=C:\Documents and Settings\All Users\Desktop\malware.exe
+desiredAccess=GENERIC_READ 
+creationDisposition=OPEN_EXISTING
+Return=50
+Return=SUCCESS
+#441840000
+CopyFile
+lpExistingFileName=C:\Documents and Settings\All Users\Desktop\malware.exe
+lpNewFileName=C:\WINDOWS\system32\drivers32\Adobe Acrobat 5.x Serial Generator.exe
+Return=1
+Return=SUCCESS
+#443140000
+CreateFile
+hName=C:\Documents and Settings\All Users\Desktop\malware.exe
+desiredAccess=GENERIC_READ 
+creationDisposition=OPEN_EXISTING
+Return=54
+Return=SUCCESS
+#443140000
+CopyFile
+lpExistingFileName=C:\Documents and Settings\All Users\Desktop\malware.exe
+lpNewFileName=C:\WINDOWS\system32\drivers32\WS_FTP 5.x Serial Generator.exe
+Return=1
+Return=SUCCESS
+#444400000
+CreateFile
+hName=C:\Documents and Settings\All Users\Desktop\malware.exe
+desiredAccess=GENERIC_READ 
+creationDisposition=OPEN_EXISTING
+Return=50
+Return=SUCCESS
+#444400000
+CopyFile
+lpExistingFileName=C:\Documents and Settings\All Users\Desktop\malware.exe
+lpNewFileName=C:\WINDOWS\system32\drivers32\SolSuite 2003 Serial Generator.exe
+Return=1
+Return=SUCCESS
+#445400000
+CreateFile
+hName=C:\Documents and Settings\All Users\Desktop\malware.exe
+desiredAccess=GENERIC_READ 
+creationDisposition=OPEN_EXISTING
+Return=54
+Return=SUCCESS
+#445400000
+CopyFile
+lpExistingFileName=C:\Documents and Settings\All Users\Desktop\malware.exe
+lpNewFileName=C:\WINDOWS\system32\drivers32\QuickTime 6.x Serial Generator.exe
+Return=1
+Return=SUCCESS
+#446760000
+CreateFile
+hName=C:\Documents and Settings\All Users\Desktop\malware.exe
+desiredAccess=GENERIC_READ 
+creationDisposition=OPEN_EXISTING
+Return=50
+Return=SUCCESS
+#446760000
+CopyFile
+lpExistingFileName=C:\Documents and Settings\All Users\Desktop\malware.exe
+lpNewFileName=C:\WINDOWS\system32\drivers32\Winamp 2.91 Serial Generator.exe
+Return=1
+Return=SUCCESS
+#447540000
+CreateFile
+hName=C:\Documents and Settings\All Users\Desktop\malware.exe
+desiredAccess=GENERIC_READ 
+creationDisposition=OPEN_EXISTING
+Return=54
+Return=SUCCESS
+#447530000
+CopyFile
+lpExistingFileName=C:\Documents and Settings\All Users\Desktop\malware.exe
+lpNewFileName=C:\WINDOWS\system32\drivers32\Winamp 3.x Serial Generator.exe
+Return=1
+Return=SUCCESS
+#451970000
+CreateFile
+hName=C:\Documents and Settings\All Users\Desktop\malware.exe
+desiredAccess=GENERIC_READ 
+creationDisposition=OPEN_EXISTING
+Return=50
+Return=SUCCESS
+#451970000
+CopyFile
+lpExistingFileName=C:\Documents and Settings\All Users\Desktop\malware.exe
+lpNewFileName=C:\WINDOWS\system32\drivers32\Easy CD-DA Extractor 5.1 Serial Generator.exe
+Return=1
+Return=SUCCESS
+#453340000
+CreateFile
+hName=C:\Documents and Settings\All Users\Desktop\malware.exe
+desiredAccess=GENERIC_READ 
+creationDisposition=OPEN_EXISTING
+Return=54
+Return=SUCCESS
+#453340000
+CopyFile
+lpExistingFileName=C:\Documents and Settings\All Users\Desktop\malware.exe
+lpNewFileName=C:\WINDOWS\system32\drivers32\Easy CD-DA Extractor 5.x Serial Generator.exe
+Return=1
+Return=SUCCESS
+#454870000
+CreateFile
+hName=C:\Documents and Settings\All Users\Desktop\malware.exe
+desiredAccess=GENERIC_READ 
+creationDisposition=OPEN_EXISTING
+Return=50
+Return=SUCCESS
+#454870000
+CopyFile
+lpExistingFileName=C:\Documents and Settings\All Users\Desktop\malware.exe
+lpNewFileName=C:\WINDOWS\system32\drivers32\MusicMatch Jukebox 8.0 Serial Generator.exe
+Return=1
+Return=SUCCESS
+#455460000
+CreateFile
+hName=C:\Documents and Settings\All Users\Desktop\malware.exe
+desiredAccess=GENERIC_READ 
+creationDisposition=OPEN_EXISTING
+Return=54
+Return=SUCCESS
+#455460000
+CopyFile
+lpExistingFileName=C:\Documents and Settings\All Users\Desktop\malware.exe
+lpNewFileName=C:\WINDOWS\system32\drivers32\MusicMatch Jukebox 8.x Serial Generator.exe
+Return=1
+Return=SUCCESS
+#457350000
+CreateFile
+hName=C:\Documents and Settings\All Users\Desktop\malware.exe
+desiredAccess=GENERIC_READ 
+creationDisposition=OPEN_EXISTING
+Return=50
+Return=SUCCESS
+#457350000
+CopyFile
+lpExistingFileName=C:\Documents and Settings\All Users\Desktop\malware.exe
+lpNewFileName=C:\WINDOWS\system32\drivers32\Internet Download Manager 3.15 Serial Generator.exe
+Return=1
+Return=SUCCESS
+#460350000
+CreateFile
+hName=C:\Documents and Settings\All Users\Desktop\malware.exe
+desiredAccess=GENERIC_READ 
+creationDisposition=OPEN_EXISTING
+Return=54
+Return=SUCCESS
+#460350000
+CopyFile
+lpExistingFileName=C:\Documents and Settings\All Users\Desktop\malware.exe
+lpNewFileName=C:\WINDOWS\system32\drivers32\Internet Download Manager 3.x Serial Generator.exe
+Return=1
+Return=SUCCESS
+#461670000
+CreateFile
+hName=C:\Documents and Settings\All Users\Desktop\malware.exe
+desiredAccess=GENERIC_READ 
+creationDisposition=OPEN_EXISTING
+Return=50
+Return=SUCCESS
+#461670000
+CopyFile
+lpExistingFileName=C:\Documents and Settings\All Users\Desktop\malware.exe
+lpNewFileName=C:\WINDOWS\system32\drivers32\WinZip 9.x Serial Generator.exe
+Return=1
+Return=SUCCESS
+#463740000
+CreateFile
+hName=C:\Documents and Settings\All Users\Desktop\malware.exe
+desiredAccess=GENERIC_READ 
+creationDisposition=OPEN_EXISTING
+Return=54
+Return=SUCCESS
+#463740000
+CopyFile
+lpExistingFileName=C:\Documents and Settings\All Users\Desktop\malware.exe
+lpNewFileName=C:\WINDOWS\system32\drivers32\PhotoShow 2.0 Serial Generator.exe
+Return=1
+Return=SUCCESS
+#465100000
+CreateFile
+hName=C:\Documents and Settings\All Users\Desktop\malware.exe
+desiredAccess=GENERIC_READ 
+creationDisposition=OPEN_EXISTING
+Return=50
+Return=SUCCESS
+#465100000
+CopyFile
+lpExistingFileName=C:\Documents and Settings\All Users\Desktop\malware.exe
+lpNewFileName=C:\WINDOWS\system32\drivers32\PhotoShow 2.x Serial Generator.exe
+Return=1
+Return=SUCCESS
+#466440000
+CreateFile
+hName=C:\Documents and Settings\All Users\Desktop\malware.exe
+desiredAccess=GENERIC_READ 
+creationDisposition=OPEN_EXISTING
+Return=54
+Return=SUCCESS
+#466440000
+CopyFile
+lpExistingFileName=C:\Documents and Settings\All Users\Desktop\malware.exe
+lpNewFileName=C:\WINDOWS\system32\drivers32\SWiSH 2.0 Serial Generator.exe
+Return=1
+Return=SUCCESS
+#468950000
+CreateFile
+hName=C:\Documents and Settings\All Users\Desktop\malware.exe
+desiredAccess=GENERIC_READ 
+creationDisposition=OPEN_EXISTING
+Return=50
+Return=SUCCESS
+#468950000
+CopyFile
+lpExistingFileName=C:\Documents and Settings\All Users\Desktop\malware.exe
+lpNewFileName=C:\WINDOWS\system32\drivers32\SWiSH 2.x Serial Generator.exe
+Return=1
+Return=SUCCESS
+#470820000
+CreateFile
+hName=C:\Documents and Settings\All Users\Desktop\malware.exe
+desiredAccess=GENERIC_READ 
+creationDisposition=OPEN_EXISTING
+Return=54
+Return=SUCCESS
+#470820000
+CopyFile
+lpExistingFileName=C:\Documents and Settings\All Users\Desktop\malware.exe
+lpNewFileName=C:\WINDOWS\system32\drivers32\ACDSee 2.4.x Serial Generator.exe
+Return=1
+Return=SUCCESS
+#474860000
+CreateFile
+hName=C:\Documents and Settings\All Users\Desktop\malware.exe
+desiredAccess=GENERIC_READ 
+creationDisposition=OPEN_EXISTING
+Return=50
+Return=SUCCESS
+#474860000
+CopyFile
+lpExistingFileName=C:\Documents and Settings\All Users\Desktop\malware.exe
+lpNewFileName=C:\WINDOWS\system32\drivers32\Paint Shop Pro 8.x Serial Generator.exe
+Return=1
+Return=SUCCESS
+#479860000
+CreateFile
+hName=C:\Documents and Settings\All Users\Desktop\malware.exe
+desiredAccess=GENERIC_READ 
+creationDisposition=OPEN_EXISTING
+Return=54
+Return=SUCCESS
+#479860000
+CopyFile
+lpExistingFileName=C:\Documents and Settings\All Users\Desktop\malware.exe
+lpNewFileName=C:\WINDOWS\system32\drivers32\Adobe Photoshop 7.x Serial Generator.exe
+Return=1
+Return=SUCCESS
+#483510000
+CreateFile
+hName=C:\Documents and Settings\All Users\Desktop\malware.exe
+desiredAccess=GENERIC_READ 
+creationDisposition=OPEN_EXISTING
+Return=50
+Return=SUCCESS
+#483510000
+CopyFile
+lpExistingFileName=C:\Documents and Settings\All Users\Desktop\malware.exe
+lpNewFileName=C:\WINDOWS\system32\drivers32\Adobe Photoshop 8.x Serial Generator.exe
+Return=1
+Return=SUCCESS
+#486570000
+CreateFile
+hName=C:\Documents and Settings\All Users\Desktop\malware.exe
+desiredAccess=GENERIC_READ 
+creationDisposition=OPEN_EXISTING
+Return=54
+Return=SUCCESS
+#486570000
+CopyFile
+lpExistingFileName=C:\Documents and Settings\All Users\Desktop\malware.exe
+lpNewFileName=C:\WINDOWS\system32\drivers32\Paint Shop Pro 9.x Serial Generator.exe
+Return=1
+Return=SUCCESS
+#489950000
+CreateFile
+hName=C:\Documents and Settings\All Users\Desktop\malware.exe
+desiredAccess=GENERIC_READ 
+creationDisposition=OPEN_EXISTING
+Return=50
+Return=SUCCESS
+#489950000
+CopyFile
+lpExistingFileName=C:\Documents and Settings\All Users\Desktop\malware.exe
+lpNewFileName=C:\WINDOWS\system32\drivers32\Macromedia Flash MX 6.x Serial Generator.exe
+Return=1
+Return=SUCCESS
+#491130000
+CreateFile
+hName=C:\Documents and Settings\All Users\Desktop\malware.exe
+desiredAccess=GENERIC_READ 
+creationDisposition=OPEN_EXISTING
+Return=54
+Return=SUCCESS
+#491130000
+CopyFile
+lpExistingFileName=C:\Documents and Settings\All Users\Desktop\malware.exe
+lpNewFileName=C:\WINDOWS\system32\drivers32\Ulead PhotoImpact 8.x Serial Generator.exe
+Return=1
+Return=SUCCESS
+#493400000
+CreateFile
+hName=C:\Documents and Settings\All Users\Desktop\malware.exe
+desiredAccess=GENERIC_READ 
+creationDisposition=OPEN_EXISTING
+Return=50
+Return=SUCCESS
+#493400000
+CopyFile
+lpExistingFileName=C:\Documents and Settings\All Users\Desktop\malware.exe
+lpNewFileName=C:\WINDOWS\system32\drivers32\Ulead PhotoImpact 9.x Serial Generator.exe
+Return=1
+Return=SUCCESS
+#494870000
+CreateFile
+hName=C:\Documents and Settings\All Users\Desktop\malware.exe
+desiredAccess=GENERIC_READ 
+creationDisposition=OPEN_EXISTING
+Return=54
+Return=SUCCESS
+#494870000
+CopyFile
+lpExistingFileName=C:\Documents and Settings\All Users\Desktop\malware.exe
+lpNewFileName=C:\WINDOWS\system32\drivers32\Ulead GIF Animator 5.x Serial Generator.exe
+Return=1
+Return=SUCCESS
+#496690000
+CreateFile
+hName=C:\Documents and Settings\All Users\Desktop\malware.exe
+desiredAccess=GENERIC_READ 
+creationDisposition=OPEN_EXISTING
+Return=50
+Return=SUCCESS
+#496690000
+CopyFile
+lpExistingFileName=C:\Documents and Settings\All Users\Desktop\malware.exe
+lpNewFileName=C:\WINDOWS\system32\drivers32\Ulead GIF Animator 6.x Serial Generator.exe
+Return=1
+Return=SUCCESS
+#498120000
+CreateFile
+hName=C:\Documents and Settings\All Users\Desktop\malware.exe
+desiredAccess=GENERIC_READ 
+creationDisposition=OPEN_EXISTING
+Return=54
+Return=SUCCESS
+#498120000
+CopyFile
+lpExistingFileName=C:\Documents and Settings\All Users\Desktop\malware.exe
+lpNewFileName=C:\WINDOWS\system32\drivers32\Nero Burning ROM 5.5.x Serial Generator.exe
+Return=1
+Return=SUCCESS
+#499550000
+CreateFile
+hName=C:\Documents and Settings\All Users\Desktop\malware.exe
+desiredAccess=GENERIC_READ 
+creationDisposition=OPEN_EXISTING
+Return=50
+Return=SUCCESS
+#499550000
+CopyFile
+lpExistingFileName=C:\Documents and Settings\All Users\Desktop\malware.exe
+lpNewFileName=C:\WINDOWS\system32\drivers32\Nero Burning ROM 6.x Serial Generator.exe
+Return=1
+Return=SUCCESS
+#500860000
+CreateFile
+hName=C:\Documents and Settings\All Users\Desktop\malware.exe
+desiredAccess=GENERIC_READ 
+creationDisposition=OPEN_EXISTING
+Return=54
+Return=SUCCESS
+#500860000
+CopyFile
+lpExistingFileName=C:\Documents and Settings\All Users\Desktop\malware.exe
+lpNewFileName=C:\WINDOWS\system32\drivers32\Network Cable e ADSL Speed 1.x Serial Generator.exe
+Return=1
+Return=SUCCESS
+#502410000
+CreateFile
+hName=C:\Documents and Settings\All Users\Desktop\malware.exe
+desiredAccess=GENERIC_READ 
+creationDisposition=OPEN_EXISTING
+Return=50
+Return=SUCCESS
+#502410000
+CopyFile
+lpExistingFileName=C:\Documents and Settings\All Users\Desktop\malware.exe
+lpNewFileName=C:\WINDOWS\system32\drivers32\Network Cable e ADSL Speed 1.0.6 Serial Generator.exe
+Return=1
+Return=SUCCESS
+#503530000
+CreateFile
+hName=C:\Documents and Settings\All Users\Desktop\malware.exe
+desiredAccess=GENERIC_READ 
+creationDisposition=OPEN_EXISTING
+Return=54
+Return=SUCCESS
+#503530000
+CopyFile
+lpExistingFileName=C:\Documents and Settings\All Users\Desktop\malware.exe
+lpNewFileName=C:\WINDOWS\system32\drivers32\NetPumper 1.03 Serial Generator.exe
+Return=1
+Return=SUCCESS
+#504770000
+CreateFile
+hName=C:\Documents and Settings\All Users\Desktop\malware.exe
+desiredAccess=GENERIC_READ 
+creationDisposition=OPEN_EXISTING
+Return=50
+Return=SUCCESS
+#504770000
+CopyFile
+lpExistingFileName=C:\Documents and Settings\All Users\Desktop\malware.exe
+lpNewFileName=C:\WINDOWS\system32\drivers32\Internet Turbo 2003 5.4 Serial Generator.exe
+Return=1
+Return=SUCCESS
+#505620000
+CreateFile
+hName=C:\Documents and Settings\All Users\Desktop\malware.exe
+desiredAccess=GENERIC_READ 
+creationDisposition=OPEN_EXISTING
+Return=54
+Return=SUCCESS
+#505620000
+CopyFile
+lpExistingFileName=C:\Documents and Settings\All Users\Desktop\malware.exe
+lpNewFileName=C:\WINDOWS\system32\drivers32\Internet Turbo 2003 5.x Serial Generator.exe
+Return=1
+Return=SUCCESS
+#506870000
+CreateFile
+hName=C:\Documents and Settings\All Users\Desktop\malware.exe
+desiredAccess=GENERIC_READ 
+creationDisposition=OPEN_EXISTING
+Return=50
+Return=SUCCESS
+#506870000
+CopyFile
+lpExistingFileName=C:\Documents and Settings\All Users\Desktop\malware.exe
+lpNewFileName=C:\WINDOWS\system32\drivers32\KaZaA Speedup 3.03 Serial Generator.exe
+Return=1
+Return=SUCCESS
+#507370000
+CreateFile
+hName=C:\Documents and Settings\All Users\Desktop\malware.exe
+desiredAccess=GENERIC_READ 
+creationDisposition=OPEN_EXISTING
+Return=54
+Return=SUCCESS
+#507370000
+CopyFile
+lpExistingFileName=C:\Documents and Settings\All Users\Desktop\malware.exe
+lpNewFileName=C:\WINDOWS\system32\drivers32\KaZaA Speedup 3.x Serial Generator.exe
+Return=1
+Return=SUCCESS
+#507880000
+CreateFile
+hName=C:\Documents and Settings\All Users\Desktop\malware.exe
+desiredAccess=GENERIC_READ 
+creationDisposition=OPEN_EXISTING
+Return=50
+Return=SUCCESS
+#507880000
+CopyFile
+lpExistingFileName=C:\Documents and Settings\All Users\Desktop\malware.exe
+lpNewFileName=C:\WINDOWS\system32\drivers32\GetRight 5.0 Serial Generator.exe
+Return=1
+Return=SUCCESS
+#508760000
+CreateFile
+hName=C:\Documents and Settings\All Users\Desktop\malware.exe
+desiredAccess=GENERIC_READ 
+creationDisposition=OPEN_EXISTING
+Return=54
+Return=SUCCESS
+#508760000
+CopyFile
+lpExistingFileName=C:\Documents and Settings\All Users\Desktop\malware.exe
+lpNewFileName=C:\WINDOWS\system32\drivers32\GetRight 5.x Serial Generator.exe
+Return=1
+Return=SUCCESS
+#509640000
+CreateFile
+hName=C:\Documents and Settings\All Users\Desktop\malware.exe
+desiredAccess=GENERIC_READ 
+creationDisposition=OPEN_EXISTING
+Return=50
+Return=SUCCESS
+#509640000
+CopyFile
+lpExistingFileName=C:\Documents and Settings\All Users\Desktop\malware.exe
+lpNewFileName=C:\WINDOWS\system32\drivers32\GetRight 6.x Serial Generator.exe
+Return=1
+Return=SUCCESS
+#510500000
+CreateFile
+hName=C:\Documents and Settings\All Users\Desktop\malware.exe
+desiredAccess=GENERIC_READ 
+creationDisposition=OPEN_EXISTING
+Return=54
+Return=SUCCESS
+#510500000
+CopyFile
+lpExistingFileName=C:\Documents and Settings\All Users\Desktop\malware.exe
+lpNewFileName=C:\WINDOWS\system32\drivers32\mIRC 6.03 Serial Generator.exe
+Return=1
+Return=SUCCESS
+#512170000
+CreateFile
+hName=C:\Documents and Settings\All Users\Desktop\malware.exe
+desiredAccess=GENERIC_READ 
+creationDisposition=OPEN_EXISTING
+Return=50
+Return=SUCCESS
+#512170000
+CopyFile
+lpExistingFileName=C:\Documents and Settings\All Users\Desktop\malware.exe
+lpNewFileName=C:\WINDOWS\system32\drivers32\mIRC 6.x Serial Generator.exe
+Return=1
+Return=SUCCESS
+#513820000
+CreateFile
+hName=C:\Documents and Settings\All Users\Desktop\malware.exe
+desiredAccess=GENERIC_READ 
+creationDisposition=OPEN_EXISTING
+Return=54
+Return=SUCCESS
+#513810000
+CopyFile
+lpExistingFileName=C:\Documents and Settings\All Users\Desktop\malware.exe
+lpNewFileName=C:\WINDOWS\system32\drivers32\Direct Connect 1.x Serial Generator.exe
+Return=1
+Return=SUCCESS
+#515000000
+CreateFile
+hName=C:\Documents and Settings\All Users\Desktop\malware.exe
+desiredAccess=GENERIC_READ 
+creationDisposition=OPEN_EXISTING
+Return=50
+Return=SUCCESS
+#515000000
+CopyFile
+lpExistingFileName=C:\Documents and Settings\All Users\Desktop\malware.exe
+lpNewFileName=C:\WINDOWS\system32\drivers32\ICUII 5.7 Serial Generator.exe
+Return=1
+Return=SUCCESS
+#516090000
+CreateFile
+hName=C:\Documents and Settings\All Users\Desktop\malware.exe
+desiredAccess=GENERIC_READ 
+creationDisposition=OPEN_EXISTING
+Return=54
+Return=SUCCESS
+#516090000
+CopyFile
+lpExistingFileName=C:\Documents and Settings\All Users\Desktop\malware.exe
+lpNewFileName=C:\WINDOWS\system32\drivers32\ICUII 5.x.exe.exe
+Return=1
+Return=SUCCESS
+#517080000
+CreateFile
+hName=C:\Documents and Settings\All Users\Desktop\malware.exe
+desiredAccess=GENERIC_READ 
+creationDisposition=OPEN_EXISTING
+Return=50
+Return=SUCCESS
+#517080000
+CopyFile
+lpExistingFileName=C:\Documents and Settings\All Users\Desktop\malware.exe
+lpNewFileName=C:\WINDOWS\system32\drivers32\GeoWhere 2.11 Serial Generator.exe
+Return=1
+Return=SUCCESS
+#518670000
+CreateFile
+hName=C:\Documents and Settings\All Users\Desktop\malware.exe
+desiredAccess=GENERIC_READ 
+creationDisposition=OPEN_EXISTING
+Return=54
+Return=SUCCESS
+#518670000
+CopyFile
+lpExistingFileName=C:\Documents and Settings\All Users\Desktop\malware.exe
+lpNewFileName=C:\WINDOWS\system32\drivers32\GeoWhere 2.x Serial Generator.exe
+Return=1
+Return=SUCCESS
+#519730000
+CreateFile
+hName=C:\Documents and Settings\All Users\Desktop\malware.exe
+desiredAccess=GENERIC_READ 
+creationDisposition=OPEN_EXISTING
+Return=50
+Return=SUCCESS
+#519730000
+CopyFile
+lpExistingFileName=C:\Documents and Settings\All Users\Desktop\malware.exe
+lpNewFileName=C:\WINDOWS\system32\drivers32\LingoWare 3.0 Serial Generator.exe
+Return=1
+Return=SUCCESS
+#520440000
+CreateFile
+hName=C:\Documents and Settings\All Users\Desktop\malware.exe
+desiredAccess=GENERIC_READ 
+creationDisposition=OPEN_EXISTING
+Return=54
+Return=SUCCESS
+#520440000
+CopyFile
+lpExistingFileName=C:\Documents and Settings\All Users\Desktop\malware.exe
+lpNewFileName=C:\WINDOWS\system32\drivers32\FlashGet 1.3 Serial Generator.exe
+Return=1
+Return=SUCCESS
+#521300000
+CreateFile
+hName=C:\Documents and Settings\All Users\Desktop\malware.exe
+desiredAccess=GENERIC_READ 
+creationDisposition=OPEN_EXISTING
+Return=50
+Return=SUCCESS
+#521300000
+CopyFile
+lpExistingFileName=C:\Documents and Settings\All Users\Desktop\malware.exe
+lpNewFileName=C:\WINDOWS\system32\drivers32\FlashGet 1.x Serial Generator.exe
+Return=1
+Return=SUCCESS
+#522180000
+CreateFile
+hName=C:\Documents and Settings\All Users\Desktop\malware.exe
+desiredAccess=GENERIC_READ 
+creationDisposition=OPEN_EXISTING
+Return=54
+Return=SUCCESS
+#522180000
+CopyFile
+lpExistingFileName=C:\Documents and Settings\All Users\Desktop\malware.exe
+lpNewFileName=C:\WINDOWS\system32\drivers32\SnagIt 6.2.2 Serial Generator.exe
+Return=1
+Return=SUCCESS

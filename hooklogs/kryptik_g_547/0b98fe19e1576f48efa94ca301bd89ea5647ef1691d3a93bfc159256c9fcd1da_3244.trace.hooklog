@@ -1,0 +1,426 @@
+3244 malware.exe
+#278170000
+LoadLibrary
+lpFileName=C:\WINDOWS\system32\IMM32.DLL
+Return=76390000
+Return=SUCCESS
+#278930000
+LoadLibrary
+lpFileName=gdi32.dll
+Return=77f10000
+Return=SUCCESS
+#278640000
+LoadLibrary
+lpFileName=LPK.DLL
+Return=629c0000
+Return=SUCCESS
+#279090000
+RegQueryValue
+hKey=HKEY_LOCAL_MACHINE\SYSTEM\CurrentControlSet\Control\Session Manager\CriticalSectionTimeout
+Return=0
+Return=0
+#279090000
+RegQueryValue
+hKey=HKEY_LOCAL_MACHINE\Software\Microsoft\Ole\RWLockResourceTimeOut
+Return=2
+Return=2
+#279230000
+RegQueryValue
+hKey=HKEY_LOCAL_MACHINE\SOFTWARE\Microsoft\OLE\MinimumFreeMemPercentageToCreateProcess
+Return=2
+Return=2
+#279230000
+RegQueryValue
+hKey=HKEY_LOCAL_MACHINE\SOFTWARE\Microsoft\OLE\MinimumFreeMemPercentageToCreateObject
+Return=2
+Return=2
+#279280000
+LoadLibrary
+lpFileName=kernel32.dll
+Return=7c800000
+Return=SUCCESS
+#301700000
+CreateFile
+hName=C:\Documents and Settings\All Users\Desktop\malware.exe
+desiredAccess=GENERIC_READ 
+creationDisposition=OPEN_EXISTING
+Return=3c
+Return=SUCCESS
+#301700000
+CreateFile
+hName=C:\Documents and Settings\All Users\Desktop\malware.exe
+desiredAccess=GENERIC_READ 
+creationDisposition=OPEN_EXISTING
+Return=3c
+Return=SUCCESS
+#303230000
+RegQueryValue
+hKey=HKEY_LOCAL_MACHINE\SYSTEM\Setup\SystemSetupInProgress
+Return=0
+Return=0
+type=REG_DWORD
+data=0
+#304090000
+CreateFile
+hName=C:\WINDOWS\WindowsShell.Manifest
+desiredAccess=GENERIC_READ 
+creationDisposition=OPEN_EXISTING
+Return=48
+Return=SUCCESS
+#304310000
+RegQueryValue
+hKey=HKEY_CURRENT_USER\Control Panel\Desktop\SmoothScroll
+Return=2
+Return=2
+#304320000
+RegQueryValue
+hKey=HKEY_CURRENT_USER\software\Microsoft\Windows\CurrentVersion\Explorer\Advanced\EnableBalloonTips
+Return=2
+Return=2
+#304330000
+RegEnumValue
+hKey=HKEY_LOCAL_MACHINE\Software\Microsoft\Windows NT\CurrentVersion\LanguagePack\SURR
+type=REG_DWORD
+data=2
+Return=0
+Return=0
+#303480000
+LoadLibrary
+lpFileName=comctl32.dll
+Return=773d0000
+Return=SUCCESS
+#305060000
+RegQueryValue
+hKey=HKEY_CURRENT_USER\Control Panel\Desktop\SmoothScroll
+Return=2
+Return=2
+#305070000
+LoadLibrary
+lpFileName=imm32.dll
+Return=76390000
+Return=SUCCESS
+#304520000
+LoadLibrary
+lpFileName=comctl32.dll
+Return=5d090000
+Return=SUCCESS
+#302850000
+LoadLibrary
+lpFileName=shell32.dll
+Return=7c9c0000
+Return=SUCCESS
+#306170000
+LoadLibrary
+lpFileName=advapi32.dll
+Return=77dd0000
+Return=SUCCESS
+#306780000
+LoadLibrary
+lpFileName=kernel32.dll
+Return=7c800000
+Return=SUCCESS
+#307130000
+LoadLibrary
+lpFileName=advapi32.dll
+Return=77dd0000
+Return=SUCCESS
+#308850000
+LoadLibrary
+lpFileName=comctl32.dll
+Return=773d0000
+Return=SUCCESS
+#309120000
+RegCreateKey
+hKey=HKEY_CURRENT_USER\SOFTWARE\Microsoft\Windows\CurrentVersion\Internet Settings
+Return=0
+Return=0
+#305390000
+LoadLibrary
+lpFileName=wininet.dll
+Return=771b0000
+Return=SUCCESS
+#310180000
+LoadLibrary
+lpFileName=comctl32.dll
+Return=773d0000
+Return=SUCCESS
+#310480000
+RegQueryValue
+hKey=HKEY_LOCAL_MACHINE\Software\Microsoft\Windows\CurrentVersion\Internet Settings\DisableImprovedZoneCheck
+Return=2
+Return=2
+#310540000
+RegQueryValue
+hKey=HKEY_LOCAL_MACHINE\Software\Microsoft\Internet Explorer\Main\FeatureControl\FEATURE_OBJECT_CACHING\malware.exe
+Return=2
+Return=2
+#310540000
+RegQueryValue
+hKey=HKEY_LOCAL_MACHINE\Software\Microsoft\Internet Explorer\Main\FeatureControl\FEATURE_OBJECT_CACHING\*
+Return=2
+Return=2
+#310550000
+RegQueryValue
+hKey=HKEY_LOCAL_MACHINE\Software\Microsoft\Internet Explorer\Main\FeatureControl\FEATURE_ZONE_ELEVATION\malware.exe
+Return=2
+Return=2
+#310550000
+RegQueryValue
+hKey=HKEY_LOCAL_MACHINE\Software\Microsoft\Internet Explorer\Main\FeatureControl\FEATURE_ZONE_ELEVATION\*
+Return=2
+Return=2
+#310560000
+RegQueryValue
+hKey=HKEY_LOCAL_MACHINE\Software\Microsoft\Internet Explorer\Main\FeatureControl\FEATURE_MIME_HANDLING\malware.exe
+Return=2
+Return=2
+#310560000
+RegQueryValue
+hKey=HKEY_LOCAL_MACHINE\Software\Microsoft\Internet Explorer\Main\FeatureControl\FEATURE_MIME_HANDLING\*
+Return=2
+Return=2
+#310560000
+RegQueryValue
+hKey=HKEY_LOCAL_MACHINE\Software\Microsoft\Internet Explorer\Main\FeatureControl\FEATURE_MIME_SNIFFING\malware.exe
+Return=2
+Return=2
+#310570000
+RegQueryValue
+hKey=HKEY_LOCAL_MACHINE\Software\Microsoft\Internet Explorer\Main\FeatureControl\FEATURE_MIME_SNIFFING\*
+Return=2
+Return=2
+#310570000
+RegQueryValue
+hKey=HKEY_LOCAL_MACHINE\Software\Microsoft\Internet Explorer\Main\FeatureControl\FEATURE_WINDOW_RESTRICTIONS\malware.exe
+Return=2
+Return=2
+#310570000
+RegQueryValue
+hKey=HKEY_LOCAL_MACHINE\Software\Microsoft\Internet Explorer\Main\FeatureControl\FEATURE_WINDOW_RESTRICTIONS\*
+Return=2
+Return=2
+#310580000
+RegQueryValue
+hKey=HKEY_LOCAL_MACHINE\Software\Microsoft\Internet Explorer\Main\FeatureControl\FEATURE_WEBOC_POPUPMANAGEMENT\malware.exe
+Return=2
+Return=2
+#310580000
+RegQueryValue
+hKey=HKEY_LOCAL_MACHINE\Software\Microsoft\Internet Explorer\Main\FeatureControl\FEATURE_WEBOC_POPUPMANAGEMENT\*
+Return=2
+Return=2
+#310590000
+RegQueryValue
+hKey=HKEY_LOCAL_MACHINE\Software\Microsoft\Internet Explorer\Main\FeatureControl\FEATURE_BEHAVIORS\malware.exe
+Return=2
+Return=2
+#310590000
+RegQueryValue
+hKey=HKEY_LOCAL_MACHINE\Software\Microsoft\Internet Explorer\Main\FeatureControl\FEATURE_BEHAVIORS\*
+Return=0
+Return=0
+type=REG_DWORD
+data=1
+#310600000
+RegQueryValue
+hKey=HKEY_LOCAL_MACHINE\Software\Microsoft\Internet Explorer\Main\FeatureControl\FEATURE_DISABLE_MK_PROTOCOL\malware.exe
+Return=2
+Return=2
+#310600000
+RegQueryValue
+hKey=HKEY_LOCAL_MACHINE\Software\Microsoft\Internet Explorer\Main\FeatureControl\FEATURE_DISABLE_MK_PROTOCOL\*
+Return=0
+Return=0
+type=REG_DWORD
+data=1
+#310600000
+RegQueryValue
+hKey=HKEY_CURRENT_USER\Software\Microsoft\Internet Explorer\Main\FeatureControl\FEATURE_LOCALMACHINE_LOCKDOWN\malware.exe
+Return=2
+Return=2
+#310610000
+RegQueryValue
+hKey=HKEY_CURRENT_USER\Software\Microsoft\Internet Explorer\Main\FeatureControl\FEATURE_LOCALMACHINE_LOCKDOWN\*
+Return=2
+Return=2
+#310610000
+RegQueryValue
+hKey=HKEY_LOCAL_MACHINE\Software\Microsoft\Internet Explorer\Main\FeatureControl\FEATURE_LOCALMACHINE_LOCKDOWN\malware.exe
+Return=2
+Return=2
+#310610000
+RegQueryValue
+hKey=HKEY_LOCAL_MACHINE\Software\Microsoft\Internet Explorer\Main\FeatureControl\FEATURE_LOCALMACHINE_LOCKDOWN\*
+Return=2
+Return=2
+#310640000
+RegQueryValue
+hKey=HKEY_LOCAL_MACHINE\Software\Microsoft\Internet Explorer\Main\FeatureControl\FEATURE_PROTOCOL_LOCKDOWN\malware.exe
+Return=2
+Return=2
+#310640000
+RegQueryValue
+hKey=HKEY_LOCAL_MACHINE\Software\Microsoft\Internet Explorer\Main\FeatureControl\FEATURE_PROTOCOL_LOCKDOWN\*
+Return=2
+Return=2
+#310650000
+RegQueryValue
+hKey=HKEY_LOCAL_MACHINE\Software\Microsoft\Internet Explorer\Main\FeatureControl\FEATURE_SAFE_BINDTOOBJECT\malware.exe
+Return=2
+Return=2
+#310650000
+RegQueryValue
+hKey=HKEY_LOCAL_MACHINE\Software\Microsoft\Internet Explorer\Main\FeatureControl\FEATURE_SAFE_BINDTOOBJECT\*
+Return=2
+Return=2
+#309190000
+LoadLibrary
+lpFileName=urlmon.dll
+Return=7e1e0000
+Return=SUCCESS
+#310700000
+LoadLibrary
+lpFileName=wsock32.dll
+Return=71ad0000
+Return=SUCCESS
+#312340000
+RegQueryValue
+hKey=HKEY_LOCAL_MACHINE\Software\Microsoft\Windows NT\CurrentVersion\winlogon\UserEnvDebugLevel
+Return=2
+Return=2
+#312360000
+RegQueryValue
+hKey=HKEY_LOCAL_MACHINE\Software\Microsoft\Windows NT\CurrentVersion\winlogon\ChkAccDebugLevel
+Return=2
+Return=2
+#312370000
+RegQueryValue
+hKey=HKEY_LOCAL_MACHINE\System\CurrentControlSet\Control\ProductOptions\ProductType
+Return=0
+Return=0
+type=REG_SZ
+data=WinNT
+#312480000
+RegQueryValue
+hKey=HKEY_CURRENT_USER\Software\Microsoft\Windows\CurrentVersion\Explorer\User Shell Folders\Personal
+Return=0
+Return=0
+type=REG_EXPAND_SZ
+data=%
+#312490000
+RegQueryValue
+hKey=HKEY_CURRENT_USER\Software\Microsoft\Windows\CurrentVersion\Explorer\User Shell Folders\Local Settings
+Return=0
+Return=0
+type=REG_EXPAND_SZ
+data=%
+#312540000
+RegQueryValue
+hKey=HKEY_LOCAL_MACHINE\Software\Microsoft\Windows NT\CurrentVersion\winlogon\RsopDebugLevel
+Return=2
+Return=2
+#312540000
+RegQueryValue
+hKey=HKEY_LOCAL_MACHINE\Software\Microsoft\Windows NT\CurrentVersion\winlogon\UserEnvDebugLevel
+Return=2
+Return=2
+#312540000
+RegQueryValue
+hKey=HKEY_LOCAL_MACHINE\Software\Microsoft\Windows NT\CurrentVersion\winlogon\RsopLogging
+Return=2
+Return=2
+#312560000
+RegQueryValue
+hKey=HKEY_LOCAL_MACHINE\Software\Microsoft\Windows NT\CurrentVersion\winlogon\UserEnvDebugLevel
+Return=2
+Return=2
+#312120000
+LoadLibrary
+lpFileName=userenv.dll
+Return=769c0000
+Return=SUCCESS
+#313200000
+RegQueryValue
+hKey=HKEY_CURRENT_USER\Software\Microsoft\Windows\CurrentVersion\ThemeManager\Compositing
+Return=2
+Return=2
+#313220000
+RegQueryValue
+hKey=HKEY_CURRENT_USER\Control Panel\Desktop\LameButtonText
+Return=2
+Return=2
+#313230000
+LoadLibrary
+lpFileName=uxtheme.dll
+Return=5ad70000
+Return=SUCCESS
+#314510000
+LoadLibrary
+lpFileName=ole32.dll
+Return=774e0000
+Return=SUCCESS
+#314530000
+LoadLibrary
+lpFileName=crypt32.dll
+Return=77a80000
+Return=SUCCESS
+#314700000
+LoadLibrary
+lpFileName=advapi32.dll
+Return=77dd0000
+Return=SUCCESS
+#314760000
+LoadLibrary
+lpFileName=shell32.dll
+Return=7c9c0000
+Return=SUCCESS
+#314950000
+LoadLibrary
+lpFileName=netapi32.dll
+Return=5b860000
+Return=SUCCESS
+#315140000
+LoadLibrary
+lpFileName=kernel32.dll
+Return=7c800000
+Return=SUCCESS
+#315150000
+LoadLibrary
+lpFileName=msi.dll
+Return=7d1e0000
+Return=SUCCESS
+#315910000
+LoadLibrary
+lpFileName=rpcrt4.dll
+Return=77e70000
+Return=SUCCESS
+#315920000
+LoadLibrary
+lpFileName=C:\Documents and Settings\All Users\Desktop\malware.exe
+Return=400000
+Return=SUCCESS
+#315930000
+LoadLibrary
+lpFileName=C:\Documents and Settings\All Users\Desktop\malware.exe
+Return=400000
+Return=SUCCESS
+#315930000
+LoadLibrary
+lpFileName=C:\Documents and Settings\All Users\Desktop\malware.exe
+Return=400000
+Return=SUCCESS
+#315930000
+LoadLibrary
+lpFileName=C:\Documents and Settings\All Users\Desktop\malware.exe
+Return=400000
+Return=SUCCESS
+#315510000
+LoadLibrary
+lpFileName=pstorec.dll
+Return=5e0c0000
+Return=SUCCESS
+#315930000
+LoadLibrary
+lpFileName=userenv.dll
+Return=769c0000
+Return=SUCCESS
